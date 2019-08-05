@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Deimos</string>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="user_name">Vladimir Luna</string>
+    <string name="lector_qr">Lector QR</string>
+    <string name="lector_ar">Lector AR</string>
+    <string name="historico">Histórico</string>
+    <string name="revista">Revista</string>
+    <string name="facebook">Facebook</string>
+    <string name="twitter">Twitter</string>
+    <string name="instagram">Instagram</string>
+    <string name="youtube">Youtube</string>
+    <string name="sitioweb">Sitio Web</string>
+    <string name="suscripcion">Suscripción</string>
+</resources>

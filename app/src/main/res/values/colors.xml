@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#777777</color>
+    <color name="colorPrimaryDark">#2F2F2F</color>
+    <color name="colorAccent">#ffffff</color>
+    <color name="white">#FFFFFF</color>
+    <color name="grisTransparente">#88676767</color>
+    <color name="verdeTransparente">#882ECC71</color>
+    <color name="moradoTransparente">#88530a21</color>
+</resources>
