@@ -10,7 +10,7 @@
     <LinearLayout
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_gravity="start">
+        android:layout_gravity="center">
 
         <ImageView
             android:id="@+id/img_logo"
@@ -20,14 +20,19 @@
             app:srcCompat="@drawable/logo" />
 
     </LinearLayout>
-
     <LinearLayout
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="right"
-        android:layout_marginEnd="10dp"/>
+        android:layout_marginEnd="10dp">
 
+        <ImageView
+            android:id="@+id/btn_buscar"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_gravity="center_vertical"
+            android:onClick="ShowPopup"
+            android:src="@drawable/buscar" />
 
-
-
+    </LinearLayout>
 </android.support.v7.widget.Toolbar>
