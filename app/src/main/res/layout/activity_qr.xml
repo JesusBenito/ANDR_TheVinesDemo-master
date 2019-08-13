@@ -9,7 +9,7 @@
 
         <include
             android:id="@+id/toolbar"
-            layout="@layout/toolbar_deimos2"
+            layout="@layout/toolbar_thevines"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"/>
 

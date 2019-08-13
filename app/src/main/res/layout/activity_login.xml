@@ -6,6 +6,7 @@
     android:layout_height="wrap_content"
     android:scaleType = "centerCrop">
 
+
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -25,13 +26,15 @@
             android:paddingRight="10dp"
             android:paddingBottom="30dp">
 
-            <ImageView
+
+
+            <ImageButton
                 android:id="@+id/img_deimos"
                 android:layout_width="100dp"
-                android:layout_height="100dp"
+                android:layout_height="101dp"
                 android:layout_alignParentTop="true"
                 android:layout_centerHorizontal="true"
-                app:srcCompat="@drawable/user2" />
+                app:srcCompat="@drawable/thevines" />
 
             <TextView
                 android:id="@+id/tv_celular"
@@ -92,7 +95,6 @@
                 android:layout_below="@+id/et_passusuario"
                 android:layout_centerHorizontal="true"
                 android:layout_marginTop="30dp"
-                android:background="@drawable/rectbutton"
                 android:text="Entrar"
                 android:textColor="@android:color/white"
                 android:textSize="16sp" />

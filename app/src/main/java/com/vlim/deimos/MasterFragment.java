@@ -44,7 +44,7 @@ public class MasterFragment extends ListFragment {
 
                 break;
             case "ITEM3":   // HISTORICO
-                Intent historico = new Intent(getContext(), HistoricosActivity.class);
+                Intent historico = new Intent(getContext(), CavasActivity.class);
                 startActivity(historico);
                 break;
             case "ITEM4":   // REVISTA

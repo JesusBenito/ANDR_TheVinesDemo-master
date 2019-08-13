@@ -6,12 +6,12 @@
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
-        android:label="@string/app_name"
+        android:label="@string/app_name2"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/DeimosTheme">
+        android:theme="@style/AppTheme">
         <activity android:name=".RevistaActivity"></activity>
-        <activity android:name=".HistoricosActivity" />
+        <activity android:name=".CavasActivity" />
         <activity android:name=".QRActivity" />
         <activity android:name=".LoginActivity" />
         <activity android:name=".SplashActivity"
