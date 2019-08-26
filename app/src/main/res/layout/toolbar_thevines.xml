@@ -2,7 +2,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:background="@color/vino"
+    android:background="@color/vino2"
     android:elevation="10dp"
     android:theme="@style/AppTheme.AppBarOverlay">
 

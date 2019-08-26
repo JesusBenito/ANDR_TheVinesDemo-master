@@ -8,4 +8,10 @@
     <color name="verdeTransparente">#882ECC71</color>
     <color name="moradoTransparente">#88530a21</color>
     <color name="vino">#530a21</color>
+    <color name="vino2">#320E0E</color>
+    <color name="cafe">#3F1A1A</color>
+    <color name="cafe2">#A1887F</color>
+    <!-- Custom Separador-->
+    <color name="gray_separador_border">#FFF</color>
+    <color name="orange_separador_text">#FF6016</color>
 </resources>

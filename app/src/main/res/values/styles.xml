@@ -43,4 +43,9 @@
         <item name="android:popupBackground">@android:color/white</item>
     </style>
 
+    <style name="separator_login">
+        <item name="android:background">@drawable/draw_bg_separador_gradient</item>
+        <item name="android:layout_gravity">center_vertical</item>
+    </style>
+
 </resources>
