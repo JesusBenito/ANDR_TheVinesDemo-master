@@ -122,7 +122,7 @@
                             android:layout_height="186dp"
                             android:layout_marginVertical="200dp"
                             android:layout_marginLeft="130dp"
-                            android:text="@string/vi_edo_vall"
+                            android:text="@string/almanegra_blanc"
                             android:textColor="#000"
                             android:textSize="25dp" />
 
@@ -163,7 +163,7 @@
                             android:layout_height="186dp"
                             android:layout_marginVertical="200dp"
                             android:layout_marginLeft="130dp"
-                            android:text="@string/vi_edo_vall"
+                            android:text="@string/almanegra_brut"
                             android:textColor="#000"
                             android:textSize="25dp" />
 

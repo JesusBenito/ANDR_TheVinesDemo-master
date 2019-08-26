@@ -133,9 +133,9 @@
                             android:layout_height="match_parent">
 
                             <ImageView
-                                android:id="@+id/im_padrillo3s"
+                                android:id="@+id/btn_vistalba"
                                 android:background="@drawable/cuatro"
-                                android:src="@drawable/dantelogo"
+                                android:src="@drawable/vistalba"
                                 android:layout_width="200dp"
                                 android:layout_height="230dp" />
                         </RelativeLayout>
@@ -184,7 +184,7 @@
                             android:layout_height="match_parent">
 
                             <ImageView
-                                android:id="@+id/btn_vistalba"
+                                android:id="@+id/btn_vistalba2"
                                 android:background="@drawable/seis"
                                 android:src="@drawable/vistalba"
                                 android:layout_width="200dp"

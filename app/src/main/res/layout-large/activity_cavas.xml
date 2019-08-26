@@ -98,32 +98,73 @@
 
                         <ImageView
                             android:layout_width="match_parent"
-                            android:layout_height="200dp"
+                            android:layout_height="190dp"
                             android:background="@drawable/mendoza"/>
 
                         <ImageView
-                            android:layout_width="70dp"
+                            android:layout_width="89dp"
                             android:layout_height="210dp"
-                            android:background="@drawable/malbec"
-                            android:layout_marginLeft="20dp"
-                            android:layout_marginVertical="80dp"/>
+                            android:layout_marginVertical="80dp"
+                            android:layout_marginLeft="10dp"
+                            android:background="@drawable/anblancdeblancs" />
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="MALBEC 2009 | MALBEC 2016"
-                            android:textColor="#000"
+                            android:text="ALMA NEGRA | BLANC DE BLANCS"
+                            android:textColor="#FFF"
                             android:textSize="20dp"
                             android:layout_marginVertical="10dp"
                             android:layout_marginHorizontal="40dp"/>
 
                         <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="200dp"
-                            android:layout_marginVertical="200dp"
+                            android:layout_width="501dp"
+                            android:layout_height="198dp"
+                            android:layout_marginVertical="190dp"
                             android:layout_marginLeft="100dp"
-                            android:textSize="16dp"
-                            android:text="@string/vi_edo_vall"
+                            android:text="@string/almanegra_blanc"
+                            android:textColor="#000"
+                            android:textSize="14dp" />
+
+                    </android.support.v7.widget.CardView>
+
+                    <android.support.v7.widget.CardView
+                        android:layout_width="wrap_content"
+                        app:cardCornerRadius="8dp"
+                        android:layout_height="300dp"
+                        android:layout_marginBottom="10dp"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginRight="15dp">
+
+
+                        <ImageView
+                            android:layout_width="match_parent"
+                            android:layout_height="190dp"
+                            android:background="@drawable/mendoza"/>
+
+                        <ImageView
+                            android:layout_width="88dp"
+                            android:layout_height="210dp"
+                            android:layout_marginVertical="80dp"
+                            android:layout_marginLeft="10dp"
+                            android:background="@drawable/anbrutnatureespumante" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="ALMA NEGRA | BRUT NATURE | ESPUMANTE"
+                            android:textColor="#FFF"
+                            android:textSize="20dp"
+                            android:layout_marginVertical="10dp"
+                            android:layout_marginHorizontal="40dp"/>
+
+                        <TextView
+                            android:layout_width="492dp"
+                            android:layout_height="200dp"
+                            android:layout_marginVertical="190dp"
+                            android:textSize="14dp"
+                            android:layout_marginLeft="100dp"
+                            android:text="@string/almanegra_brut"
                             android:textColor="#000" />
 
                     </android.support.v7.widget.CardView>
@@ -139,21 +180,20 @@
 
                         <ImageView
                             android:layout_width="match_parent"
-                            android:layout_height="200dp"
+                            android:layout_height="190dp"
                             android:background="@drawable/mendoza"/>
 
                         <ImageView
-                            android:layout_width="70dp"
+                            android:layout_width="88dp"
                             android:layout_height="210dp"
                             android:layout_marginVertical="80dp"
-                            android:layout_marginLeft="20dp"
-                            android:background="@drawable/malbec" />
+                            android:layout_marginLeft="10dp" />
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="MALBEC 2009 | MALBEC 2016"
-                            android:textColor="#000"
+                            android:text="ALMA NEGRA | TINTO | 2016"
+                            android:textColor="#FFF"
                             android:textSize="20dp"
                             android:layout_marginVertical="10dp"
                             android:layout_marginHorizontal="40dp"/>
@@ -161,13 +201,96 @@
                         <TextView
                             android:layout_width="492dp"
                             android:layout_height="200dp"
-                            android:layout_marginVertical="200dp"
-                            android:textSize="16dp"
+                            android:layout_marginVertical="190dp"
+                            android:textSize="14dp"
                             android:layout_marginLeft="100dp"
-                            android:text="@string/vi_edo_vall"
+                            android:text="@string/almanegra_brut"
                             android:textColor="#000" />
 
                     </android.support.v7.widget.CardView>
+
+                    <android.support.v7.widget.CardView
+                        android:layout_width="wrap_content"
+                        app:cardCornerRadius="8dp"
+                        android:layout_height="300dp"
+                        android:layout_marginBottom="10dp"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginRight="15dp">
+
+
+                        <ImageView
+                            android:layout_width="match_parent"
+                            android:layout_height="190dp"
+                            android:background="@drawable/mendoza"/>
+
+                        <ImageView
+                            android:layout_width="103dp"
+                            android:layout_height="210dp"
+                            android:layout_marginVertical="80dp"
+                            android:layout_marginLeft="10dp"
+                            android:background="@drawable/antinto2013" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="ALMA NEGRA | TINTO | 2013"
+                            android:textColor="#FFF"
+                            android:textSize="20dp"
+                            android:layout_marginVertical="10dp"
+                            android:layout_marginHorizontal="40dp"/>
+
+                        <TextView
+                            android:layout_width="492dp"
+                            android:layout_height="190dp"
+                            android:layout_marginVertical="190dp"
+                            android:textSize="14dp"
+                            android:layout_marginLeft="120dp"
+                            android:text="@string/almanegra_2013"
+                            android:textColor="#000" />
+
+                    </android.support.v7.widget.CardView>
+
+                    <android.support.v7.widget.CardView
+                        android:layout_width="wrap_content"
+                        app:cardCornerRadius="8dp"
+                        android:layout_height="300dp"
+                        android:layout_marginBottom="10dp"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginRight="15dp">
+
+
+                        <ImageView
+                            android:layout_width="match_parent"
+                            android:layout_height="190dp"
+                            android:background="@drawable/mendoza"/>
+
+                        <ImageView
+                            android:layout_width="91dp"
+                            android:layout_height="210dp"
+                            android:layout_marginVertical="80dp"
+                            android:layout_marginLeft="10dp"
+                            android:background="@drawable/anmblend" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="ALMA NEGRA | M BLEND | 2013"
+                            android:textColor="#FFF"
+                            android:textSize="20dp"
+                            android:layout_marginVertical="10dp"
+                            android:layout_marginHorizontal="40dp"/>
+
+                        <TextView
+                            android:layout_width="492dp"
+                            android:layout_height="190dp"
+                            android:layout_marginVertical="190dp"
+                            android:textSize="12dp"
+                            android:layout_marginLeft="120dp"
+                            android:text="@string/almanegra_mblend"
+                            android:textColor="#000" />
+
+                    </android.support.v7.widget.CardView>
+
 
 
                 </LinearLayout>
