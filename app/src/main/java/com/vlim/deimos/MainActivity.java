@@ -29,7 +29,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         imageView = findViewById(R.id.img_logo);
         btn_ernesto.setClickable(true);
         btn_ernesto.setOnClickListener(this);
-        simpleSearchView.setOnSearchClickListener(this);
 
 
     }
@@ -38,8 +37,16 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     public void onClick(View view) {
         switch (view.getId()){
             case R.id.btn_ernesto:
-                Intent intent=new Intent(MainActivity.this, CavasActivity.class);
+                Intent intent=new Intent(MainActivity.this, ErnestoCatena.class);
                 startActivity(intent);
+                break;
+            case R.id.btn_escorihuela:
+                Intent intent2=new Intent(MainActivity.this, ErnestoCatena.class);
+                startActivity(intent2);
+                break;
+            case R.id.btn_vistalba:
+                Intent intent3=new Intent(MainActivity.this, ErnestoCatena.class);
+                startActivity(intent3);
                 break;
             case R.id.simpleSearchView:
                 if(simpleSearchView.isClickable()) {

@@ -15,6 +15,11 @@
     <string name="youtube">Youtube</string>
     <string name="sitioweb">Sitio Web</string>
     <string name="suscripcion">Suscripción</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_add_favourite">Add to Favourites</string>
+    <string name="action_play_next">Play Next</string>
+    <string name="backdrop_title">LOVE MUSIC</string>
+    <string name="backdrop_subtitle">This season top 20 albums</string>
 
     <string name="almanegra_blanc">
         - Chardonnay\n
@@ -39,7 +44,7 @@
         \n - Notas de cata: color cereza, borde granate, aroma
         \n   expresivo, fresco, fruta madura, especiado, cacao.
     </string>
-    
+
     <string name="almanegra_mblend">
         - Viñedos: 50% Rivadavia, 10% Judín, 30% La Consulta,
         \n 10% Agrelo, Mendoza.
