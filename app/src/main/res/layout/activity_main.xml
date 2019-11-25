@@ -112,7 +112,7 @@
                             <ImageView
                                 android:id="@+id/btn_humberto"
                                 android:background="@drawable/tres"
-                                android:src="@drawable/humbertologo"
+                                android:src="@drawable/logobgaleanna"
                                 android:layout_width="match_parent"
                                 android:layout_height="230dp" />
 
@@ -215,6 +215,7 @@
                             <ImageView
                                 android:id="@+id/im_cava1"
                                 android:background="@drawable/siete"
+                                android:src="@drawable/logobgdante"
                                 android:layout_width="match_parent"
                                 android:layout_height="240dp" />
 
