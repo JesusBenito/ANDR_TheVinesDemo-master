@@ -13,7 +13,7 @@ import android.view.View;
 import java.util.ArrayList;
 import java.util.List;
 
-public class ErnestoCatena extends AppCompatActivity {
+public class Escorihuela extends AppCompatActivity {
 
     private RecyclerView recyclerView;
     private AlbumsAdapter adapter;
@@ -22,7 +22,7 @@ public class ErnestoCatena extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_ernesto_catena);
+        setContentView(R.layout.activity_escorihuela);
 
         recyclerView = (RecyclerView) findViewById(R.id.recycler_view);
 
@@ -31,7 +31,7 @@ public class ErnestoCatena extends AppCompatActivity {
 
         RecyclerView.LayoutManager mLayoutManager = new GridLayoutManager(this, 1);
         recyclerView.setLayoutManager(mLayoutManager);
-        recyclerView.addItemDecoration(new GridSpacingItemDecoration(1, dpToPx(8), true));
+        recyclerView.addItemDecoration(new GridSpacingItemDecoration(1, dpToPx(10), true));
         recyclerView.setItemAnimator(new DefaultItemAnimator());
         recyclerView.setAdapter(adapter);
 
@@ -47,42 +47,18 @@ public class ErnestoCatena extends AppCompatActivity {
 
 
     private void prepareAlbums() {
-        final String[] words = getResources().getStringArray(R.array.words);
-        int[] botellas = new int[]{
-                R.drawable.almanegrablancsb,
-                R.drawable.almanegrablancsb,
-                R.drawable.almanegratinto2013,
-                R.drawable.almanegramblend,
-                R.drawable.granalmanegra};
+        int[] imagenes = new int[]{
+                R.drawable.almanegrafondo};
         int[] fondos = new int[]{
                 R.drawable.almanegrafondo};
 
         int[] banderas = new int[]{
-                R.drawable.bargentina
-        };
+                R.drawable.bargentina};
 
-        //Alma Negra Blanc
-        Album a = new Album(words[0],fondos[0],botellas[0],R.string.almanegra_blanc,"Argentina|Mendoza",banderas[0]);
+
+        Album a = new Album("Alma Negra",imagenes[0],imagenes[0],R.string.almanegra_blanc,"Argentina| Mendoza",banderas[0]);
         albumList.add(a);
-
-        //Alma Negra Brut
-        a = new Album(words[1],fondos[0],botellas[1],R.string.almanegra_brut,"Argentina|Mendoza",banderas[0]);
-        albumList.add(a);
-
-        //Alma Negra Tinto 2013
-        a = new Album(words[2],fondos[0],botellas[2],R.string.almanegra_2013,"Argentina|Mendoza",banderas[0]);
-        albumList.add(a);
-
-        //Alma Negra MBlend
-        a = new Album(words[3],fondos[0],botellas[3],R.string.almanegra_mblend_2013,"Argentina|Mendoza",banderas[0]);
-        albumList.add(a);
-
-        //Gran Alma Negra
-        a = new Album(words[4],fondos[0],botellas[4],R.string.granalmanegra_2012_2011,"Argentina|Mendoza",banderas[0]);
-        albumList.add(a);
-
         adapter.notifyDataSetChanged();
-
     }
 
 
@@ -126,6 +102,4 @@ public class ErnestoCatena extends AppCompatActivity {
         Resources r = getResources();
         return Math.round(TypedValue.applyDimension(TypedValue.COMPLEX_UNIT_DIP, dp, r.getDisplayMetrics()));
     }
-
-
 }

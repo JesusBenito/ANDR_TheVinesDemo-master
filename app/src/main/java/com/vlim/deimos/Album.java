@@ -6,16 +6,18 @@ public class Album {
     private int botella;
     private int contenido;
     private String ubicacion;
+    private int bandera;
 
     public Album() {
     }
 
-    public Album(String title, int fondo, int botella, int contenido, String ubicacion) {
+    public Album(String title, int fondo, int botella, int contenido, String ubicacion,int bandera) {
         this.title = title;
         this.fondo = fondo;
         this.botella = botella;
         this.contenido = contenido;
         this.ubicacion = ubicacion;
+        this.bandera = bandera;
 
     }
 
@@ -54,4 +56,13 @@ public class Album {
     public String getUbicacion(){return ubicacion; }
 
     public void setUbicacion(String ubicacion){this.ubicacion=ubicacion; }
+
+
+    public int getBandera() {
+        return bandera;
+    }
+
+    public void setBandera(int bandera) {
+        this.bandera = bandera;
+    }
 }

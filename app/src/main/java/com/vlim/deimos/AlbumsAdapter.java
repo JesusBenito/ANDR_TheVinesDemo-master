@@ -24,7 +24,7 @@ public class AlbumsAdapter extends RecyclerView.Adapter<AlbumsAdapter.MyViewHold
 
     public class MyViewHolder extends RecyclerView.ViewHolder {
         public TextView title, contenido, ubicacion;
-        public ImageView fondo, botella;
+        public ImageView fondo, botella, bandera;
 
         public MyViewHolder(View view) {
             super(view);
@@ -33,6 +33,7 @@ public class AlbumsAdapter extends RecyclerView.Adapter<AlbumsAdapter.MyViewHold
             fondo = (ImageView) view.findViewById(R.id.iv_fondo);
             botella = (ImageView) view.findViewById(R.id.iv_botella);
             ubicacion =(TextView) view.findViewById(R.id.txt_ubicacion);
+            bandera = (ImageView) view.findViewById(R.id.iv_bandera);
         }
     }
 
@@ -76,6 +77,16 @@ public class AlbumsAdapter extends RecyclerView.Adapter<AlbumsAdapter.MyViewHold
             @Override
             public void onClick(View view) {
                 showPopupMenu(holder.fondo);
+            }
+        });
+
+
+        Glide.with(mContext).load(album.getBandera()).into(holder.bandera);
+
+        holder.bandera.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                showPopupMenu(holder.bandera);
             }
         });
 

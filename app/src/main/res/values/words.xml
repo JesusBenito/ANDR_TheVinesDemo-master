@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="words">
+        <item>Alma Negra Blanc</item>
+        <item>Alma Negra Brut</item>
+        <item>Alma Negra Tinto 2013</item>
+        <item>Alma Negra M Blend 2013</item>
+        <item>Gran Alma Negra 2012-2011</item>
+        <item>Padrillos Pinot Noir 2016</item>
+    </string-array>
+</resources>

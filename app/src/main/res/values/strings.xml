@@ -33,19 +33,19 @@
            - Malbec / Pinot noir\n
            - Método Champenoise, Non Vintage.\n
            - Nota de cata: delicadas burbujas, notas de cocktail, como\n
-             fresa, arandanos y frutos secos, cuerpo medio y persistente\n
-             final en boca
+             fresa, arandanos y frutos secos, cuerpo medio y \n
+            persistente final en boca
     </string>
     <string name="almanegra_2013">
            - Variedad: "Misterio".
         \n - Viñedos 100% Rivadavia, Mendoza.
         \n - Altura del viñedo: 980 msnm.
         \n - 16 m. en barricas de roble francés(40% nuevo).
-        \n - Notas de cata: color cereza, borde granate, aroma
-        \n   expresivo, fresco, fruta madura, especiado, cacao.
+        \n - Notas de cata: color cereza, borde granate,
+        \n aroma expresivo, fresco, fruta madura, especiado, cacao.
     </string>
 
-    <string name="almanegra_mblend">
+    <string name="almanegra_mblend_2013">
         - Viñedos: 50% Rivadavia, 10% Judín, 30% La Consulta,
         \n 10% Agrelo, Mendoza.
         \n -Altura de viñedo: 890msnm.
@@ -54,21 +54,21 @@
         \n Notas de cata: Color cereza oscuro, aroma expresivo,
         \n potente fruta madura , roble cremoso.
     </string>
-    <string name="granalmanegra_2012">
+    <string name="granalmanegra_2012_2011">
         - Variedad: "Misterio".
         \n - Viñedos: 100% Rivadavia, Mendoza.
         \n -Altura de viñedo: 890 msnm.
         \n 16 meses en barricas de roble: 50% francés y 50% americano.
         \n Alc. Vol.: 13.9%
     </string>
-    <string name="padrillospinotnoir">
+    <string name="padrillospinotnoir2016">
         -Viñedo: Gualtallary, Tupungato, Mendoza.
         \n - Notas de cata: vino de color rojizo, reflejos frambuesa,
         \n   aroma de cereza, fresa, violetas y coco. Entrada en boca
         \n   dulce.De buen volumen.
     </string>
 
-    <string name="padrillosblend">
+    <string name="padrillosblend2008">
         - Varietales: 80% Syrah, 15% Malbec y 5% Bonarda.
         \n - Viñedo: El Pedernal, Mendoza.
         \n - Alc. Vol: 13.9%
@@ -76,4 +76,159 @@
         \n   roble americano de segundo y tercer uso.
     </string>
 
+    <string name="padrillosmalbec2009_2017">
+        - Viñedo: Valle de Uco, Mendoza.
+        \n - 8 meses en barrica de roble francés y americano de tercer uso.
+        \n - Alc. Vol: 13.9%
+        \n - Notas de cata: perfil jóven, aromas florales, sabor a ciruelas, bayas secas.
+    </string>
+
+    <string name="siestamalbec2014">
+        - Viñedos: Vistaflores Tunuyán, Mendoza.
+        \n - Altura de viñedo: 1000 msnm.
+        \n - Vendimia: última semana de abril.
+        \n - Tiempo de roble: 14 meses.
+        \n - Alcohol: 13.8%.
+        \n - Tipo de roble: 70% francés y 30% americano
+        \n  (70% nuevo y 30% de primer y tercer uso).
+        \n - Notas de cata: de color rojo brillante y obscuro.
+        \n   Aromas puros de cereza negra, mora, aceituna negra y violetas.
+        \n   Ligeramente tostado, jugoso y firme, con un poco de acidez que
+        \n   aun no se ha absorbido. Sugerentes notas de frutos secos estilo
+        \n   oporto que se unen con la firmeza tánica de persistente final.
+    </string>
+
+    <string name="siestapinotnoir2011">
+        - Viñedos: Vistaflores Tunuyán, Mendoza.
+        \n - Altura de viñedo: 1000 msnm.
+        \n - Vendimia: última semana de abril.
+        \n - Tiempo de roble: 13 meses.
+        \n - Alcohol: 13.8%.
+        \n - Tipo de roble: 100% francés.
+        \n - Notas de cata: aromas de rosas y frutos rojos,
+        \n   con especias. En boca tiene una excelente acidez,
+        \n   mezclada con las frutas y lo aterciopelado de un buen Pinot Noir.
+    </string>
+
+    <string name="siestaCabernrtSauvignon2011">
+        - Viñedos: Vistaflores Tunuyán, Mendoza.
+        \n - Altura de viñedo: 1000 msnm.
+        \n - Vendimia: última semana de abril.
+        \n - Tiempo de roble: 14 meses.
+        \n - Alcohol: 13.8%.
+        \n - Tipo de roble: 80% francés y 20% americano
+        \n  (70% nuevo y 30% de primer y tercer uso).
+        \n - Notas de cata: buen color rojo oscuro, brillante.
+        \n   Oscuros aromas de cereza negra, frambuesa, cuero y regaliz de
+        \n   roble chocolatoso. En boca cerezo negro, regaliz y sabores de
+        \n   con taninos sustanciales,pero de grano fino, gran amplitud y
+        \n   duración astuta.
+    </string>
+
+    <string name="SiestaBiodinamicoMalbec2014">
+
+    </string>
+
+    <string name="SiestaBiodinamicoCabernet2014">
+
+    </string>
+
+    <string name="SiestaBiodinamicoAuvignon2013">
+
+    </string>
+
+    <string name="gransienta_giftBox">
+
+    </string>
+
+    <string name="animalMalbec2017">
+        - Animal Malbec es un vino modernos, bien elaborado, cautivamente y
+        \n accesible. Sabroso, de oscuro color rojo púrpura. En nariz, se muestra
+        \n aromático, fresco, repleto de notas frutales (ciruelas, cerezas y
+        \n grosellas), caracteristícas del varietal. En boca combina taninos suaves
+        \n con una estructura elegante y personal.
+        \n Las notas frutadas se mezclan con un estilo directo, que afianza las
+        \n cualidades de esta magnífica uva.
+    </string>
+
+    <string name="animalCabernetSauvignon2017">
+        - Es un vino de un intenso color rojo muy limpio y brillante. En nariz
+        \n es pleno, concentrado y con buena tipicidad. Pimienta, frutos rojos y negros,
+        \n y una nota de eucalipto que lo hace muy fresco. En boca es elegante, carnoso
+        \n y de muy buen cuerpo, con sus frutas algo confitadas. Tiene una estructura
+        \n equilibrada y buena acidez.
+    </string>
+
+    <string name="animalChardonnay2018">
+        - Animal Chardonnay se presenta amarillo pálido con reflejos verdes.
+        \n En nariz se presentan aromas frutales, cítricos, con notas de levadura y
+        \n pan tostado. En boca las burbujas son suaves, muy agradables y persistentes.
+        \n Ideal para acompañar carnes blancas, mariscos y pescados.
+    </string>
+
+    <string name="tahuanMalbec2016">
+        - Varietal: 100% Malbec
+        \n - Viñedo: Vistaflores, Altamira, Mendoza.
+        \n - Alc. Vol.: 13.7%
+        \n - Altura de terreno: 1097 msnm.
+        \n - 10 meses en barrica, 50% de roble francés y
+        \n 50% americano, 45% roble de primer uso y 55% de segundo y tercer uso.
+        \n - Nota de cata: de color rojo oscuro brillante, mora y chocolate negro
+        \n en nariz. En boca se confirmanlas las frutas negras, cereza regaliz
+        \n negro y hierbas. Acidez de equilibrio armónico final con base de
+        \n hierbas. Se mejorará con un año o dos de envejecimiento en botella.
+    </string>
+
+    <string name="tahuanBonarda2013">
+        - Varietal: 100% Bonarda.
+        \n - Viñedo: La vendimia, Rivadavia, Mendoza.
+        \n - Alc. Vol.: 13.7%
+        \n - Altura de terreno: 700 msnm.
+        \n - 10 meses en barrica, 50% de roble francés y 50% americano,
+        \n 45% roble de primer uso y 55% de segundo y tercer uso.
+        \n - Nota de cata: de color rojo oscuro. Aromas de ciruela, grosella,
+        \n tabaco, moca y chocolate. En esencia los sabores de cereza, ciruela
+        \n y hierbas muestran una dulzura atractiva y picante, termina en una
+        \n ligera capa de taninos y un borde leve de acidez. Fácil de beber.
+    </string>
+
+    <string name="tahuanChardonnay2011">
+        - Varietal: 100% Chardonnay.
+        \n - Viñedo: Altamira, Mendoza.
+        \n - Alc. Vol.: 13.7%
+        \n - Altura de terreno: 1097 msnm.
+        \n - 8 meses en barrica, 50% de roble francés y 50% americano,
+        \n 45% roble de primer uso y 55% de segundo y tercer uso.
+        \n - Nota de cata: aceite de limón, ensalada de frutas, la naranja y
+        \n el olor a mentol se profundizan en nariz. Amplio, redondo y muy
+        \n rico, con fruta de hueso y los sabores de especias marrones
+        \n ofreciendo presencia temprana. el final liso muestra una persistencia sutil.
+    </string>
+    <string name="tikaljubilo">
+        - Cosecha 2008.
+        \n - Variedad: 75% Cabernet, Sauvignon y 25% Malbec.
+        \n - Alc. Vol. 14.5%
+        \n - 12 meses en barrica de roble francés 30% nuevas y 70% de segundo uso.
+        \n Color cereza, borde granate, aroma elegante, expresivo, fruta madura,
+        \n roble cremoso.
+    </string>
+
+    <string name="tikalamorio20082013">
+        - Cosecha 2013.
+        \n - Variedad: 60% Malbec, 40% Cabernet Franc.
+        \n - Valle de Uco, Mendoza.
+        \n - 12 meses en barrica:70% de roble francés y 30% americano de
+        \n segundo y tercer uso.
+        \n Posee aromas de ahumado y cereza.
+        \n Sabores penetrantes de cerezas rojas, negras y bayas. Muy seductor.
+    </string>
+
+    <string name="tikalPatriota2013">
+        - Cosecha 2013.
+        \n - Variedad: 60% Malbec, 40% Bonarda.
+        \n - Alc. Vol. 14%
+        \n - Un vino de paso firme, concentrado un carácter que se dirime
+        \n entre frutal y vegetal.
+
+    </string>
 </resources>
