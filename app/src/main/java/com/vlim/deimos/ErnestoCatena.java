@@ -48,37 +48,45 @@ public class ErnestoCatena extends AppCompatActivity {
 
     private void prepareAlbums() {
         final String[] words = getResources().getStringArray(R.array.words);
-        int[] botellas = new int[]{
+        int[] almanegra = new int[]{
                 R.drawable.almanegrablancsb,
                 R.drawable.almanegrablancsb,
                 R.drawable.almanegratinto2013,
                 R.drawable.almanegramblend,
                 R.drawable.granalmanegra};
+
+        int[] padrillos = new int[]{
+                R.drawable.padrillospn2016};
         int[] fondos = new int[]{
-                R.drawable.almanegrafondo};
+                R.drawable.almanegrafondo,
+                R.drawable.padrillosfondo};
 
         int[] banderas = new int[]{
                 R.drawable.bargentina
         };
 
         //Alma Negra Blanc
-        Album a = new Album(words[0],fondos[0],botellas[0],R.string.almanegra_blanc,"Argentina|Mendoza",banderas[0]);
+        Album a = new Album(words[0],fondos[0],almanegra[0],R.string.almanegra_blanc,"Argentina|Mendoza",banderas[0]);
         albumList.add(a);
 
         //Alma Negra Brut
-        a = new Album(words[1],fondos[0],botellas[1],R.string.almanegra_brut,"Argentina|Mendoza",banderas[0]);
+        a = new Album(words[1],fondos[0],almanegra[1],R.string.almanegra_brut,"Argentina|Mendoza",banderas[0]);
         albumList.add(a);
 
         //Alma Negra Tinto 2013
-        a = new Album(words[2],fondos[0],botellas[2],R.string.almanegra_2013,"Argentina|Mendoza",banderas[0]);
+        a = new Album(words[2],fondos[0],almanegra[2],R.string.almanegra_2013,"Argentina|Mendoza",banderas[0]);
         albumList.add(a);
 
         //Alma Negra MBlend
-        a = new Album(words[3],fondos[0],botellas[3],R.string.almanegra_mblend_2013,"Argentina|Mendoza",banderas[0]);
+        a = new Album(words[3],fondos[0],almanegra[3],R.string.almanegra_mblend_2013,"Argentina|Mendoza",banderas[0]);
         albumList.add(a);
 
         //Gran Alma Negra
-        a = new Album(words[4],fondos[0],botellas[4],R.string.granalmanegra_2012_2011,"Argentina|Mendoza",banderas[0]);
+        a = new Album(words[4],fondos[0],almanegra[4],R.string.granalmanegra_2012_2011,"Argentina|Mendoza",banderas[0]);
+        albumList.add(a);
+
+        //Padrillos Pinot Noir 2016
+        a = new Album(words[5],fondos[1],padrillos[0],R.string.padrillospinotnoir2016,"Argentina|Mendoza",banderas[0]);
         albumList.add(a);
 
         adapter.notifyDataSetChanged();

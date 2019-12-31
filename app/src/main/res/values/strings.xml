@@ -22,18 +22,18 @@
     <string name="backdrop_subtitle">This season top 20 albums</string>
 
     <string name="almanegra_blanc">
-        - Chardonnay\n
+        - Chardonnay
         - Zona Agrelo, Tupungato, Mendoza, Argentina\n
         - Añejado 12 meses en botella \n
-        - Notas de cata: dorados con reflejos acerados intencidad\n
-          aromatica frutal, notas a tostadas.\n
+        - Notas de cata: dorados con reflejos acerados intencidad
+          aromatica frutal, notas a tostadas.
           Ideal para frutos de mar, ostras, langostas, carnes blancas.
     </string>
     <string name="almanegra_brut">
            - Malbec / Pinot noir\n
            - Método Champenoise, Non Vintage.\n
-           - Nota de cata: delicadas burbujas, notas de cocktail, como\n
-             fresa, arandanos y frutos secos, cuerpo medio y \n
+           - Nota de cata: delicadas burbujas, notas de cocktail, como
+             fresa, arandanos y frutos secos, cuerpo medio y
             persistente final en boca
     </string>
     <string name="almanegra_2013">
@@ -42,21 +42,20 @@
         \n - Altura del viñedo: 980 msnm.
         \n - 16 m. en barricas de roble francés(40% nuevo).
         \n - Notas de cata: color cereza, borde granate,
-        \n aroma expresivo, fresco, fruta madura, especiado, cacao.
+            aroma expresivo, fresco, fruta madura, especiado, cacao.
     </string>
 
     <string name="almanegra_mblend_2013">
-        - Viñedos: 50% Rivadavia, 10% Judín, 30% La Consulta,
-        \n 10% Agrelo, Mendoza.
+        - Viñedos: 50% Rivadavia, 10% Judín, 30% La Consulta,10% Agrelo, Mendoza.
         \n -Altura de viñedo: 890msnm.
         \n -12 m. en barricas de roble francés(25% nuevo).
         \n -Alc. Vol.: 14%.
-        \n Notas de cata: Color cereza oscuro, aroma expresivo,
-        \n potente fruta madura , roble cremoso.
+        \n -Notas de cata: Color cereza oscuro, aroma expresivo,
+            potente fruta madura , roble cremoso.
     </string>
     <string name="granalmanegra_2012_2011">
         - Variedad: "Misterio".
-        \n - Viñedos: 100% Rivadavia, Mendoza.
+        \n -Viñedos: 100% Rivadavia, Mendoza.
         \n -Altura de viñedo: 890 msnm.
         \n 16 meses en barricas de roble: 50% francés y 50% americano.
         \n Alc. Vol.: 13.9%
@@ -64,8 +63,8 @@
     <string name="padrillospinotnoir2016">
         -Viñedo: Gualtallary, Tupungato, Mendoza.
         \n - Notas de cata: vino de color rojizo, reflejos frambuesa,
-        \n   aroma de cereza, fresa, violetas y coco. Entrada en boca
-        \n   dulce.De buen volumen.
+        aroma de cereza, fresa, violetas y coco. Entrada en boca
+        dulce.De buen volumen.
     </string>
 
     <string name="padrillosblend2008">
@@ -73,7 +72,7 @@
         \n - Viñedo: El Pedernal, Mendoza.
         \n - Alc. Vol: 13.9%
         \n - 11 meses en barrica de roble francés de primer uso y
-        \n   roble americano de segundo y tercer uso.
+        roble americano de segundo y tercer uso.
     </string>
 
     <string name="padrillosmalbec2009_2017">
@@ -90,12 +89,12 @@
         \n - Tiempo de roble: 14 meses.
         \n - Alcohol: 13.8%.
         \n - Tipo de roble: 70% francés y 30% americano
-        \n  (70% nuevo y 30% de primer y tercer uso).
+          (70% nuevo y 30% de primer y tercer uso).
         \n - Notas de cata: de color rojo brillante y obscuro.
-        \n   Aromas puros de cereza negra, mora, aceituna negra y violetas.
-        \n   Ligeramente tostado, jugoso y firme, con un poco de acidez que
-        \n   aun no se ha absorbido. Sugerentes notas de frutos secos estilo
-        \n   oporto que se unen con la firmeza tánica de persistente final.
+           Aromas puros de cereza negra, mora, aceituna negra y violetas.
+           Ligeramente tostado, jugoso y firme, con un poco de acidez que
+           aun no se ha absorbido. Sugerentes notas de frutos secos estilo
+           oporto que se unen con la firmeza tánica de persistente final.
     </string>
 
     <string name="siestapinotnoir2011">
@@ -106,8 +105,8 @@
         \n - Alcohol: 13.8%.
         \n - Tipo de roble: 100% francés.
         \n - Notas de cata: aromas de rosas y frutos rojos,
-        \n   con especias. En boca tiene una excelente acidez,
-        \n   mezclada con las frutas y lo aterciopelado de un buen Pinot Noir.
+           con especias. En boca tiene una excelente acidez,
+           mezclada con las frutas y lo aterciopelado de un buen Pinot Noir.
     </string>
 
     <string name="siestaCabernrtSauvignon2011">
@@ -117,12 +116,12 @@
         \n - Tiempo de roble: 14 meses.
         \n - Alcohol: 13.8%.
         \n - Tipo de roble: 80% francés y 20% americano
-        \n  (70% nuevo y 30% de primer y tercer uso).
+          (70% nuevo y 30% de primer y tercer uso).
         \n - Notas de cata: buen color rojo oscuro, brillante.
-        \n   Oscuros aromas de cereza negra, frambuesa, cuero y regaliz de
-        \n   roble chocolatoso. En boca cerezo negro, regaliz y sabores de
-        \n   con taninos sustanciales,pero de grano fino, gran amplitud y
-        \n   duración astuta.
+           Oscuros aromas de cereza negra, frambuesa, cuero y regaliz de
+           roble chocolatoso. En boca cerezo negro, regaliz y sabores de
+           con taninos sustanciales,pero de grano fino, gran amplitud y
+           duración astuta.
     </string>
 
     <string name="SiestaBiodinamicoMalbec2014">

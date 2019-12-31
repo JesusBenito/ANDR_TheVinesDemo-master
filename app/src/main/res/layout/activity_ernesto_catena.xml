@@ -37,9 +37,7 @@
                 android:background="@drawable/uno"
                 android:src="@drawable/ernestologo" />
 
-
         </android.support.v7.widget.CardView>
-
 
     <include layout="@layout/content_main_ernesto" />
     </LinearLayout>
