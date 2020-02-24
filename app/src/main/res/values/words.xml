@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="words">
+        <item>Alma Negra Brut Nature</item>0
+        <item>Alma Negra Blanc</item>1
+        <item>Alma Negra Espumante 1.5L</item>2
+        <item>Alma Negra M Blend</item>3
+        <item>Alma Negra Mblend 500ml</item>4
+        <item>Alma Negra Misterio 500ml</item>5
+        <item>Alma Negra Misterio</item>6
+        <item>Alma Negra Vblend</item>7
+        <item>Animal C.S Organico</item>8
+        <item>Animal C.H Organico</item>9
+        <item>Animal Malbec Organico</item>10
+        <item>Gran Alma Negra 1.5L</item>11
+        <item>Gran Alma Negra</item>12
+        <item>Padrillos Blend</item>13
+        <item>Padrillos Malbec 375ml</item>14
+        <item>Padrillos Malbec 2017</item>15
+        <item>Padrillos Pinot Noir 2016</item>16
+        <item>Padrillos Torrontes</item>17
+        <item>Siesta 2014 Malbec</item>18
+        <item>Siesta C.S Biodinamico 2014</item>19
+        <item>Siesta C.S Biodinamico ED.Mexico</item>20
+        <item>Siesta C.S 2010</item>21
+        <item>Siesta Malbec 2013</item>22
+        <item>Siesta Malbec Biodinamico 2014</item>23
+        <item>Siesta Pinot Noir 2011</item>24
+        <item>Tahuan Bonarda 2011</item>25
+        <item>Tahuan Chardonnay</item>26
+        <item>Tahuan Malbec 2011</item>27
+        <item>Tikal Amorio Malbec 1.5 lts</item>28
+        <item>Tikal Amorio Malbec, C.Franc 2013</item>29
+        <item>Tikal Jubilo C.S Malbec 2006</item>30
+        <item>Tikal Patriota Malbec Bonarda</item>31
+
+        //Escorihuela
+        <item>Capriccio Novecento Espumante Dulce Natural</item>32
+        <item>Circus Malbec 2017</item>33
+        <item>Circus Saiuvignon Blanc 2019</item>34
+        <item>Don Malbec 2012</item>35
+        <item>Escorihuela Gascon 375 mls 2017</item>36
+        <item>Escorihuela Gascon Cabernet Franc 2017</item>37
+        <item>Escorihuela Gascon Gran Reserva 2016 Chardonnay</item>38
+        <item>Escorihuela Gascon Gran Reserva Malbec</item>39
+        <item>Escorihuela Gascon Malbec 1.5L 2015</item>40
+        <item>Escorihuela Gascon Malbec 2018</item>41
+        <item>Escorihuela Gascon Organic Vineyard 2016</item>42
+        <item>Escorihuela Gascon Pequeñas Producciones Malbec 2017</item>43
+        <item>Escorihuela Gascon Pinot Noir 2018</item>44
+        <item>Escorihuela Gascon Sangiovese 2017</item>45
+        <item>Escorihuela Gascon Viogner</item>46
+        <item>Familia Gascon Dulce Natural</item>47
+        <item>Familia Gascon Malbec 2016</item>48
+        <item>Familia Gascon Rose 2018</item>49
+        <item>Familia Gascon Syrah 2018</item>50
+        <item>Miguel Escorihuela Gascon 2012</item>51
+        <item>Pequeñas Producciones C.Franc 2015</item>52
+        <item>Pequeñas Producciones C.S 2014</item>53
+        <item>Pequeñas Producciones Cabernet S 2014</item>54
+        <item>Pequeñas Producciones Pinot Noir 2017</item>55
+        <item>Sol Amante C.S 2016</item>56
+        <item>The Presidents Blend 1884 2015</item>57
+
+        //El enemigo
+        <item>El Enemigo Bonarda 2016</item>58
+        <item>El Enemigo cabernet Franc 2015</item>59
+        <item>El Enemigo Chardonnay 2016</item>60
+        <item>El Enemigo el Mirador Bonarda 2013</item>61
+        <item>El Enemigo Malbec 1.5L 2016</item>62
+        <item>El Enemigo Malbec 2016</item>63
+        <item>El Enemigo Syrah Viognier 2016</item>64
+        <item>Gran Enemigo 2010 Agrelo</item>65
+        <item>Gran Enemigo 2012 el Cepillo</item>66
+        <item>Gran Enemigo 2013 Gualtallary</item>67
+        <item>Gran Enemigo Blend 2013</item>68
+        <item>Gran Enemigo Chacayes 2012</item>69
+
+        //Ancona Luca
+        <item>La Posta 2016 Malbec</item>70
+        <item>La Posta Armando Bonarda 2017</item>71
+        <item>La Posta Blanco 2011</item>72
+        <item>La Posta Glorieta Pinot Noir 2015</item>73
+        <item>La Posta Pizzella 2012 Malbec</item>74
+        <item>La Posta Red Blend 2016</item>75
+        <item>Luca Beso de Dante 2015</item>76
+        <item>Luca Chardonnay 2014</item>77
+        <item>Luca Malbec 1.5L</item>78
+        <item>luca Pinot Noir 2015</item>79
+        <item>Luca Syrah Laborde 2011</item>80
+        <item>Nico By Luca 2014</item>81
+        <item>Nico By Luca lt 2007</item>82
+
+
+        //Canale
+        <item>Black River Cabernet Sauvignon 2016</item>83
+        <item>Black River Malbec 2016</item>84
+        <item>Black River Merlot 2018</item>85
+        <item>Black River S Blanc 2017</item>86
+        <item>H.C Old Vineyard Pinot Noir Rose 2017</item>87
+        <item>H.C. Intimo Blend 2017</item>88
+        <item>H.C. Intimo C.S 2013</item>89
+        <item>H.C. Intimo Malbec 2014</item>90
+        <item>Humberto Canale Estate C.F. 2015</item>91
+        <item>Humberto Canale Estate C.S 2011</item>92
+        <item>Humberto Canale Estate P.N 2018</item>93
+
+        //Colome
+
+        //Durigutti
+
+        //Ernesto Catena
+
+        //Familias
+
+        //Kopque
+
+        //Maal
+
+        //Manos Negras
+
+        //Pampa Maya
+
+        //Promogenito
+
+        //Quinta Do Portal
+
+        //Riglos Huarpe
+
+        //Robino
+
+        //Scarpa
+
+        //Valduero
+
+        //Vicentin
+
+        //Vistalba
+
+
+    </string-array>
+</resources>
