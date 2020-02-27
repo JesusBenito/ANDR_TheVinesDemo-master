@@ -7,18 +7,10 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.DefaultItemAnimator;
 import android.support.v7.widget.GridLayoutManager;
 import android.support.v7.widget.RecyclerView;
-import android.util.Log;
 import android.util.TypedValue;
-import android.view.MenuItem;
 import android.view.View;
-import android.widget.Button;
-import android.widget.ImageButton;
 import android.widget.ImageView;
-import android.widget.ListAdapter;
-import android.widget.ListView;
 import android.widget.SearchView;
-
-import org.w3c.dom.Text;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -72,51 +64,19 @@ public class BodegaVistalba extends AppCompatActivity implements SearchView.OnQu
 
 
     private void prepareAlbums() {
-        final String[] words = getResources().getStringArray(R.array.words);
-        int[] almanegra = new int[]{
-                R.drawable.almanegrablancsb,
-                R.drawable.almanegrablancsb,
-                R.drawable.almanegratinto2013,
-                R.drawable.almanegramblend,
-                R.drawable.granalmanegra};
-
-        int[] padrillos = new int[]{
-                R.drawable.padrillospn2016,
-                R.drawable.padrillosblend2008,
-                R.drawable.padrillosmalbec};
-        int[] siesta = new int[]{
-                R.drawable.siestamalbec2014,
-                R.drawable.siestapn2011,
-                R.drawable.siestacabernet2014
-        };
-
-        int[] animal = new int[]{
-                R.drawable.animalmalbec2017,
-                R.drawable.animalcabernetsauvig,
-                R.drawable.animalchorg
-        };
-
-        int[] tahuan = new int[]{
-                R.drawable.tahuanmalbec2011,
-                R.drawable.tahuanbonarda2011,
-                R.drawable.tahuanchar2011
-        };
-
-        int[] tikaljubilo= new int[]{
-                R.drawable.tikaljubilo,
-                R.drawable.tikalamorio2013
-        };
+        final String[] words = getResources().getStringArray(R.array.colome);
+        int[] almanegra = new int[]{};
 
         int[] fondos = new int[]{
-                R.drawable.almanegrafondo,
-                R.drawable.padrillosfondoo,
-                R.drawable.siesta,
-                R.drawable.animalfondo,
-                R.drawable.tahuanfondo,
-                R.drawable.tikalfondo};
+                R.drawable.fondoalmanegra,
+                R.drawable.fondopadrillos,
+                R.drawable.fondosiesta,
+                R.drawable.fondoanimal,
+                R.drawable.fondotahuan,
+                R.drawable.fondotikal};
 
         int[] banderas = new int[]{
-                R.drawable.argentina
+                R.drawable.logoargentina
         };
 
 
@@ -132,86 +92,6 @@ public class BodegaVistalba extends AppCompatActivity implements SearchView.OnQu
 
             //Alma Negra Tinto 2013
             a = new Album(words[2], fondos[0], almanegra[2], R.string.almanegra_2013, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-
-            //Alma Negra MBlend
-            a = new Album(words[3], fondos[0], almanegra[3], R.string.almanegra_mblend_2013, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-
-            //Gran Alma Negra
-            a = new Album(words[4], fondos[0], almanegra[4], R.string.granalmanegra_2012_2011, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-
-            //Padrillos Pinot Noir 2016
-            a = new Album(words[5], fondos[1], padrillos[0], R.string.padrillospinotnoir2016, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-
-            //Padrillos Blend 2008
-            a = new Album(words[6], fondos[1], padrillos[1], R.string.padrillosblend2008, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-
-            //Padrillos Malbec 2017
-            a = new Album(words[7], fondos[1], padrillos[2], R.string.padrillosmalbec20092017, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-
-            //Siesta Malbec 2014
-            a = new Album(words[8], fondos[2], siesta[0], R.string.siestamalbec2014, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-
-            //Siesta Pinot Noir 2011
-            a = new Album(words[9], fondos[2], siesta[1], R.string.siestapinotnoir2011, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-
-            //Siesta Cabernet Sauvignon 2014
-            a = new Album(words[10], fondos[2], siesta[2], R.string.siestaCabernrtSauvignon2011, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-
-            //Siesta Biodinamico Malbec 2014
-            a = new Album(words[11], fondos[2], R.drawable.vacio, R.string.SiestaBiodinamicoMalbec2014, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-
-            //Siesta Biodinamico Cabernet 2014
-            a = new Album(words[12], fondos[2], R.drawable.vacio, R.string.SiestaBiodinamicoCabernet2014, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-
-            //SiestacBiodinamico Auvignon 2013
-            a = new Album(words[13], fondos[2], R.drawable.vacio, R.string.SiestaBiodinamicoAuvignon2013, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-
-            //Gran Sienta Gift Box
-            a = new Album(words[14], fondos[2], R.drawable.vacio, R.string.gransientagiftBox, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-
-            //Animal Malbec 2017
-            a = new Album(words[15], fondos[3], animal[0], R.string.animalMalbec2017, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-
-            //Animal Cabernet Sauvignon 2017
-            a = new Album(words[16],fondos[3],animal[1],R.string.animalCabernetSauvignon2017,"Argentina|Mendoza",banderas[0]);
-            albumList.add(a);
-
-            //Animal Chardonnay 2018
-            a = new Album(words[17],fondos[3],animal[2],R.string.animalChardonnay2018,"Argentina|Mendoza",banderas[0]);
-            albumList.add(a);
-
-            //Tahuan Malbec 2016
-            a = new Album(words[18],fondos[4],tahuan[0],R.string.tahuanMalbec2011,"Argentina|Mendoza",banderas[0]);
-            albumList.add(a);
-
-            //Tahuan Bonarda 2011
-            a = new Album(words[19],fondos[4],tahuan[1],R.string.tahuanBonarda2011,"Argentina|Mendoza",banderas[0]);
-            albumList.add(a);
-
-            //Tahuan Chardonnay 2011
-            a = new Album(words[20],fondos[4],tahuan[2],R.string.tahuanChardonnay2011,"Argentina|Mendoza",banderas[0]);
-            albumList.add(a);
-
-            //Tikal Jubilo
-            a = new Album(words[21],fondos[5],tikaljubilo[0],R.string.tikaljubilo,"Argentina|Mendoza",banderas[0]);
-            albumList.add(a);
-
-            //Tikal Amorio 2013
-            a = new Album(words[22],fondos[5],tikaljubilo[1],R.string.tikalamorio20082013,"Argentina|Mendoza",banderas[0]);
             albumList.add(a);
 
             adapter = new AlbumsAdapter(this, albumList);

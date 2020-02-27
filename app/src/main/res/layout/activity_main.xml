@@ -59,7 +59,7 @@
                             <ImageView
                                 android:id="@+id/btn_ernesto"
                                 android:background="@drawable/uno"
-                                android:src="@drawable/ernestologo"
+                                android:src="@drawable/logoernesto"
                                 android:layout_width="match_parent"
                                 android:layout_height="230dp"
                                 android:layout_centerInParent="true"/>
@@ -82,7 +82,7 @@
                             <ImageView
                                 android:id="@+id/btn_escorihuela"
                                 android:background="@drawable/dos"
-                                android:src="@drawable/escorihuelalogo"
+                                android:src="@drawable/logoescorihuela"
                                 android:layout_width="match_parent"
                                 android:layout_height="230dp"
                                 android:layout_centerInParent="true" />
@@ -134,7 +134,7 @@
                             <ImageView
                                 android:id="@+id/btn_vistalba"
                                 android:background="@drawable/cuatro"
-                                android:src="@drawable/vistalba"
+                                android:src="@drawable/logovistalba"
                                 android:layout_width="match_parent"
                                 android:layout_height="230dp" />
                         </RelativeLayout>
@@ -163,7 +163,7 @@
                             <ImageView
                                 android:id="@+id/btn_patriti"
                                 android:background="@drawable/cinco"
-                                android:src="@drawable/patriti"
+                                android:src="@drawable/logopatriti"
                                 android:layout_width="match_parent"
                                 android:layout_height="230dp" />
 
