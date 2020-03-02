@@ -242,8 +242,6 @@ public class ErnestoCatena extends AppCompatActivity implements SearchView.OnQue
             albumList.add(a);
 
 
-
-
             adapter = new AlbumsAdapter(this, albumList);
             recyclerView.setAdapter(adapter);
 
