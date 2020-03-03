@@ -62,7 +62,7 @@ public class Escorihuela extends AppCompatActivity implements SearchView.OnQuery
 
         int[] botellas = new int[]{
                 R.drawable.vacio,
-                R.drawable.vacio,};
+                R.drawable.vacio};
         int[] fondos = new int[]{
                 R.drawable.fondoescorihuelagascon};
 
@@ -75,15 +75,6 @@ public class Escorihuela extends AppCompatActivity implements SearchView.OnQuery
             //The President Blend
             Album a = new Album(wordsescorihuela[23], fondos[0], botellas[0], R.string.thepresidentblend, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
-
-            //Miguel Escorihuela
-            a = new Album(wordsescorihuela[24], fondos[0], botellas[1], R.string.miguelEscorihuela, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-
-            //Don Miguel Escorihuela
-            a = new Album(wordsescorihuela[25], fondos[0], botellas[2], R.string.donMiguelEscorihuela, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-
 
 
             adapter = new AlbumsAdapter(this, albumList);
