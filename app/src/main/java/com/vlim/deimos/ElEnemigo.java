@@ -3,10 +3,10 @@ package com.vlim.deimos;
 import android.content.res.Resources;
 import android.graphics.Rect;
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
-import android.support.v7.widget.DefaultItemAnimator;
-import android.support.v7.widget.GridLayoutManager;
-import android.support.v7.widget.RecyclerView;
+import androidx.appcompat.app.AppCompatActivity;
+import androidx.recyclerview.widget.DefaultItemAnimator;
+import androidx.recyclerview.widget.GridLayoutManager;
+import androidx.recyclerview.widget.RecyclerView;
 import android.util.TypedValue;
 import android.view.View;
 import android.widget.ImageView;
@@ -64,12 +64,25 @@ public class ElEnemigo extends AppCompatActivity implements SearchView.OnQueryTe
 
 
     private void prepareAlbums() {
-        final String[] words = getResources().getStringArray(R.array.enemigo);
-        int[] enemigo = new int[]{};
+        final String[] wordsEnemigo = getResources().getStringArray(R.array.enemigo);
+        int[] enemigoVinos = new int[]{
+                R.drawable.velenemigobonarda2016,
+                R.drawable.velenemigocabernetfranc2015,
+                R.drawable.velenemigochardonnay2016,
+                R.drawable.elenemigoelmiradorbonarda2013,
+                R.drawable.velenemigomalbec15l2016,
+                R.drawable.velenemigomalbec2016,
+                R.drawable.velenemigosyrahviognier2016,
+                R.drawable.vgranenemigo2010agrelo,
+                R.drawable.vgranenemigo2012elcepillo,
+                R.drawable.vgranenemigo2013gualtallary,
+                R.drawable.vgranenemigoblend2013,
+                R.drawable.vgranenemigochacayes2012
+        };
 
 
         int[] fondos = new int[]{
-                R.drawable.fondoelgranenemigo,
+                R.drawable.fondoredblend
         };
 
         int[] banderas = new int[]{
@@ -80,9 +93,43 @@ public class ElEnemigo extends AppCompatActivity implements SearchView.OnQueryTe
 
 
         for(int i =0 ;i<1; i++){
-            //El Enemigo Bonarda 2016
-            Album a = new Album(words[49], fondos[0], enemigo[0], R.string.granEnemigo2013, "Argentina|Mendoza", banderas[0]);
+            //0 El Enemigo Bonarda 2016
+            Album a = new Album(wordsEnemigo[0], fondos[0], enemigoVinos[0], R.string.granEnemigo2013, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
+            //1 El Enemigo cabernet Franc 2015
+            a = new Album(wordsEnemigo[1], fondos[0], enemigoVinos[1], R.string.granEnemigo2013, "Argentina|Mendoza", banderas[0]);
+            albumList.add(a);
+            //2 El Enemigo cabernet Franc 2015
+            a = new Album(wordsEnemigo[2], fondos[0], enemigoVinos[2], R.string.granEnemigo2013, "Argentina|Mendoza", banderas[0]);
+            albumList.add(a);
+            //3 El Enemigo el Mirador Bonarda 2013
+            a = new Album(wordsEnemigo[3], fondos[0], enemigoVinos[3], R.string.granEnemigo2013, "Argentina|Mendoza", banderas[0]);
+            albumList.add(a);
+            //4 El Enemigo Malbec 1.5L 2016
+            a = new Album(wordsEnemigo[4], fondos[0], enemigoVinos[4], R.string.granEnemigo2013, "Argentina|Mendoza", banderas[0]);
+            albumList.add(a);
+            //5 El Enemigo Malbec 2016
+            a = new Album(wordsEnemigo[5], fondos[0], enemigoVinos[5], R.string.granEnemigo2013, "Argentina|Mendoza", banderas[0]);
+            albumList.add(a);
+            //6 El Enemigo Syrah Viognier 2016
+            a = new Album(wordsEnemigo[6], fondos[0], enemigoVinos[6], R.string.granEnemigo2013, "Argentina|Mendoza", banderas[0]);
+            albumList.add(a);
+            //7 Gran Enemigo 2010 Agrelo
+            a = new Album(wordsEnemigo[7], fondos[0], enemigoVinos[7], R.string.granEnemigo2013, "Argentina|Mendoza", banderas[0]);
+            albumList.add(a);
+            //8 Gran Enemigo 2012 el Cepillo
+            a = new Album(wordsEnemigo[8], fondos[0], enemigoVinos[8], R.string.granEnemigo2013, "Argentina|Mendoza", banderas[0]);
+            albumList.add(a);
+            //9 Gran Enemigo 2013 Gualtallary
+            a = new Album(wordsEnemigo[9], fondos[0], enemigoVinos[9], R.string.granEnemigo2013, "Argentina|Mendoza", banderas[0]);
+            albumList.add(a);
+            //10 Gran Enemigo Blend 2013
+            a = new Album(wordsEnemigo[10], fondos[0], enemigoVinos[10], R.string.granEnemigo2013, "Argentina|Mendoza", banderas[0]);
+            albumList.add(a);
+            //11 Gran Enemigo Chacayes 2012
+            a = new Album(wordsEnemigo[11], fondos[0], enemigoVinos[11], R.string.granEnemigo2013, "Argentina|Mendoza", banderas[0]);
+            albumList.add(a);
+
 
             adapter = new AlbumsAdapter(this, albumList);
             recyclerView.setAdapter(adapter);

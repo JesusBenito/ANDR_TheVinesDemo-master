@@ -3,10 +3,10 @@ package com.vlim.deimos;
 import android.content.res.Resources;
 import android.graphics.Rect;
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
-import android.support.v7.widget.DefaultItemAnimator;
-import android.support.v7.widget.GridLayoutManager;
-import android.support.v7.widget.RecyclerView;
+import androidx.appcompat.app.AppCompatActivity;
+import androidx.recyclerview.widget.DefaultItemAnimator;
+import androidx.recyclerview.widget.GridLayoutManager;
+import androidx.recyclerview.widget.RecyclerView;
 import android.util.TypedValue;
 import android.view.View;
 import android.widget.ImageView;
@@ -100,16 +100,10 @@ public class ErnestoCatena extends AppCompatActivity implements SearchView.OnQue
                 R.drawable.vtikalpatriotamalbecbonarda};
 
         int[] fondos = new int[]{
-                R.drawable.fondoalmanegra,
-                R.drawable.fondoanimal,
-                R.drawable.fondopadrillos,
-                R.drawable.fondosiesta,
-                R.drawable.fondotahuan,
-                R.drawable.fondotikal};
+                R.drawable.fondoredblend};
 
         int[] banderas = new int[]{
-                R.drawable.logoargentina
-        };
+                R.drawable.logoargentina};
 
 
 
@@ -146,15 +140,15 @@ public class ErnestoCatena extends AppCompatActivity implements SearchView.OnQue
             albumList.add(a);
 
             //Animal C.S Organico
-            a = new Album(wordsernestoCatena[8], fondos[1], ernestoCatenaVinos[8], R.string.almanegra_2013, "Argentina|Mendoza", banderas[0]);
+            a = new Album(wordsernestoCatena[8], fondos[0], ernestoCatenaVinos[8], R.string.almanegra_2013, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
 
             //Animal C.H Organico
-            a = new Album(wordsernestoCatena[9], fondos[1], ernestoCatenaVinos[9], R.string.almanegra_2013, "Argentina|Mendoza", banderas[0]);
+            a = new Album(wordsernestoCatena[9], fondos[0], ernestoCatenaVinos[9], R.string.almanegra_2013, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
 
             //Animal Malbec Organico
-            a = new Album(wordsernestoCatena[10], fondos[1], ernestoCatenaVinos[10], R.string.almanegra_2013, "Argentina|Mendoza", banderas[0]);
+            a = new Album(wordsernestoCatena[10], fondos[0], ernestoCatenaVinos[10], R.string.almanegra_2013, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
 
             //Gran Alma Negra 1.5L
@@ -166,79 +160,79 @@ public class ErnestoCatena extends AppCompatActivity implements SearchView.OnQue
             albumList.add(a);
 
             //Padrillos Blend
-            a = new Album(wordsernestoCatena[13], fondos[2], ernestoCatenaVinos[13], R.string.almanegra_2013, "Argentina|Mendoza", banderas[0]);
+            a = new Album(wordsernestoCatena[13], fondos[0], ernestoCatenaVinos[13], R.string.almanegra_2013, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
 
             //Padrillos Malbec 375ml
-            a = new Album(wordsernestoCatena[14], fondos[2], ernestoCatenaVinos[14], R.string.almanegra_2013, "Argentina|Mendoza", banderas[0]);
+            a = new Album(wordsernestoCatena[14], fondos[0], ernestoCatenaVinos[14], R.string.almanegra_2013, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
 
             //Padrillos Malbec 2017
-            a = new Album(wordsernestoCatena[15], fondos[2], ernestoCatenaVinos[15], R.string.almanegra_2013, "Argentina|Mendoza", banderas[0]);
+            a = new Album(wordsernestoCatena[15], fondos[0], ernestoCatenaVinos[15], R.string.almanegra_2013, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
 
             //Padrillos Pinot Noir 2016
-            a = new Album(wordsernestoCatena[16], fondos[2], ernestoCatenaVinos[16], R.string.almanegra_2013, "Argentina|Mendoza", banderas[0]);
+            a = new Album(wordsernestoCatena[16], fondos[0], ernestoCatenaVinos[16], R.string.almanegra_2013, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
 
             //Padrillos Torrontes
-            a = new Album(wordsernestoCatena[17], fondos[2], ernestoCatenaVinos[17], R.string.almanegra_2013, "Argentina|Mendoza", banderas[0]);
+            a = new Album(wordsernestoCatena[17], fondos[0], ernestoCatenaVinos[17], R.string.almanegra_2013, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
 
             //Siesta 2014 Malbec
-            a = new Album(wordsernestoCatena[18], fondos[3], ernestoCatenaVinos[18], R.string.almanegra_2013, "Argentina|Mendoza", banderas[0]);
+            a = new Album(wordsernestoCatena[18], fondos[0], ernestoCatenaVinos[18], R.string.almanegra_2013, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
 
             //Siesta C.S Biodinamico 2014
-            a = new Album(wordsernestoCatena[19], fondos[3], ernestoCatenaVinos[19], R.string.almanegra_2013, "Argentina|Mendoza", banderas[0]);
+            a = new Album(wordsernestoCatena[19], fondos[0], ernestoCatenaVinos[19], R.string.almanegra_2013, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
 
             //Siesta C.S Biodinamico ED.Mexico
-            a = new Album(wordsernestoCatena[20], fondos[3], ernestoCatenaVinos[20], R.string.almanegra_2013, "Argentina|Mendoza", banderas[0]);
+            a = new Album(wordsernestoCatena[20], fondos[0], ernestoCatenaVinos[20], R.string.almanegra_2013, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
 
             //Siesta C.S 2010
-            a = new Album(wordsernestoCatena[21], fondos[3], ernestoCatenaVinos[21], R.string.almanegra_2013, "Argentina|Mendoza", banderas[0]);
+            a = new Album(wordsernestoCatena[21], fondos[0], ernestoCatenaVinos[21], R.string.almanegra_2013, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
 
             //Siesta Malbec 2013
-            a = new Album(wordsernestoCatena[22], fondos[3], ernestoCatenaVinos[22], R.string.almanegra_2013, "Argentina|Mendoza", banderas[0]);
+            a = new Album(wordsernestoCatena[22], fondos[0], ernestoCatenaVinos[22], R.string.almanegra_2013, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
 
             //Siesta Malbec Biodinamico 2014
-            a = new Album(wordsernestoCatena[23], fondos[3], ernestoCatenaVinos[23], R.string.almanegra_2013, "Argentina|Mendoza", banderas[0]);
+            a = new Album(wordsernestoCatena[23], fondos[0], ernestoCatenaVinos[23], R.string.almanegra_2013, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
 
             //Siesta Pinot Noir 2011
-            a = new Album(wordsernestoCatena[24], fondos[3], ernestoCatenaVinos[24], R.string.almanegra_2013, "Argentina|Mendoza", banderas[0]);
+            a = new Album(wordsernestoCatena[24], fondos[0], ernestoCatenaVinos[24], R.string.almanegra_2013, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
 
             //Tahuan Bonarda 2011
-            a = new Album(wordsernestoCatena[25], fondos[4], ernestoCatenaVinos[25], R.string.almanegra_2013, "Argentina|Mendoza", banderas[0]);
+            a = new Album(wordsernestoCatena[25], fondos[0], ernestoCatenaVinos[25], R.string.almanegra_2013, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
 
             //Tahuan Chardonnay
-            a = new Album(wordsernestoCatena[26], fondos[4], ernestoCatenaVinos[26], R.string.almanegra_2013, "Argentina|Mendoza", banderas[0]);
+            a = new Album(wordsernestoCatena[26], fondos[0], ernestoCatenaVinos[26], R.string.almanegra_2013, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
 
             //Tahuan Malbec 2011
-            a = new Album(wordsernestoCatena[27], fondos[4], ernestoCatenaVinos[27], R.string.almanegra_2013, "Argentina|Mendoza", banderas[0]);
+            a = new Album(wordsernestoCatena[27], fondos[0], ernestoCatenaVinos[27], R.string.almanegra_2013, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
 
             //Tikal Amorio Malbec 1.5 lts
-            a = new Album(wordsernestoCatena[28], fondos[5], ernestoCatenaVinos[28], R.string.almanegra_2013, "Argentina|Mendoza", banderas[0]);
+            a = new Album(wordsernestoCatena[28], fondos[0], ernestoCatenaVinos[28], R.string.almanegra_2013, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
 
             //Tikal Amorio Malbec, C.Franc 2013
-            a = new Album(wordsernestoCatena[29], fondos[5], ernestoCatenaVinos[29], R.string.almanegra_2013, "Argentina|Mendoza", banderas[0]);
+            a = new Album(wordsernestoCatena[29], fondos[0], ernestoCatenaVinos[29], R.string.almanegra_2013, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
 
             //Tikal Jubilo C.S Malbec 2006
-            a = new Album(wordsernestoCatena[30], fondos[5], ernestoCatenaVinos[30], R.string.almanegra_2013, "Argentina|Mendoza", banderas[0]);
+            a = new Album(wordsernestoCatena[30], fondos[0], ernestoCatenaVinos[30], R.string.almanegra_2013, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
 
             //Tikal Patriota Malbec Bonarda
-            a = new Album(wordsernestoCatena[31], fondos[5], ernestoCatenaVinos[31], R.string.almanegra_2013, "Argentina|Mendoza", banderas[0]);
+            a = new Album(wordsernestoCatena[31], fondos[0], ernestoCatenaVinos[31], R.string.almanegra_2013, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
 
 

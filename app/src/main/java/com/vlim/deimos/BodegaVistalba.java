@@ -3,10 +3,10 @@ package com.vlim.deimos;
 import android.content.res.Resources;
 import android.graphics.Rect;
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
-import android.support.v7.widget.DefaultItemAnimator;
-import android.support.v7.widget.GridLayoutManager;
-import android.support.v7.widget.RecyclerView;
+import androidx.appcompat.app.AppCompatActivity;
+import androidx.recyclerview.widget.DefaultItemAnimator;
+import androidx.recyclerview.widget.GridLayoutManager;
+import androidx.recyclerview.widget.RecyclerView;
 import android.util.TypedValue;
 import android.view.View;
 import android.widget.ImageView;
@@ -65,15 +65,12 @@ public class BodegaVistalba extends AppCompatActivity implements SearchView.OnQu
 
     private void prepareAlbums() {
         final String[] words = getResources().getStringArray(R.array.colome);
-        int[] almanegra = new int[]{};
+        int[] vistalbaVinos = new int[]{
+
+        };
 
         int[] fondos = new int[]{
-                R.drawable.fondoalmanegra,
-                R.drawable.fondopadrillos,
-                R.drawable.fondosiesta,
-                R.drawable.fondoanimal,
-                R.drawable.fondotahuan,
-                R.drawable.fondotikal};
+                R.drawable.fondoredblend};
 
         int[] banderas = new int[]{
                 R.drawable.logoargentina
@@ -83,16 +80,9 @@ public class BodegaVistalba extends AppCompatActivity implements SearchView.OnQu
 
         for(int i =0 ;i <1; i++){
             //Alma Negra Blanc
-            Album a = new Album(words[0], fondos[0], almanegra[0], R.string.almanegra_blanc, "Argentina|Mendoza", banderas[0]);
+            Album a = new Album(words[0], fondos[0], vistalbaVinos[0], R.string.almanegra_blanc, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
 
-            //Alma Negra Brut
-            a = new Album(words[1], fondos[0], almanegra[1], R.string.almanegra_brut, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-
-            //Alma Negra Tinto 2013
-            a = new Album(words[2], fondos[0], almanegra[2], R.string.almanegra_2013, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
 
             adapter = new AlbumsAdapter(this, albumList);
             recyclerView.setAdapter(adapter);
