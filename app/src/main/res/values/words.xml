@@ -99,6 +99,55 @@
         12<item>Nico By Luca lt 2007</item>
     </string-array>
 
+    <string-array name="patritti">
+        //Patritti
+        0<item>Primogenito Sangre Azul Merlot 2016</item>
+        1<item>Primogenito Sommelier 2012</item>
+        2<item>Primogenito Pinot Noir 2014</item>
+        3<item>Primogenito Blend 2013</item>
+        4<item>Primogenito Merlot 2011</item>
+        5<item>Primogenito Malbec 2008</item>
+    </string-array>
+
+    <string-array name="vicentin">
+        //Vicentin
+        0<item>Vicentin Blend de Malbec 2015</item>
+        1<item>Vicentin Blanc de Malbec 2017</item>
+        2<item>Reto Malbec 2016</item>
+        3<item>Reto Chardonnay 2018</item>
+        4<item>Reto Cabernet Sauvignon 2014</item>
+        5<item>Reto Cabernet Franc 2017</item>
+        6<item>Reto Blend 2016</item>
+        7<item>El Tramposo C.Franc 2016</item>
+        8<item>El Renegado C.S. 2016</item>
+        9<item>El Contrabandista Petit Verdot 2016</item>
+    </string-array>
+
+    <string-array name="robino">
+        0<item>Novecento Extra Brut Night</item>
+        1<item>Novecento Night Rosado</item>
+        2<item>Novecento Chardonnay 2018</item>
+    </string-array>
+
+    <string-array name="yacochuya">
+        0<item>Coqueña Tannat 2015</item>
+        1<item>Coqueña Malbec 2013</item>
+        2<item>Coqueña Torrontés 2012</item>
+        3<item>Yacochuya Blend 2011</item>
+        4<item>San pedro de Yacochuya 2012</item>
+    </string-array>
+
+    <string-array name="quintadoportal">
+        0<item>Douro Portal Moscatel Galego 2015</item>
+        1<item>Muros de Vinha blanco 2016</item>
+        2<item>Muros de Vinha Rose 2017</item>
+        3<item>Trevo Vinha Verde Branco 2018</item>
+    </string-array>
+    <string-array name="manosnegras">
+        0<item></item>
+    </string-array>
+
+
     <string-array name="anconaLuca">
         //Ancona Luca
         0<item>La Posta 2016 Malbec</item>
@@ -142,5 +191,9 @@
         6<item>Colome Autentico Malbec 2017</item>
         7<item>Colome Estate Malbec 2016</item>
         8<item>Colome Lote Especial el Arenal Malbec 2017</item>
+    </string-array>
+
+    <string-array name="durigutti">
+
     </string-array>
 </resources>

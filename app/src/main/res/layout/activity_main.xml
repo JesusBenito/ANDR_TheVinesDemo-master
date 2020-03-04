@@ -525,8 +525,29 @@
 
                             <ImageView
                                 android:id="@+id/btn_pampamaya"
-                                android:background="@drawable/siete"
+                                android:background="@drawable/diesinueve"
                                 android:src="@drawable/logopampamaya"
+                                android:layout_width="match_parent"
+                                android:layout_height="240dp" />
+
+                        </RelativeLayout>
+                    </androidx.cardview.widget.CardView>
+                    <androidx.cardview.widget.CardView
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_marginRight="5dp"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:orientation="vertical">
+
+                        <RelativeLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent">
+
+                            <ImageView
+                                android:id="@+id/btn_laguarda"
+                                android:background="@drawable/veinte"
+                                android:src="@drawable/logolaguarda"
                                 android:layout_width="match_parent"
                                 android:layout_height="240dp" />
 
