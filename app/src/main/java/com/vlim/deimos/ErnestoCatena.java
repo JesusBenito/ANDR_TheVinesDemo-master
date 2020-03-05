@@ -98,7 +98,6 @@ public class ErnestoCatena extends AppCompatActivity implements SearchView.OnQue
                 R.drawable.vtikalamoriomalbeccfranc2013,
                 R.drawable.vtikaljubilocsmalbec2006,
                 R.drawable.vtikalpatriotamalbecbonarda};
-
         int[] fondos = new int[]{
                 R.drawable.fondoredblend};
 
@@ -109,7 +108,7 @@ public class ErnestoCatena extends AppCompatActivity implements SearchView.OnQue
 
         for(int i =0 ;i <1; i++){
             //Alma Negra Brut Nature
-            Album a = new Album(wordsernestoCatena[0], fondos[0], ernestoCatenaVinos[0], R.string.almanegra_blanc, "Argentina|Mendoza", banderas[0]);
+            Album a = new Album(wordsernestoCatena[0], fondos[0], ernestoCatenaVinos[0], R.string.almanegra_brut, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
 
             //Alma Negra Blanc

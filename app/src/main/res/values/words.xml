@@ -143,28 +143,7 @@
         2<item>Muros de Vinha Rose 2017</item>
         3<item>Trevo Vinha Verde Branco 2018</item>
     </string-array>
-    <string-array name="manosnegras">
-        0<item></item>
-    </string-array>
-
-
-    <string-array name="anconaLuca">
-        //Ancona Luca
-        0<item>La Posta 2016 Malbec</item>
-        1<item>La Posta Armando Bonarda 2017</item>
-        2<item>La Posta Blanco 2011</item>
-        3<item>La Posta Glorieta Pinot Noir 2015</item>
-        4<item>La Posta Pizzella 2012 Malbec</item>
-        5<item>La Posta Red Blend 2016</item>
-        6<item>Luca Beso de Dante 2015</item>
-        7<item>Luca Chardonnay 2014</item>
-        8<item>Luca Malbec 1.5L</item>
-        9<item>luca Pinot Noir 2015</item>
-        10<item>Luca Syrah Laborde 2011</item>
-        11<item>Nico By Luca 2014</item>
-        12<item>Nico By Luca lt 2007</item>
-    </string-array>
-
+    
     <string-array name="canale">
         //Canale
         0<item>Black River Cabernet Sauvignon 2016</item>
@@ -194,6 +173,78 @@
     </string-array>
 
     <string-array name="durigutti">
-
+        0<item>Cara Sucia Cepas Tradicionales 2018</item>
+        1<item>Proyecto las Compuertas Cabernet Franc 2018</item>
+        2<item>Proyecto las Compuertas Charbono 2018</item>
+        3<item>Proyecto las Compuertas Cordisco 2017</item>
+        5<item>Proyecto las Compuertas Criolla Parral 2018</item>
+        6<item>Proyecto las Compuertas Malbec 5 Suelos 2016</item>
+        7<item>Proyecto las Compuertas Malbec 1914 2016</item>
     </string-array>
+
+    <string-array name="kopke">
+        0<item>Kopke Colheita 2001</item>
+        1<item>Kopke Colheita 2008</item>
+        2<item>Kopke lbv 2013</item>
+    </string-array>
+    
+    <string-array name="laposta">
+        0<item>La Posta 2016 Malbec</item>
+        1<item>La Posta Armando Bonarda 2017</item>
+        2<item>La Posta Blanco 2011</item>
+        3<item>La Posta Glorieta Pinot Noir 2015</item>
+        4<item>La Posta Pizzella 2012 Malbec</item>
+        5<item>La Posta Red Blend 2016</item>
+        6<item>Luca Beso de Dante 2015</item>
+        7<item>Luca Chardonnay 2014</item>
+        8<item>Luca Malbec 1.5L</item>
+        9<item>luca Pinot Noir 2015</item>
+        10<item>Luca Syrah Laborde 2011</item>
+        11<item>Nico By Luca 2014</item>
+        12<item>Nico By Luca lt 2007</item>
+    </string-array>
+    
+    <string-array name="maal">
+        0<item>Ambiguo Blanco de Malbec 2017</item>
+        1<item>Bestial Malbec 2014</item>
+        2<item>Biolento Malbec 2015</item>
+        3<item>Biutiful Malbec 2016</item>
+        4<item>Imposible Malbec 2014</item>
+        5<item>Rebelion Blend de Malbec 2016</item>
+    </string-array>
+    
+    <string-array name="manosnegras">
+        0<item>Finca la Escuela Malbec 2011</item>
+        1<item>Manos Negras Malbec 2015</item>
+        2<item>manos Negras Pinot Noir 2013</item>
+        3<item>Teho Tomal Vineyard el Corte 2012</item>
+        4<item>Teho Tomal Vineyard Malbec 2011</item>
+        5<item>Tinto Negro Malbec Mendoza 2015</item>
+        6<item>Tinto Negro Malbec Uco Valley 2012</item>
+        7<item>Tinto Negro Mendoza Sangiovese 2015</item>
+        8<item>Tinto Negro Uco Valley Cabernet Franc 2014</item>
+        9<item>Vineyard 1955 Malbec 2011</item>
+        10<item>Vivo o Muerto la Verdad 2014</item>
+        11<item>Vivo o Muerto el Indio 2014</item>
+        12<item>Vivo o Muerto el Limite 2014</item>
+        13<item>vivo o Muerto el Manzano 2014</item>
+        14<item>Vivo o Muerto San Jorge 2014</item>
+        15<item>Zaha Cabernet Franc 2012</item>
+        16<item>Zaha Toko Vineyard el Corte 2016</item>
+    </string-array>
+
+    <string-array name="pampamaya">
+        0<item>Pampa Maya Blend 2018</item>
+        1<item>Pampa Maya Syrah Nebbiolo 2018</item>
+    </string-array>
+
+    <string-array name="riglos">
+        0<item>Quinto Malbec 2017</item>
+        1<item>Riglos Gran C.Franc  2014</item>
+        2<item>Riglos Gran C.S.2014</item>
+        3<item>Riglos Gran Corte 2013</item>
+        4<item>Riglos Gran Malbec 2014</item>
+    </string-array>
+
+
 </resources>
