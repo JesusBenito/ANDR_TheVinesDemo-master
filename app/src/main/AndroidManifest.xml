@@ -11,7 +11,22 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Canale"></activity>
+        <activity android:name=".LaGuarda"></activity>
+        <activity android:name=".PampaMaya" />
+        <activity android:name=".Riglos" />
+        <activity android:name=".Luca" />
+        <activity android:name=".Kopke" />
+        <activity android:name=".Durigutti" />
+        <activity android:name=".Valduero" />
+        <activity android:name=".Colome" />
+        <activity android:name=".Maal" />
+        <activity android:name=".ManosNegras" />
+        <activity android:name=".QuintaPortal" />
+        <activity android:name=".Yacochuya" />
+        <activity android:name=".Robino" />
+        <activity android:name=".Vicentin" />
+        <activity android:name=".Patritti" />
+        <activity android:name=".Canale" />
         <activity android:name=".AnconaLuca" />
         <activity android:name=".BodegaVistalba" />
         <activity android:name=".ElEnemigo" />
@@ -20,7 +35,7 @@
         <activity
             android:name=".SplashActivity"
             android:configChanges="keyboardHidden|orientation|screenSize"
-            android:screenOrientation="portrait"
+            android:screenOrientation="fullSensor"
             android:theme="@style/SplashTheme">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

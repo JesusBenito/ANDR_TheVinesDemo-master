@@ -7,11 +7,12 @@ import androidx.appcompat.widget.Toolbar;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.SearchView;
+import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
     private ImageView btn_buscar;
-    private ImageView btn_ernesto, btn_escorihuela, btn_elenemigo;
+    private ImageView btn_ernesto, btn_escorihuela, btn_elenemigo,btn_vistalba,btn_patritti;
     private SearchView simpleSearchView;
     private ImageView imageView;
 
@@ -28,6 +29,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         btn_ernesto=findViewById(R.id.btn_ernesto);
         btn_escorihuela=findViewById(R.id.btn_escorihuela);
         btn_elenemigo=findViewById(R.id.btn_elenemigo);
+        btn_vistalba = findViewById(R.id.btn_vistalba);
+        btn_patritti = findViewById(R.id.btn_patriti);
         simpleSearchView = findViewById(R.id.simpleSearchView);
         imageView = findViewById(R.id.img_logo);
 
@@ -39,6 +42,12 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
         btn_elenemigo.setClickable(true);
         btn_elenemigo.setOnClickListener(this);
+
+        btn_vistalba.setClickable(true);
+        btn_vistalba.setOnClickListener(this);
+
+        btn_patritti.setClickable(true);
+        btn_patritti.setOnClickListener(this);
 
 
     }
@@ -64,6 +73,20 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 }else{
                     imageView.setVisibility(View.VISIBLE);
                 }
+                break;
+            case R.id.btn_vistalba:
+                Intent intent4 = new Intent(MainActivity.this,BodegaVistalba.class);
+                startActivity(intent4);
+                break;
+
+            case R.id.btn_patriti:
+                Intent intent5 = new Intent(MainActivity.this,Patritti.class);
+                startActivity(intent5);
+                break;
+
+            default:
+                Toast.makeText(this,"Error",Toast.LENGTH_SHORT);
+                break;
         }
     }
 }

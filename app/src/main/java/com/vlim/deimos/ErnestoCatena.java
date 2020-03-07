@@ -97,7 +97,8 @@ public class ErnestoCatena extends AppCompatActivity implements SearchView.OnQue
                 R.drawable.vtikalamoriomalbec15lt,
                 R.drawable.vtikalamoriomalbeccfranc2013,
                 R.drawable.vtikaljubilocsmalbec2006,
-                R.drawable.vtikalpatriotamalbecbonarda};
+                R.drawable.vtikalpatriotamalbecbonarda,
+                R.drawable.vgransiesta2011};
         int[] fondos = new int[]{
                 R.drawable.fondoredblend};
 
@@ -234,6 +235,9 @@ public class ErnestoCatena extends AppCompatActivity implements SearchView.OnQue
             a = new Album(wordsernestoCatena[31], fondos[0], ernestoCatenaVinos[31], R.string.almanegra_2013, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
 
+            //Gran Siesta 2011
+            a = new Album(wordsernestoCatena[32], fondos[0], ernestoCatenaVinos[32], R.string.almanegra_2013, "Argentina|Mendoza", banderas[0]);
+            albumList.add(a);
 
             adapter = new AlbumsAdapter(this, albumList);
             recyclerView.setAdapter(adapter);

@@ -86,7 +86,8 @@ public class Escorihuela extends AppCompatActivity implements SearchView.OnQuery
                 R.drawable.vpequenasprodcs2014,
                 R.drawable.vpequenasproduccionescabernets2014,
                 R.drawable.vpequenasproduccionespinotnoir2017,
-                R.drawable.solamantecs2016
+                R.drawable.solamantecs2016,
+                R.drawable.vescorihuelagasconchardonnay
         };
         int[] fondos = new int[]{
                 R.drawable.fondoredblend};
@@ -176,9 +177,9 @@ public class Escorihuela extends AppCompatActivity implements SearchView.OnQuery
             //25 Sol Amante C.S 2016
             a = new Album(wordsescorihuela[25], fondos[0], escorihuelaVinos[25], R.string.thepresidentblend, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
-
-
-
+            //Escorihuela Gascon Chardonnay
+            a = new Album(wordsescorihuela[26], fondos[0], escorihuelaVinos[26], R.string.thepresidentblend, "Argentina|Mendoza", banderas[0]);
+            albumList.add(a);
 
 
             adapter = new AlbumsAdapter(this, albumList);
