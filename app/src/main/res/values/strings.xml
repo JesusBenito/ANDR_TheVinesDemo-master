@@ -1,4 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
 <resources>
+
     <string name="app_name">Deimos</string>
     <string name="app_name2">TheVines</string>
     <string name="drawer_open">Open navigation drawer</string>
@@ -20,1987 +24,2988 @@
     <string name="backdrop_title">LOVE MUSIC</string>
     <string name="backdrop_subtitle">This season top 20 albums</string>
 
+
+    //Ernesto Catena
+    <string name="almanegrabrutnature">
+        - Malbec / Pinot noir
+        \n - Método Champenoise, Non Vintage.
+        \n - Nota de cata: delicadas burbujas, notas de cocktail, como
+          fresa, arándanos y frutos secos, cuerpo medio y
+          persistente final en boca.
+    </string>
     <string name="almanegrablanc">
-        - Chardonnay \n
-        - Zona Agrelo, Tupungato, Mendoza, Argentina\n
-        - Añejado 12 meses en botella \n
-        - Notas de cata: dorados con reflejos acerados intencidad
-          aromatica frutal, notas a tostadas.
-        - Ideal para frutos de mar, ostras, langostas, carnes blancas.
-    </string>
-    <string name="almanegra_brut">
-           - Malbec / Pinot noir\n
-           - Método Champenoise, Non Vintage.\n
-           - Nota de cata: delicadas burbujas, notas de cocktail, como
-             fresa, arandanos y frutos secos, cuerpo medio y
-            persistente final en boca
-    </string>
-    <string name="almanegra_2013">
-           - Variedad: "Misterio".
-        \n - Viñedos 100% Rivadavia, Mendoza.
-        \n - Altura del viñedo: 980 msnm.
-        \n - 16 m. en barricas de roble francés(40% nuevo).
-        \n - Notas de cata: color cereza, borde granate,
-            aroma expresivo, fresco, fruta madura, especiado, cacao.
-    </string>
+        - Chardonnay
+        \n- Zona Agrelo, Tupungato, Mendoza, Argentina
+        \n- Añejado 12 meses en botella
+        \n- Notas de cata: dorados con reflejos acerados intensidad
+          aromática frutal, notas a tostadas.
+        \n- Ideal para frutos de mar, ostras, langostas, carnes blancas.
 
-    <string name="almanegra_mblend_2013">
-        - Viñedos: 50% Rivadavia, 10% Judín, 30% La Consulta,10% Agrelo.
-        \n -Altura de viñedo: 890msnm.
-        \n -12 m. en barricas de roble francés(25% nuevo).
-        \n -Alc. Vol.: 14%.
-        \n -Notas de  cata: Color cereza oscuro, aroma expresivo,
-            potente fruta madura , roble cremoso.
     </string>
-    <string name="granalmanegra_2012_2011">
+    <string name="almanegraespumante15l">
         - Variedad: "Misterio".
-        \n -Viñedos: 100% Rivadavia, Mendoza.
-        \n -Altura de viñedo: 890 msnm.
-        \n 16 meses en barricas de roble: 50% francés y 50% americano.
-        \n -Alc. Vol.: 13.9%
+        \n-Viñedos: 100% Rivadavia, Mendoza.
+        \n-Altura de viñedo: 890 msnm.
+         16 meses en barricas de roble: 50% francés y 50% americano.
+        \n-Alc. Vol.: 13.9%
     </string>
-    <string name="padrillospinotnoir2016">
-        -Viñedo: Gualtallary, Tupungato, Mendoza.
-        \n - Notas de cata: vino de color rojizo, reflejos frambuesa,
-        aroma de cereza, fresa, violetas y coco. Entrada en boca
-        dulce.De buen volumen.
+    <string name="almanegramblend">
+        - Viñedos: 50% Rivadavia, 10% Judín, 30% La Consulta,10% Agrelo.
+        \n- Altura de viñedo: 890 msnm.
+        \n- 12 m. en barricas de roble francés(25% nuevo).
+        \n- Alc. Vol.: 14%.
+        \n- Notas de  cata: Color cereza oscuro, aroma expresivo,
+        potente fruta madura , roble cremoso.
+    </string>
+    <string name="almanegramblend500ml">
+
+        - Variedad: "Misterio".
+        \n- Viñedos 100% Rivadavia, Mendoza.
+        \n- Altura del viñedo: 980 msnm.
+        \n- 16 m. en barricas de roble francés(40% nuevo).
+        \n- Notas de cata: color cereza, borde granate,
+          aroma expresivo, fresco, fruta madura, especiado, cacao.
     </string>
 
-    <string name="padrillosblend2008">
+    <string name="almanegramisterio500ml">
+        \n- Variedad: "Misterio".
+        \n- Viñedos: 100% Rivadavia, Mendoza.
+        \n- Altura de viñedo: 890 msnm.
+          16 meses en barricas de roble: 50% francés y 50% americano.
+        \n- Alc. Vol.: 13.9%
+    </string>
+
+    <string name="almanegramisterio">
+        \n- Variedad: "Misterio".
+        \n- Viñedos: 100% Rivadavia, Mendoza.
+        \n- Altura de viñedo: 890 msnm.
+          16 meses en barricas de roble: 50% francés y 50% americano.
+        \n- Alc. Vol.: 13.9%
+    </string>
+
+    <string name="almanegravblend">
+        - Variedad: 100% Viognier
+        \n- Viñedod: 100% Altamira, Mendoza.
+        \n- Altura de viñedo: 1200 msnm.
+        \n- 12 meses en barrica de roble frances
+          de 3er. uso.
+        \n- Notas de cata: color rojo viejo borde
+          ambarino, aroma elegante, fruta
+          madura, expresivo, pastelería,
+          roble cremoso.
+    </string>
+
+    <string name="almanegratinto2013">
+        -Variedad: “Misterio”.
+        \n- Viñedos: 100% Rivadavia, Mendoza.
+        \n- Altura del viñedo: 980 msnm.
+        \n- 16 m. en barricas de roble francés (40%
+        nuevo).
+        \n- Notas de cata: color cereza, borde granate,
+        aroma ex-presivo, fresco, fruta madura,
+        especiado, cacao.
+    </string>
+
+    <string name="almanegraorange">
+        - Variedad: Blend, Valle de Uco Mendoza.
+        \n- Crianza: 9 meses en barricas de roble en
+        contacto con las pieles.
+        \n- Color: Naranja, con tonalidades oxidativas.
+        \n- Aroma: Apricot, caju, Flores secas, Frutas
+        Blancas
+        \n- Sabor: Seco, con excelente acidez , buen
+        final.
+    </string>
+
+    <string name="stellacrinitabarberavt">
+        Barbera 100%
+        \nFermentación: Huevos de concreto y
+        antiguas barricas no contiene sulfitos
+        suelos arenosos, calcareos, 1100
+        msnm.
+    </string>
+    <string name="animalcsorganico">
+        - Es un vino de un intenso color rojo muy limpio
+          y brillante. En nariz es pleno, concentrado y
+          con buena tipicidad. Pimienta, frutos rojos y negros,
+          y una nota de eucalipto que lo hace muy fresco. En
+          boca es elegante, carnoso y de muy buen cuerpo, con
+          sus frutas algo confitadas. Tiene una estructura
+          equilibrada y buena acidez.
+    </string>
+
+    <string name="animalchorganico">
+        - Animal Chardonnay se presenta amarillo pálido
+          con reflejos verdes.
+        /n- En nariz se presentan aromas frutales, cítricos,
+          con notas de levadura y pan tostado. En boca las
+          burbujas son suaves, muy agradables y persistentes.
+        /n- Ideal para acompañar carnes blancas, mariscos y pescados.
+    </string>
+
+    <string name="animalmalbecorganico">
+
+        - Varietal: 100% Malbec
+        /n- Viñedo: Vista Flores, Altamira, Mendoza.
+        /n- Alc. Vol.: 13.7%
+        /n- Altura de terreno: 1097 msnm.
+        /n- 10 meses en barrica, 50% de roble francés y
+          50% americano, 45% roble de primer uso y 55% de segundo y tercer uso.
+        /n- Nota de cata: de color rojo oscuro brillante, mora y chocolate negro
+         en nariz. En boca se confirman las las frutas negras, cereza regaliz
+         negro y hierbas. Acidez de equilibrio armónico final con base de
+         hierbas. Se mejorará con un año o dos de envejecimiento en botella.
+    </string>
+
+
+    <string name="granalmanegra15l">
+
+        - Variedad: "Misterio".
+        /n- Viñedos: 100% Rivadavia, Mendoza.
+        /n- Altura de viñedo: 890 msnm.
+          16 meses en barricas de roble: 50% francés y 50% americano.
+        /n- Alc. Vol.: 13.9%
+    </string>
+
+    <string name="granalmanegra">
+        - Variedad: "Misterio".
+        /n- Viñedos: 100% Rivadavia, Mendoza.
+        /n- Altura de viñedo: 890 msnm.
+         16 meses en barricas de roble: 50% francés y 50% americano.
+        /n- Alc. Vol.: 13.9%
+        </string>
+
+    <string name="padrillosblend">
         - Varietales: 80% Syrah, 15% Malbec y 5% Bonarda.
-        \n - Viñedo: El Pedernal, Mendoza.
-        \n - Alc. Vol: 13.9%
-        \n - 11 meses en barrica de roble francés de primer uso y
-            roble americano de segundo y tercer uso.
-    </string>
+        /n- Viñedo: El Pedernal, Mendoza.
+        /n- Alc. Vol: 13.9%
+        /n- 11 meses en barrica de roble francés de primer uso y
+          roble americano de segundo y tercer uso.
+        </string>
 
-    <string name="padrillosmalbec20092017">
+    <string name="padrillosmalbec375ml">
         - Viñedo: Valle de Uco, Mendoza.
-        \n - 8 meses en barrica de roble francés y americano de tercer uso.
-        \n - Alc. Vol: 13.9%
-        \n - Notas de cata: perfil jóven, aromas florales, sabor a ciruelas, bayas secas.
+        /n- 8 meses en barrica de roble francés y americano
+          de tercer uso.
+        \n- Alc. Vol: 13.9%
+        \n- Notas de cata: perfil jóven, aromas florales, sabor
+          a ciruelas, bayas secas.
+        </string>
+
+    <string name="padrillosmalbec2017">
+        - Viñedo: Valle de Uco, Mendoza.
+        /n- 8 meses en barrica de roble francés y americano
+        de tercer uso.
+        /n- Alc. Vol: 13.9%
+        /n- Notas de cata: perfil jóven, aromas florales, sabor
+        a ciruelas, bayas secas.
+        </string>
+
+    <string name="padrillospinotnoir2016">
+        - Viñedo: Gualtallary, Tupungato, Mendoza.
+        - Notas de cata: vino de color rojizo, reflejos frambuesa,
+          aroma de cereza, fresa, violetas y coco. Entrada en boca
+          dulce.De buen volumen.
+        </string>
+
+    <string name="padrillostorrontes">
+
     </string>
 
-    <string name="siestamalbec2014">
-        - Viñedos: Vistaflores Tunuyán, Mendoza.
-        \n - Altura de viñedo: 1000 msnm.
-        \n - Vendimia: última semana de abril.
-        \n - Tiempo de roble: 14 meses.
-        \n - Alcohol: 13.8%.
-        \n - Tipo de roble: 70% francés y 30% americano
-            (70% nuevo y 30% de primer y tercer uso).
-        \n - Notas de cata: de color rojo brillante y obscuro.
-        \n - Aromas puros de cereza negra, mora, aceituna negra y violetas.
-           - Ligeramente tostado, jugoso y firme, con un poco de acidez que
-             aun no se ha absorbido. Sugerentes notas de frutos secos estilo
-             oporto que se unen con la firmeza tánica de persistente final.
+    <string name="siesta2014malbec">
+        - Viñedos: Vista Flores Tunuyán, Mendoza.
+        - Altura de viñedo: 1000 msnm.
+        - Vendimia: última semana de abril.
+        - Tiempo de roble: 14 meses.
+        - Alcohol: 13.8%.
+        - Tipo de roble: 70% francés y 30% americano
+          (70% nuevo y 30% de primer y tercer uso).
+        - Notas de cata: de color rojo brillante y oscuro.
+        - Aromas puros de cereza negra, mora, aceituna negra y violetas.
+        - Ligeramente tostado, jugoso y firme, con un poco de acidez que
+          aún no se ha absorbido. Sugerentes notas de frutos secos estilo
+          oporto que se unen con la firmeza tánica de persistente final.
+    </string>
+
+    <string name="siestacsbiodinamico2014">
+        - Certificado por demeter
+        - 100 %  c. s.  valle de uco mendoza
+        - Crianza : 70 %  barrica francesa  30 % barrica  americana
+          de segundo uso y tercer uso por  14 meses tonalidades
+          rojizas intensas, limpio y brillante, nariz recuerda a
+          pimiento  rojo aceitunas, canela ,mora y cereza.de paladar
+          exquisito y estructura imponente siendo al mismo tiempo fresco
+          intenso y largo en boca con un final  que perdura y nos entrega
+          un retrogusto  agradable.
+    </string>
+
+    <string name="siestacsbiodinamicoedmexico">
+        - Certificado por demeter
+        - 100 %  c. s.  valle de uco mendoza
+        - Crianza : 70 %  barrica francesa  30 % barrica  americana
+        de segundo uso y tercer uso por  14 meses tonalidades
+        rojizas intensas, limpio y brillante, nariz recuerda a
+        pimiento  rojo aceitunas, canela ,mora y cereza.de paladar
+        exquisito y estructura imponente siendo al mismo tiempo fresco
+        intenso y largo en boca con un final  que perdura y nos entrega
+        un retrogusto  agradable.
+    </string>
+
+    <string name="siestacs2010">
+        - Viñedos: Vista Flores Tunuyán, Mendoza.
+        - Altura de viñedo: 1000 msnm.
+        - Vendimia: última semana de abril.
+        - Tiempo de roble: 14 meses.
+        - Alcohol: 13.8%.
+        - Tipo de roble: 80% francés y 20% americano
+        (70% nuevo y 30% de primer y tercer uso).
+        - Notas de cata: buen color rojo oscuro, brillante.
+        Oscuros aromas de cereza negra, frambuesa, cuero y regaliz de
+        roble chocolatoso. En boca cerezo negro, regaliz y sabores de
+        con taninos sustanciales,pero de grano fino, gran amplitud y
+        duración astuta.
+    </string>
+
+    <string name="siestamalbec2013">
+        - Viñedos: Vista Flores Tunuyán, Mendoza.
+        - Altura de viñedo: 1000 msnm.
+        - Vendimia: última semana de abril.
+        - Tiempo de roble: 14 meses.
+        - Alcohol: 13.8%.
+        - Tipo de roble: 70% francés y 30% americano
+        (70% nuevo y 30% de primer y tercer uso).
+        - Notas de cata: de color rojo brillante y oscuro.
+        - Aromas puros de cereza negra, mora, aceituna negra y violetas.
+        - Ligeramente tostado, jugoso y firme, con un poco de acidez que
+        aún no se ha absorbido. Sugerentes notas de frutos secos estilo
+        oporto que se unen con la firmeza tánica de persistente final.
+    </string>
+
+    <string name="siestamalbecbiodinamico2014">
+
     </string>
 
     <string name="siestapinotnoir2011">
-        - Viñedos: Vistaflores Tunuyán, Mendoza.
-        \n - Altura de viñedo: 1000 msnm.
-        \n - Vendimia: última semana de abril.
-        \n - Tiempo de roble: 13 meses.
-        \n - Alcohol: 13.8%.
-        \n - Tipo de roble: 100% francés.
-        \n - Notas de cata: aromas de rosas y frutos rojos,
-             con especias. En boca tiene una excelente acidez,
-             mezclada con las frutas y lo aterciopelado de un buen Pinot Noir.
+        - Viñedos: Vista Flores Tunuyán, Mendoza.
+        - Altura de viñedo: 1000 msnm.
+        - Vendimia: última semana de abril.
+        - Tiempo de roble: 13 meses.
+        - Alcohol: 13.8%.
+        - Tipo de roble: 100% francés.
+        - Notas de cata: aromas de rosas y frutos rojos,
+        con especias. En boca tiene una excelente acidez,
+        mezclada con las frutas y lo aterciopelado de un buen Pinot Noir.
     </string>
 
-    <string name="siestaCabernrtSauvignon2011">
-           - Viñedos: Vistaflores Tunuyán, Mendoza.
-        \n - Altura de viñedo: 1000 msnm.
-        \n - Vendimia: última semana de abril.
-        \n - Tiempo de roble: 14 meses.
-        \n - Alcohol: 13.8%.
-        \n - Tipo de roble: 80% francés y 20% americano
-           (70% nuevo y 30% de primer y tercer uso).
-        \n - Notas de cata: buen color rojo oscuro, brillante.
-             Oscuros aromas de cereza negra, frambuesa, cuero y regaliz de
-             roble chocolatoso. En boca cerezo negro, regaliz y sabores de
-             con taninos sustanciales,pero de grano fino, gran amplitud y
-             duración astuta.
-    </string>
+    <string name="tahuanbonarda2011">
+        - Varietal: 100% Bonarda.
+        - Viñedo: La vendimia, Rivadavia, Mendoza.
+        - Alc. Vol.: 13.7%
+        - Altura de terreno: 700 msnm.
+        - 10 meses en barrica, 50% de roble francés y 50%
+          americano, 45% roble de primer uso y 55% de segundo
+          y tercer uso.
+        - Nota de cata: de color rojo oscuro. Aromas de ciruela,
+          grosella, tabaco, moka y chocolate. En esencia los sabores
+          de cereza, ciruela y hierbas muestran una dulzura atractiva
+          y picante, termina en una ligera capa de taninos y un borde
+          leve de acidez. Fácil de beber.
+        </string>
 
-    <string name="SiestaBiodinamicoMalbec2014">
+    <string name="tahuanchardonnay">
+        - Varietal: 100% Chardonnay.
+        - Viñedo: Altamira, Mendoza.
+        - Alc. Vol.: 13.7%
+        - Altura de terreno: 1097 msnm.
+        - 8 meses en barrica, 50% de roble francés y 50% americano,
+          45% roble de primer uso y 55% de segundo y tercer uso.
+        - Nota de cata: aceite de limón, ensalada de frutas, la naranja y
+          el olor a mentol se profundizan en nariz. Amplio, redondo y muy
+          rico, con fruta de hueso y los sabores de especias marrones
+          ofreciendo presencia temprana. el final liso muestra una persistencia sutil.
+        </string>
 
-    </string>
+    <string name="tahuanmalbec2011">
+        - Varietal: 100% Malbec
+        - Viñedo: Vista Flores, Altamira, Mendoza.
+        - Alc. Vol.: 13.7%
+        - Altura de terreno: 1097 msnm.
+        - 10 meses en barrica, 50% de roble francés y
+          50% americano, 45% roble de primer uso y 55% de segundo y tercer uso.
+        - Nota de cata: de color rojo oscuro brillante, mora y chocolate negro
+          en nariz. En boca se confirman las las frutas negras, cereza regaliz
+          negro y hierbas. Acidez de equilibrio armónico final con base de
+          hierbas. Se mejorará con un año o dos de envejecimiento en botella.
+        </string>
 
-    <string name="SiestaBiodinamicoCabernet2014">
+    <string name="tikalamoriomalbec15lts">
 
-    </string>
+        </string>
 
-    <string name="SiestaBiodinamicoAuvignon2013">
-
-    </string>
-
-    <string name="gransientagiftBox">
-
-    </string>
-
-    <string name="animalMalbec2017">
-        - Animal Malbec es un vino modernos, bien elaborado, cautivamente y
-           accesible. Sabroso, de oscuro color rojo púrpura. En nariz, se muestra
-           aromático, fresco, repleto de notas frutales (ciruelas, cerezas y
-           grosellas), caracteristícas del varietal. En boca combina taninos suaves
-           con una estructura elegante y personal.
-        \n - Las notas frutadas se mezclan con un estilo directo, que afianza las
-           cualidades de esta magnífica uva.
-    </string>
-
-    <string name="animalCabernetSauvignon2017">
-        - Es un vino de un intenso color rojo muy limpio y brillante. En nariz
-           es pleno, concentrado y con buena tipicidad. Pimienta, frutos rojos y negros,
-           y una nota de eucalipto que lo hace muy fresco. En boca es elegante, carnoso
-           y de muy buen cuerpo, con sus frutas algo confitadas. Tiene una estructura
-           equilibrada y buena acidez.
-    </string>
-
-    <string name="animalChardonnay2018">
-        - Animal Chardonnay se presenta amarillo pálido con reflejos verdes.
-        \n En nariz se presentan aromas frutales, cítricos, con notas de levadura y
-           pan tostado. En boca las burbujas son suaves, muy agradables y persistentes.
-           Ideal para acompañar carnes blancas, mariscos y pescados.
-    </string>
-
-    <string name="tahuanMalbec2011">
-           - Varietal: 100% Malbec
-        \n - Viñedo: Vistaflores, Altamira, Mendoza.
-        \n - Alc. Vol.: 13.7%
-        \n - Altura de terreno: 1097 msnm.
-        \n - 10 meses en barrica, 50% de roble francés y
-             50% americano, 45% roble de primer uso y 55% de segundo y tercer uso.
-        \n - Nota de cata: de color rojo oscuro brillante, mora y chocolate negro
-             en nariz. En boca se confirmanlas las frutas negras, cereza regaliz
-             negro y hierbas. Acidez de equilibrio armónico final con base de
-             hierbas. Se mejorará con un año o dos de envejecimiento en botella.
-    </string>
-
-    <string name="tahuanBonarda2011">
-           - Varietal: 100% Bonarda.
-        \n - Viñedo: La vendimia, Rivadavia, Mendoza.
-        \n - Alc. Vol.: 13.7%
-        \n - Altura de terreno: 700 msnm.
-        \n - 10 meses en barrica, 50% de roble francés y 50% americano,
-           45% roble de primer uso y 55% de segundo y tercer uso.
-        \n - Nota de cata: de color rojo oscuro. Aromas de ciruela, grosella,
-             tabaco, moca y chocolate. En esencia los sabores de cereza, ciruela
-             y hierbas muestran una dulzura atractiva y picante, termina en una
-             ligera capa de taninos y un borde leve de acidez. Fácil de beber.
-    </string>
-
-    <string name="tahuanChardonnay2011">
-           - Varietal: 100% Chardonnay.
-        \n - Viñedo: Altamira, Mendoza.
-        \n - Alc. Vol.: 13.7%
-        \n - Altura de terreno: 1097 msnm.
-        \n - 8 meses en barrica, 50% de roble francés y 50% americano,
-           45% roble de primer uso y 55% de segundo y tercer uso.
-        \n - Nota de cata: aceite de limón, ensalada de frutas, la naranja y
-           el olor a mentol se profundizan en nariz. Amplio, redondo y muy
-           rico, con fruta de hueso y los sabores de especias marrones
-           ofreciendo presencia temprana. el final liso muestra una persistencia sutil.
-    </string>
-    <string name="tikaljubilo">
-           - Cosecha 2008.
-        \n - Variedad: 75% Cabernet, Sauvignon y 25% Malbec.
-        \n - Alc. Vol. 14.5%
-        \n - 12 meses en barrica de roble francés 30% nuevas y 70% de segundo uso.
-        \n Color cereza, borde granate, aroma elegante, expresivo, fruta madura,
-           roble cremoso.
-    </string>
-
-    <string name="tikalamorio20082013">
+    <string name="tikalamoriomalbeccfranc2013">
         - Cosecha 2013.
-        \n - Variedad: 60% Malbec, 40% Cabernet Franc.
-        \n - Valle de Uco, Mendoza.
-        \n - 12 meses en barrica:70% de roble francés y 30% americano de
-        \n segundo y tercer uso.
-        \n Posee aromas de ahumado y cereza.
-        \n Sabores penetrantes de cerezas rojas, negras y bayas. Muy seductor.
-    </string>
+        - Variedad: 60% Malbec, 40% Cabernet Franc.
+        - Valle de Uco, Mendoza.
+        - 12 meses en barrica:70% de roble francés y 30% americano de
+          segundo y tercer uso.
+        - Posee aromas de ahumado y cereza.
+        - Sabores penetrantes de cerezas rojas, negras y bayas. Muy seductor.
+        </string>
 
-    <string name="tikalPatriota2013">
+    <string name="tikaljubilocsmalbec2006">
+        - Cosecha 2008.
+        - Variedad: 75% Cabernet, Sauvignon y 25% Malbec.
+        - Alc. Vol. 14.5%
+        - 12 meses en barrica de roble francés 30% nuevas y 70% de segundo uso.
+          Color cereza, borde granate, aroma elegante, expresivo, fruta madura,
+          roble cremoso.
+        </string>
+
+    <string name="tikalpatriotamalbecbonarda">
         - Cosecha 2013.
-        \n - Variedad: 60% Malbec, 40% Bonarda.
-        \n - Alc. Vol. 14%
-        \n - Un vino de paso firme, concentrado un carácter que se dirime
-        \n entre frutal y vegetal.
-    </string>
+        - Variedad: 60% Malbec, 40% Bonarda.
+        - Alc. Vol. 14%
+        - Un vino de paso firme, concentrado un carácter que se dirime
+          entre frutal y vegetal.
+        </string>
 
-    //cava de Escorihuela gascon
-
-
-    <string name="thepresidentblend">
+    <string name="gransiesta2011">
 
     </string>
 
-    <string name="miguelEscorihuela">
-        - De color rojo violáceo intenso. Aromas a frutos rojos y casis,
-        combinados con vainilla, chocolate y café aportados por su
-        crianza en barricas. En boca se presenta intenso, de buena
-        estructura y concentración. Suave y complejo, muy elegante
-        y de persistente final.
-        \n - 14 m. en barrica de roble de 1er. uso
-    </string>
 
-    <string name="donMiguelEscorihuela">
-        - Su nariz es intensa y floral, con sutiles notas mentoladas
-        y tostadas, aromas a frutas negras y especias, formando
-        una textura aromática señorial y compleja. En boca
-        encontramos una fruta exuberante.
-        \n - 14 m. en barrica de roble francés de 1er. uso
-    </string>
+    //Escorihuela
 
-    // pequeñas producciones
-    <string name="cabernetSauvignon2014">
-        - Viñedo: Finca Escorihuela Gascón, Agrelo (950 msnm)
-        \n - Alc. Vol.: 13.5%
-        \n -Crianza: 12 meses en barricas de roble, 70% francés y
-        30% americano.
-        \n - Crianza en botella: 24 m.
-        \n - Notas de cata: a la vista es de color rojo intenso con
-        tonos negros, con aromas a especias, vainilla y chocolate,
-        aportados por el roble, tambien café del tostado de las
-        barricas. En boca es de buen estructura, complejo y con
-        muy buen final.
-    </string>
+    <string name="miguelescorihuelagascon2012">
+        - De color rojo violáceo intenso.
+        /n- Aromas a frutos rojos y casis, combinados con vainilla,
+          chocolate y café aportados por su crianza en barricas.
+        /n- En boca se presenta intenso, de buena estructura y
+          concentración. Suave y complejo, muy elegante y de
+          persistente final. 14 m. en barrica de roble francés
+          de 1er. uso.
 
-    <string name="MAlbec2015">
-        - Viñedo: Finca Escorihuela Gascón, Agrelo (950 msnm)
-        \n - Alc. Vol.: 13.7%
-        \n -Crianza: 12 meses en barricas de roble, 50% francés y
-        50% americano.
-        \n - Crianza en botella: 24 m.
-        \n - Notas de cata: de color violánceo intenso con aromas a
-        frutos negros maduros, violetas y casis, con notas de
-        vainilla, café y chocolate de su crianza en roble.
-        Frutado en boca, con taninos dulces que le aportan una
-        muy buena estructura elegante y de buen final.
-    </string>
+</string>
 
-    <string name="cabernetFranc2015">
-        - Viñedo: Finca Escorihuela Gascón, Agrelo (950 msnm)
-        \n - Alc. Vol.: 14.2%
-        \n - Crianza: 12 meses en barricas de roble francés
-        \n - Crianza en botella: 24 m.
-        \n - Notas de cata: de color rojo intenso con aroma a frutos
-        rojos maduros, con notas de vainilla y café aportadas por
-        su paso en roble francés. Buena estructura y de persistente
-        final.
-    </string>
-    <string name="PINOTNOIR2017">
+    <string name="donmalbec2012">
+        - Su nariz es intensa y floral, con sutiles notas
+          mentoladas y tostadas, aromas a frutas negras y
+          especias, formando una textura aromática señorial
+          y compleja. En boca encontramos una fruta exuberante.
+          Los taninos son firmes le brindan una notable longevidad.
+    /n  - 14 m. en barrica de roble francés de 1er. uso.
 
-    </string>
+</string>
 
-    <string name="granReservaMalbec2016">
+    <string name="thepresidentsblend18842015">
+        - El Cepillo, Valle de Uco, Mendoza
+     /n - 85% Malbec; 10% C.S.: 5 % Syrah
+     /n - Crianza: Malbec y syrah en cubas de roble frances,
+          el C.S. en barricas francesa durante 16 meses
+          rojo violaceo, profundo y brillante. Aromas de casis,
+          cerezas y cieruelas negras, especias y hierbas de la
+          provence.
+    /n - Tonos ahumados, vainilla y cacao
+       
+</string>
 
-    </string>
+    <string name="pequenasproduccionespinotnoir2017">
+      - Viñedo: El Cepillo
+    /n- Notas de cata: Rojo rubi profundo con reflejos de guinda,
+        aromas a cerezas, arandanos y fresas.
+    /n- En paladar es sutil envolvente y frutal, final prolongado
+</string>
 
-    <string name="granReservaCHARDONNAY2017">
+    <string name="pequenasproduccionesfranc2015">
+        - Viñedo: Finca Escorihuela Gascón, Agre-lo (950 msnm).
+      /n- Notas de cata: de color rojo intenso con aroma a frutos
+          rojos maduros, con notas de vainilla y café aportadas
+          por su paso en roble francés.
+          Buena estructura y de persistente final.
 
-    </string>
+</string>
 
-    <string name="famGasconRose2018">
-        - Fermentación: 15°C en tanques de acero inoxidable
-        \n - Crianza: fermentado en tanques de acero inoxidable
-        \n - Notas de degustación: de color rosa coral, con
-        delicados aromas a frutos rojos, proveniente de uvas
-        Malbec y Sangiovese. En boca es sensual, equilibrado,
-        con taninos suaves y maduros y con una delicada acidez
-        que le aporta frescura.
-    </string>
+    <string name="pequenasproduccionesmalbec2017">
+        - Viñedo: Finca Escorihuela Gascón, Agrelo (950 msnm).
+      /n- Alc. Vol.: 13,7%
+      /n- Crianza: 12 meses en barricas de roble, 50% francés
+          y 50% americano.
+      /n- Crianza en botella: 24 m.
+      /n- Notas de cata: de color violáceo intenso con aromas a
+          frutos negros maduros, violetas y casis, con notas de
+          vainilla, café y chocolate de su crianza en roble.
+          Frutado en boca, con taninos dulces que le aportan una
+          muy buena estructura.
+          Elegante y de buen final.
+</string>
 
-    <string name="famGasconDulce2014">
-        - Fermentación: 21 días en tanques de acero inoxidable
-        a 13° interrumpida a los 50 g/l de azúcar residual
-        \n - Notas de degustación: Amarillo suave con tonos
-        verdosos, aroma cítrico con notas tropicales. En
-        boca es liviano, fresco y con una equilibrada
-        relación azúcar - acidez.
-        \n - Varietal: 50% Chenin, 40% Sauvignonasse, 10% Viognier.
-    </string>
+    <string name="pequenasproduccionescabernets2014">
+        - Viñedo: Finca Escorihuela Gascón, Agrelo (950 msnm).
+      /n- Alc. Vol.: 13,5%
+      /n- Crianza: 12 meses en barricas de roble, 70% francés
+          y 30% americano.
+      /n- Crianza en botella: 24 m.
+      /n- Notas de cata: a la vista es de color rojo intenso con
+          tonos negros, con aromas aespecias, vainilla y chocolate,
+          aportados por el roble, también café del tostado de las
+          barricas. En boca es de buena estructura, complejo y
+          con muy buen final.
+</string>
 
-    <string name="famGasconMalbec2017">
-        - Fermentación: 25-28°C en tanques de acero inoxidable.
-        \n - Crianza: 8 meses en roble francés y americano
-        \n - Notas de degustación: De tonalidades rojo carmín
-        con reflejos púrpuras.Con una nariz muy expresiva
-        en frutas rojas como el cassis y la ciruela sumado a
-        delicadas notas tostadas. En la boca es intenso,
-        equilibrado y de buena estructura.
-    </string>
+    <string name="familiagasconmalbec2018">
+        - Fermentación: 25-28 o C en tanques de acero inoxidable.
+      /n- Crianza: 8 meses en roble francés y americano.
+      /n- Notas de degustación: De tonalidades rojo carmín
+          con reflejos purpuras. Con una nariz muy expresiva
+          en frutas rojas como el cassis y la ciruela, sumado
+          a delicadas notas tostadas. En la boca es intenso,
+          equilibrado y de buena estructura.
+</string>
 
-    <string name="famGasconSyrah2016">
-        - Fermentación: 25-28°C en tanques de acero inoxidable.
-        \n - Crianza: 4 meses en roble francés y americano
-        \n - Notas de degustación: De color rojo púrpura con
-        aromas a frutas negras maduras y notas de vainilla y
-        chocolate tostado aportado por la crianza en roble.
-        Buena estructura tánica y final largo.
-    </string>
+    <string name="familiagasconsyrah2018">
+          - Fermentación: 25-28o C en tanques de acero inoxidable.
+       /n - Crianza: 4 meses en roble francés y americano.
+       /n - Notas de degustación: De color rojo púrpura con aromas
+            a frutas negras maduras y notas de vainilla y chocolate
+            tostado aportado por la crianza en roble. Buena estructura
+            tánica y final largo.
+</string>
 
-    <string name="famGasconChardonnay2016">
-        - Fermentación: 15°C en tanques de acero inoxidable.
-        \n - Crianza: 5 meses; con delicados aromas a frutas
-        blancas jóvenes y frescas, como la manzana y el
-        damasco. Suaves notas a roble. que suman armonía
-        sin perder frescura. En boca es jugoso, con una
-        equilibrada acidez y un largo final.
-    </string>
-
-
-    <string name="eGasconMalbec375_750_1500">
-        - Viñedo: Finca Escorihuela Gascón Agrelo (950 msnm).
-        \n - Crianza: 8 meses de crianza en roble 50% francés
-        \n y 50% americano
-        \n Alc. Vol.: 13.4%
-        \n Notas de cata: de color rojo intenso con aroma a
-        frutos negros y rojos, concentrado de taninos
-        suaves y maduros. Persistente y elegante.
-    </string>
-
-    <string name="eGasconSangiovese2017">
+    <string name="familiagasconchardonnay2019">
+        -Fermentación: 15o C en tanques de acero inoxidable.
+      /n- Crianza: 5 meses; 70% roble francés, 30% acero inoxidable.
+      /n- Notas de degustación: con delicados aromas a frutas
+          blancas jóvenes y frescas, como la manzana y el damasco.
+          Suaves notas a roble, que suman armonía sin perder frescura.
+          En boca es jugoso, con una equilibrada acidez y un largo final.
 
     </string>
 
-    <string name="eGasconCFranc2017">
-        - Viñedo: Finca Escorihuela Gacón Agrelo (950 msnm).
-        \n - Crianza: 8 meses de crianza en roble 100% francés.
-        \n Notas de cata: de color violáceo intenso con tonos
-        rubíes, aromas a frutos rojos con especias como
-        primienta negra, notas de vainilla y café aportados
-        por la madera.
-        En boca es intenso, de buena estructura y con buen final.
+    <string name="familiagasconrose2018">
+        - Fermentación: 15o C en tanques de acero inoxidable.
+     /n - Crianza: fermentado en tanques de acero inoxidable.
+    /n  - Notas de degustación: de color rosa coral, con
+          delicados aromas a frutos rojos, proveniente de uvas
+          Malbec y Sangiovese.
+     /n - En boca es sensual, equilibrado, con taninos suaves
+          y maduros y con una delicada acidez que le aporta frescura.
     </string>
 
-    <string name="eGasconPinotNoir2018">
-        - Viñedo: Finca Escorihuela Gacón Agrelo (950 msnm).
-        \n - Crianza: 8 meses de crianza en roble 50% francés
-        y 50% americano
-        \n - Alc. Vol.: 13.4%
-        \n - Notas de cata: de color rojo intenso con aromas a
-        frutos negros y rojos, concentrado, de taninos suaves
+
+    <string name="familiagascondulcenatural2015">
+        - Fermentación: 21 días en tanques de acero inoxidable
+          a 13o C, interrumpida a los 50 g/l de azúcar residual.
+     /n- Notas de Degustación: Amarillo suave con tonos verdosos,
+          aromacítrico con notas tropicales. En boca es liviano,
+          fresco, y con unaequilibrada relación azúcar acidez.
+     /n- Varietal: 50 % Chenin, 40 %Sauvignonasse, 10 % Viognier.
+</string>
+
+    <string name="escorihuelagasconmalbec375mls2017">
+        - Viñedo: Finca Escorihuela Gascón, Agrelo (950 msnm).
+      /n- Crianza: 8 meses de crianza en roble 50% francés y
+          50% americano. Alc. Vol.: 13,4%
+      /n- Notas de cata: de color rojo intenso con aroma a
+          frutos negros y rojos, concentrado de taninos suaves
+          y maduros. Persistente y elegante.
+
+    </string>
+
+    <string name="escorihuelagasconmalbec750L2018">
+        - Viñedo: Finca Escorihuela Gascón, Agrelo (950 msnm).
+        /n- Crianza: 8 meses de crianza en roble 50% francés y
+        50% americano. Alc. Vol.: 13,4%
+        /n- Notas de cata: de color rojo intenso con aroma a
+        frutos negros y rojos, concentrado de taninos suaves
         y maduros. Persistente y elegante.
     </string>
 
-    <string name="eGasconCSauvignon2016">
-        - Viñedo: Finca Escorihuela Gacón Agrelo (950 msnm).
-        \n - Crianza: 10 meses de crianza en roble francés
-        \n - Alc. Vol.: 13.4%
-        \n - Notas de cata: de color rubí con reflejos violánceos.
-        \n En nariz podemos encontrar notas de casis, frutas rojas
-        maduras y retoques de vainilla y café aportados por el
-        roble. Intenso de buena longitud y taninos suaves.
-    </string>
-
-    <string name="eGasconViognier2017">
+    <string name="escorihuelagasconmalbec15L2015">
+        - Viñedo: Finca Escorihuela Gascón, Agrelo (950 msnm).
+       /n- Crianza: 8 meses de crianza en roble 50% francés y
+        50% americano. Alc. Vol.: 13,4%
+        /n- Notas de cata: de color rojo intenso con aroma a
+        frutos negros y rojos, concentrado de taninos suaves
+        y maduros. Persistente y elegante.
 
     </string>
 
-    <string name="CircusCSauvignon2017">
+    <string name="escorihuelagasconviogner">
+        - Viñedo: Finca Escorihuela Gascón, Agrelo (950 msnm).
+      /n- Alc. Vol.: 14%
+      /n- Notas de cata: amarillo intenso con reflejos verdosos
+    /n  - Aroma: Notas de frutas tropicales maduras como el ananá,
+          pera y damascos frescos. Sabor: Redondo, untuoso y
+          de un excelente final.
 
     </string>
 
-    <string name="CircusMalbec2017">
+    <string name="escorihuelagasconcabernetfranc2017">
+        - Viñedo: Finca Escorihuela Gascón, Agrelo (950 msnm).
+      /n- Crianza: 8 meses de crianza en roble 100% francés
+      /n- Notas de cata: de color violáceo intenso con tonos
+          rubíes, aromas a frutos rojos con especias como pimienta
+          negra, notas de vainilla y café aportados por la madera.
+          En boca es intenso, de buena estructura y con buen final.
 
     </string>
 
-    <string name="CircusSauvignonBlanc2017">
+    <string name="escorihuelagasconpinotnoir2018">
+        - Viñedo: Finca Escorihuela Gascón, Agrelo (950 msnm).
+      /n- Crianza: 8 meses de crianza en roble 50% francés y
+          50% america- no. Alc. Vol.: 13,4%
+      /n - Notas de cata: de color rojo intenso con aromas a
+          frutos negros y rojos, concentrado, de taninos suaves
+          y maduros. Persistente y elegante.
+    </string>
+
+    <string name="escorihuelagasconsangvionese2017">
+        - Viñedo: Finca Escorihuela Gascón, Agrelo Mendoza
+          Sangiovese 100%(950 msnm).
+      /n- Crianza: 50% 8 meses de crianza en roble francés
+          y Americano
+      /n- Notas de cata: de color rojo rubí de profundidad media,
+          buen brillo, reflejos granate.
+      /n- En nariz : es balsamico, hierbas de provence, aceitunas
+          negras, frutos rojos maduros, frutos del bosque. Cuerpo
+          medio, con taninos redondos y amables. Ideal para pastas
+          y carnes asadas.
+        
 
     </string>
 
-    <string name="GasconOrganic2017">
+    <string name="escorihuelagasconsauvignon2017">
+        - Viñedo: Finca Escorihuela Gascón, Agrelo Mendoza
+          Sangiovese 100%(950 msnm).
+       /n- Crianza: 50% 8 meses de crianza en roble francés
+          y Americano
+        /n- Alc. Vol.: 13,4%
+        /n- Notas de cata: de color rojo rubí de profundidad
+          media, buen brillo, reflejos granate. En nariz:
+          es balsamico, hierbas de provence, aceitunas negras,
+          frutos rojos maduros, frutos del bosque. Cuerpo medio,
+          con taninos redondosy amables.
+          Ideal para pastas y carnes asadas
+        
+    </string>
+
+    <string name="escorihuelagascongranreservamalbec2017">
+        De color rojo rubí, aromas a frutos rojos
+        y notas de chocolate y vainilla. Es un vino con carácter
+        y distinción. 18 meses en bodega: 30% en tanques de acero,
+        70% en barricas de primer uso: 80% francés y 20% americano.
+        Luego 18 meses más en botella.
+    </string>
+
+    <string name="escorihuelagascongranreserva2016chardonnay">
+        - Fermentación: 15o C en tanques de acero inoxidable.
+        /n- Crianza: 5 meses; 70% roble francés, 30% acero inoxidable.
+        /n- Notas de degustación: con delicados aromas a frutas
+         blancas jóvenes y frescas, como la manzana y el damasco.
+         Suaves notas a roble, que su-man armonía sin perder frescura.
+         En boca es jugoso, con una equilibrada acidez y un largo final.
+       
+    </string>
+
+    <string name="circusmalbec2017">
+        - Agrelo, Mendoza, Argentina
+     /n -Color: Violaceo vivaz y concentardo con reflejos granate
+      /n-Paladar en boca es amable, con taninos dulces y buen final
+</string>
+
+    <string name="circussaiuvignonblanc2019">
+        - Agrelo, Mendoza, Argentina.
+        /n-Color: tonos de color verde claro
+        /n-Nariz Es muy fresco con aromas a toronja y rosas
+         Paladar muy ligero y refrescante.
+    </string>
+
+    <string name="escorihuelagasconorganicvineyard2016">
+        - Malbec 100%; el cepillo , Valle de Uco Mendoza
+       /n- Crianza 8 meses en tanques de acero y 8 meses
+        en botella rojo violaceo profundo, brillante y
+        agil en copa
+     /n- Nariz frutal con trazos terrosos se destacan
+         frutos negros y rojos como ciruelas, cerezas,aandanos
+         y moras
+    /n- Pladar amable y ligero , sabroso refrescante, taninos
+        jugosos
+    </string>
+
+    <string name="elconquistadorredblend">
+        - Varietales: 68% Malbec, 25% Cabernet Sauvignon,
+          4% Petit Verdot, 3% Cabernet Franc
+        /n- Vinificación: Fermentación a temperatura controlada
+          en depósitos de acero inoxidable. 10 meses de crianza
+          en barricas de roble francés y americano.
+        /n- Notas de cata: de color rojo vivo con tonos violetas,
+          aromas de frutos rojos y bayas de frutas. Sutiles notas
+          de vainilla, chocolate y café. Hermosa estructura con
+          concentración armoniosa, taninos frutales bien integrados.
+        /n- Almacenamiento: hasta 10 años.
 
     </string>
 
-    <string name="Elconquistador2009">
-        -Varietales: 68% Malbec, 25% Cabernet Sauvignon,
-        \n 4% Petit Verdor, 3% Cabernet Franc.
-        \n - Vinificación: Fermentación a temperatura controlada
-        en depósitos de acero inoxidable. 10 meses de crianza
-        en barricas de roble francés y americano.
-        \n - Notas de cata: de color rojo vivo con tonos violetas,
-        aromas de frutos rojos y bayas de frutas. Sutiles
-        notas de vainilla, chocolatey café. Hermosa estructura
-        con concentración armoniosa, taninos frutales bien
-        integrados.
-
-    </string>
-    <string name="Carcassone2015">
-        - Composición varietal: Syrah-Tempranillo-Bonarda y Malbec
-        \n - Viñedo: Barrancas y Medrano, Maipú, Mendoza
-        \n - Cosecha: Manual, primera semana de marzo.
-        \n - Fermentación: Entre 24-28°C, Maceración de 15 días
-        100% fermentación Maloláctica
-        \n - Notas de Degustacón: En nariz es frutado, color rojo con tonos violánceos,
-        en boca suave y de buen final.
+    <string name="carcassonneclasico">
+       -Composición Varietal: Syrah, Tempranillo, Bonarda y Malbec
+       /n-Viñedo:Barrancas y Medrano, Maipú, Mendoza.
+        Cosecha: Manual, primera semana de marzo.
+       /n-Fermentación: Entre24-28°C, Maceración de 15 días.
+        100% Fermentación Maloláctica.
+        Notas de Degustación: En nariz es frutado, color rojo
+        con tonos violáceos,en boca suave y de buen final.
     </string>
 
+    //Enemigo
+    <string name="granenemigo2015">
+        - 80% Cabernet Franc, 10% Malbec, 10% Petit Verdot.
+        /n- Alc. Vol. 14,0%
+        /n- Notas de cata: A la vista es de intenso violáceo con
+        destellos rubíes. A la nariz invaden aromas dulces de
+        frutos negros maduros con notas de vainilla y chocolate
+        aportado por el roble.
+        En boca de impacto dulce y taninos estructurados, de
+        gran persistencia sostenida por la acidez natural.
+        asadas, quesos y platos fuertes.
+</string>
 
-    // Tercera cava BODEGAS ALEANNA ; EL ENEMIGO
+    <string name="elenemigocabernetfranc2016">
+        - Alc. Vol. 13,5%- 100% Cabernet Franc.
+        /n- Notas de cata: De atractivo color rojo frambuesa muy
+          clrito con ribete y reflejos azulados. En nariz se presenta
+          aromático y fresco. Aromas de frutillas y un toque mineral
+          mesclado con flores violetas
+         Fácil de beber y rico en boca. Presencia muy sutil de frutas
+         rojas(moritas y arándanos). Tanino en redondez con matices
+         de elegancia.
+</string>
 
+    <string name="elenemigomalbec2016">
+        - Alc. Vol. 14,4%
+        /n- 89% Malbec, 11% Petit Verdot.
+        /n- Notas de cata: De color rojo rubí intenso con destellos
+         violáceos. A la nariz del Malbec aporta mineralidad y
+         aromas florales marcados que recuerdan a las violetas y
+         lavanda, además de aportar frescura por su acidez natural,
+         mientras que el Petit Verdot aporta roma de frutos negros
+         maduros y media boca. Aparecen notas de vainilla y tostado
+         marcadas. En boca resulta dulce, aterciopelado y carnoso.
+         De buen equilibrio con taninos marcados.
+</string>
 
-    <string name="granEnemigo2013">
-        - 80% Cabernet Franc, 10% Malbec, 10% Petit Verdot
-        \n - Alc. Vol. 14.0%
-        \n - Notas de cata: A la vista es de intenso violánceo con destellos
-        rubies. A la nariz invaden aromas dulces de frutos negros msduros
-        con notas de vainilla y chocolate aportado por el roble.
-        En boca de impacto dulce y taninos estructurados, de gran persistencia
-        sostenida por la acidez natural.
-        Excelente longitud final. Ideal para acompañar carnes asadas, quesos y
-        platos fuertes.
-    </string>
-    <string name="elEnemigoCabernetFranc2015">
-        - Alc.Vol. 13.5%
-        \n - 100% Cabernet Franc.
-        \n - Notas de cata: De atractivo color rojo frambuesa muy clarito con
-        ribete y reflejos. En nariz se presenta aromatico y fresco. Aromas
-        de frutillas y un toque mineral mezclado con flores violetas.
-        Fácil de beber y rico en boca. Presencia muy sutil de frutas rojas
-        (moritas y arándanos). Tanino en redondez con matices de elegancia.
+    <string name="elenemigobonarda2016">
+        - Alc. Vol. 14,0%
+        /n- 90% Bonarda, 10% Cab. Franc.
+        /n- Notas de cata: De color violeta intenso con destellos
+         azules. En nariz recuerda aromas intensos de compotas
+         de fruta madura, frambuesas, cerezas negras, chocolate
+         y licor. En boca es dulce con taninos aterciopelados y
+         sedosos florecen aromas de frutos rojos. Por su
+         concentración y complejidad es final largo y persistente.
+</string>
+
+    <string name="elenemigosyrahviognier2016">
+        - Alc. Vol. 14,0%
+        /n- 93% Syrah, 7% Viognier.
+        /n- Notas de cata: De color rubí intenso con destellos
+          violáceos. En nariz recuerda aromas de fruta negra
+          madura, tostado vainilla con ciertas notas animales
+          que le dan complejidad. Delicados aromas florales
+          son aportados. Al paladar de impacto suave, fresco
+          con buena acidez, aparecen aromas de frutos rojos
+          y negros maduros, final es largo y persistente.
+</string>
+
+    <string name="elenemigochardonnay2016">
+          - Alc. Vol. 13,5%
+        /n- 100% Chardonnay
+        /n- Fermentado en barricas de segundo y tercer uso.
+          Trabajo sobre borras para otorgar cremosidad.
+        /n- Notas de cata: Fresco, con aporte del calcáreo y
+         la tiza del suelo de Gualtallary, el resultado es
+         un Chardonnay chispeante, aromático y notablemente
+         aterciopelado en boca.
+</string>
+
+    <string name="granenemigochacayes2012">
+        - Añejamiento: 15 meses de foudre de 100 años,
+        /n- Viñedo: Rivadavia
+        /n-Nota de cata: aromas complejos. Surgen aromas
+        intensidad x ser plantas jóvenes
+</string>
+
+    <string name="granenemigoelcepillo2012">
+        - Añejamiento: 15 meses de foudre de 100 años,
+        /n- Viñedo: San Carlos, Valle de Uco. 1450 sndm.
+        /n- Nota de cata: en paladar graphito, algo mineral.
+          Pocos trazos de la madera.
+</string>
+
+    <string name="granenemigogualtallary">
+        - Region: Single Vineyard Agrelo, Mendoza (930 m.s.n.m.).
+        /n- Composicion Varietal: 85% Cabernet Franc, 15% Malbec
+        /n- Crianza: 7 meses en foudres
+        /n- Notas de cata: Sus notas a frutos rojos pequeños y de
+        ciruela son los elementos más dominantes. Toque de
+        vainilla entregado por la madera. En boca se presenta
+        con gran personalidad, buen cuerpo, frutado, armónico
+        y sensual.
     </string>
 
-    <string name="elEnemigoMalbec750mly3000ml2015">
-        - Alc.Vol. 14.4%
-        \n - 89% Malbec, 11% Petit Vardot.
-        \n - Notas de cata: De color rojo rubí intenso con destello violánceos.
-        \n A la nariz del Malbec aporta mineralidad y aromas florales marcados
-        que recuerdan a las violetas y lavanda, además de aportar frescura
-        por su acidez narural, mientras que el Petit Verdot aporta aroma
-        de frutos negros maduros y media boca. Aparecen notas de vainilla y
-        tostado marcadas. En boca resulta dulce, aterciopelado y carnoso.
-        De buen equilibrio con taninos marcados.
-    </string>
+    <string name="granenemigoagrelo">
+        - Region: Gualtallary, Tupungato, Mendoza (1470 m.s.n.m.)
+        /n- Composicion Varietal: 85% Cabernet Franc, 15% Malbec
+        /n- Crianza: 7 meses en foudres
+        /n- Notas de Cata: Color: Morado oscuro con reflejos rojos.
+        /n-Aroma: Especias dulces, pimienta negra y ligeras notas
+        de eucalipto y tomillo. Sabor: Complejo con taninos
+        estructurados, muy largo y persistente final.
+</string>
 
-    <string name="elEnemigoBonarda2015">
-        - Alc.Vol. 14.0%
-        \n - 90% Bonarda, 10% Cab. Franc.
-        \n - Notas de cata: De color violeta intenso con destellos axules. En
-        nariz recuerda aromas intensos de compotas de fruta madura,
-        frambuesas, cerezas negras, chocolate y licor. En boca es dulce con
-        taninos aterciopelados y sedosos, florecen aromas de futos rojos.
-        Por su concentración y complejidad el final es largo y persistente
-    </string>
-
-    <string name="elEnemigoSyrah2014">
-        - Alc.Vol. 14.0%
-        \n - 93% Syrah, 7% Viognier.
-        \n - Notas de cata: De color rubí intenso con destellos violánceos.
-        \n En nariz recuerda aromas de frutas de fruta negra madura, tostado
-        vainilla con ciertas notas animales que le dan complejidad.
-        \n- Delicados aromas florales son aportados. Al paladar de impacto
-        suave, fresco con buena acidez, apaecen aromas de frutos rojos y
-        negros maduros, final es largo y persistente
-    </string>
-    <string name="elEnemigoChardonnay2016">
-        - Alc.Vol. 13.5%
-        \n - 100% Chardonnay.
-        \n - Fermentado en barricas de segundo y tercer uso. Trabajo sobre
-        para otorgar cremosidad.
-        \n- Notas de cata: Fresco, con aporte del calcáreo y la tiza del suelo
-        de Gualtallary, el resultado es un Chardonnay chispeante, aromático
-        notablemente aterciopelado en boca.
-    </string>
-
-    <string name="granEnemigoChacayes2012">
-        - Añejamiento: 15 meses de foudre de 100 años
-        \n - Viñedo: Rivadavia
-        \n - Notas de cata: aromas complejos. Surgen aromas florales sorprende
-        su intesidad x ser plantas jóvenes.
-    </string>
-    <string name="granEnemigoCepillo2012">
-        - Añejamiento: 15 meses de foudre de 100 años
-        \n - Viñedo: San Carlos, valle de Uco. 1450 sndm.
-        \n - Notas de cata: en paladar graphito, algo mineral, Pocos
-        trazos de la madera
-    </string>
-    <string name="granEnemigoAgrelo2010y2011">
-        - Región: Gualtallary, Tupungato, Mendoza(1470 m.s.n.m.)
-        \n - Composición varietal: 85% Cabernet Franc, 15% Malbec
-        \n - Crianza:7 meses en foudres
-        \n - Notas de cata:
-        \n - Color: Moorado oscuro con reflejos rojos
-        \n - Aroma: Especias dulces, pimienta negra y ligeras notas
-        de eucalipto y tomillo.
-        \n - Sabor: Complejo con taninos estructurados, muy largo y
-        persistente final.
-    </string>
-    <string name="granEnemigoGualtallary201020112013y2014">
-        - Región: Single Vineyard Agrelo, Mendoza (930 m.s.n.m.)
-        \n - Composición varietal: 85% Cabernet Franc, 15% Malbec
-        \n - Crianza:7 meses en foudres
-        \n - Notas de cata: Sus notas a frutos rojos pequeños y de
-        ciruela son los elementos más dominantes. Toque de vainilla
-        entregado por la madera. En boca se presenta con gran
-        personalidad, buen cuerpo, frutado, armónico y sensual.
-    </string>
-    <string name="elEnemigoLosParaisos2013">
-        - Todas estan bonardas tienen más de 80 años. El viñedo de Los
-        \n Paraísos tienen más de 100 años. No hay muchos bonardas con
-        esta estructura tánica y este frescor.
-        \n - El mirador se elabora con Bonarda Sangiovese y Tempranillo,
-        posee buena estructura de taninos.
-    </string>
-    <string name="elEnemigoElMirador2013">
-        - Añejamiento en foudres de 100 años (toneles de gran tamaño
-        \n Dice Alejandro Vigul que Los Paraísos y El Mirador vienen
+    <string name="elenemigoelmirador2016">
+        - Añejamiento en foudres de 100 años (toneles de gran tamaño
+        que pueden variar de 330 a 30/40 mil litros)
+        Dice Alejandro Vigil que Los Paraísos y El Mirador vienen
         de Rivadavia, cree que la zona puede dar grandes bonardas,
-        sobre todo por la edad de los viñedos.
+        sobre todo por la edad de los viñedos.
+        Todas estas bonardas tienen más de 80 años. El viñedo de
+        Los Paraísos tiene más de 100 años. No hay muchos bonardas
+        con esta estructura tánica y este frescor.
+        El Mirador se elabora con Bonarda Sangiovese y Tempranillo,
+        posee buena estructura de taninos. sobre todo por la edad de
+        los viñedos.
+</string>
+
+    <string name="elenemigolosparaisos2016">
+        - Añejamiento en foudres de 100 años (toneles de gran tamaño
+        que pueden variar de 330 a 30/40 mil litros)
+        Dice Alejandro Vigil que Los Paraísos y El Mirador vienen
+        de Rivadavia, cree que la zona puede dar grandes bonardas,
+        sobre todo por la edad de los viñedos.
+        Todas estas bonardas tienen más de 80 años. El viñedo de
+        Los Paraísos tiene más de 100 años. No hay muchos bonardas
+        con esta estructura tánica y este frescor.
+        El Mirador se elabora con Bonarda Sangiovese y Tempranillo,
+        posee buena estructura de taninos. sobre todo por la edad de
+        los viñedos.
     </string>
 
-    // Bodega la posta wines
-    <string name="NicoByLucaMalbec2014">
-        - Varietales: 100% malbec, viñedos ubicados en Valle de Uco, Mendoza.
-        \n - Estiba de 18 meses en barricas de roble francés de primer uso.
-        \n - Presentaciones de 750 ml y 3000 ml
-        \n - Notas de cata: Exótico, crema de higo raspberry, grosella, moka,
-        pastel de frutas, de gran cuerpo, opulento. Excepcional balance.
+
+    //laposta
+
+    <string name="nicobyluca2014">
+        - Varietales: 100% malbec, viñedos ubicados en
+          Valle de Uco, Mendoza.
+        /n- Estiba de 18 meses en barricas de roble francés
+          de primer uso.
+        /n- Presentaciones de 750 ml y 3000 ml.
+        /n- Notas de cata: Exótico, crema de higo, raspberry,
+          grosella, moka, pastel de frutas, de gran cuerpo,
+          opulento. Excepcional balance.
     </string>
 
-    <string name="LucaMalbecde750y1500ml2015y2014">
-        - Varietales: 100% malbec.
-        \n Viñedos: Valle de Uco.
-        \n- Estiba en barricas de roble francés (60% nuevo)
-        \n- Notas de cata: oscuro, salsa de higo, ciruela derretida,
-        moka, pastel de frutas, boysenberry, blueberry, taninos
-        aterciopelados. Final largo que deja la boca llena.
-    </string>
-    <string name="LucaPinotNoir2015">
-        - Varietales: 100% pinot noir.
-        \n - Alc. Vol.: 13.5%
-        \n - Viñedos: Gualtally, Tupungato a 1460 msnm.
-        \n - Edad: 16 años.
-        \n - Vendimia manual.
-        \n - 12 meses en barricas de roble francés (30% nuevo y
-        70% de segundo uso)
-        \n - Notas de cata: Strawberry salvaje, raspberry, cuero,
-        especias, cedro. Cuerpo medio, muy intenso y de largo final.
+    <string name="lucamalbec20151500ml">
+        - Varietales: 100% malbec
+        /n- Alc. Vol.: 14%- Viñedos: Valle de Uco.
+        /n- Estiba en barricas de roble francés (60% nuevo).
+        /n- Notas de Cata: oscuro, salsa de higo, ciruela
+          derretida, moka, pastel de frutas, boysenberry,
+          blueberry, taninos aterciopelados. Final largo
+          que deja la boca llena.
     </string>
 
-    <string name="LucaBesoDeDante2016">
-        - Varietales: 55% Malbec, 20% cabernet sauvignon, 25% petit verdor.
-        \n - Alc. Vol.: 14%
-        \n - Viñedos: Vistaflores, San Carlos a 1460 msnm.
-        \n - Edad: 16 años.
-        \n - Vendimia manual.
-        \n - 12 meses en barricas de roble francés (70% nuevo)
-        \n - Notas de cata: Muy obscuro, cantidades de higo, cacao,
-        recubierto de café, largo y rico. Final con raspberry muy balanceado.
+    <string name="lucamalbec2015750ml">
+        - Varietales: 100% malbec
+        /n- Alc. Vol.: 14%- Viñedos: Valle de Uco.
+        /n- Estiba en barricas de roble francés (60% nuevo).
+        /n- Notas de Cata: oscuro, salsa de higo, ciruela
+        derretida, moka, pastel de frutas, boysenberry,
+        blueberry, taninos aterciopelados. Final largo
+        que deja la boca llena.
     </string>
 
-    <string name="LucaChardonnay2014">
-        - Varietales: 100% chardonnay
-        \n - Alc. Vol.: 14%
-        \n - Viñedos: Gualtallary, Tupungato
-        \n - Altura del viñedo: 1480 msnm.
-        \n - 14 meses en barricas de roble francés (30% nuevo, 70% un año
-        de uso sobre lías).
+    <string name="lucabesodedante2016">
+        - Varietales: 55% malbec, 20 % cabernet sauvignon,
+          25% petit verdot.
+        /n- Alc. Vol.: 14%Carlos a 1460 msnm. Edad: 16 años.
+        /n- Vendimia Manual.
+        /n- 12 meses en barricas de roble francés (70% nuevo).
+        /n- Notas de Cata: muy oscuro, cantidades de higo,
+          cacao, recubierto de café, largo y rico. Final
+          con raspberry, muy balanceado.
     </string>
 
-    <string name="LucaSyrah2014">
+    <string name="lucachardonnay2016">
+        - Varietales: 100% chardonnay.
+        /n- Alc. Vol.: 14%
+        /n- Viñedos: Gualtallary, Tupungato.
+        /n- Altura del viñedo: 1480 msnm.
+        /n- 14 mses en barrica de roble francés (30% nuevo,
+        70% un año de uso sobre lías).
+    </string>
+
+    <string name="lucasyrah2016">
         - Varietales: 100% syrah
-        \n - Alc. Vol.: 14%
-        \n - Viñedos: La Consulta, San Carlos.
-        \n - 12 meses en barricas de roble francés (30% nuevo y 70% de
-        segundo uso).
-        \n - Notas de cata: salvaje, musculoso, pimienta, tabaco, notas
-        de olivo, ciruela cocida, carne asada, largo y poderoso final.
+        /n- Alc. Vol.: 14%
+        /n- Viñedos: La Consulta, San Carlos.
+        /n- 12 meses en barricas de roble francés
+          (30% nuevo y 70% de segundo uso).
+        /n- Notas de Cata: salvaje, musculoso, pimienta,
+        tabaco, notas de olivo, ciruela cocida, carne asada,
+        largo y poseroso final.
     </string>
 
-    <string name="laPostaMalbec2016">
+
+    <string name="lucapinotnoir2015">
+        - Varietales: 100% pinot noir.
+        /n- Alc. Vol.: 13,5%
+        /n- Viñedos: Gualtallary, Tupungato a1460 msnm.
+            Edad: 16 años.
+        /n- Vendimia manual.
+        /n- 12 meses en barrica de roble francés (30% nuevo
+          y 70% de segundo uso).
+        /n- Notas de cata: Strawberry salvaje, raspberry,
+        cuero, especias, cedro. Cuerpo medio, muy intenso
+        y de largo final.
+    </string>
+
+    <string name="lapostapinotnoir2015">
+        - Varietales: 100% pinot noir.
+        /n- Viñedos: Tupungato, Villa Bastías.
+        /n- Altura de los viñedos: 1200 msnm.
+        /n- 10 meses en barrica de roble francés
+        (20% nuevo, 80% segundo uso).
+        /n- Alc. Vol. 14,2%:
+    </string>
+
+    <string name="lapostamalbec2016">
+        - Varietales: 100% malbec,
+        /n- Viñedos: La Consulta, Rivadavia, Altamira,
+        /n- 14 meses en barrica (70% roble francés, 30%
+          roble americano, 20% primer uso)
+        /n- Alc. Vol.: 13,7%
+        /n- Notas de cata: Color morado, notas de cedro,
+          especias, mina de lápiz, blueberry y blackberry.
+          En la boca aparecen frutas dulces, fácil de beber.
+          Es un sabroso, vino para disfrutar los próximos 5 años
+    </string>
+
+    <string name="lapostacocinablanco2014">
+        - Varietales: 55% chardonnay, 15% torrontés,
+          15% sauvignon blanc, 15% gewurztraminer.
+        /n- Alc. Vol.: 13,7%
+        /n- Notas de cata: es brillante y fresco, con
+          melocotón maduro blanco y notas florales en la nariz.
+          Manzana madura y un toque de crujiente de limón explotan
+          en el paladar, seguido rapidamen- te con un final complejo
+          y equilibrado.
+    </string>
+
+    <string name="lapostaarmandobonarda2017">
+        - Varietales: 100% Bonarda
+        /n- Viñedos: Buena Nueva, Guaymallén
+        /n- 10 meses en barrica (70% roble francés,
+        30% roble americano)
+        /n- Alc. Vol.: 13,5%
+        /n- Nota de cata: de color carmesí profundo,
+        afrutado y aromático con notas de cedro, de nota especias,
+        frutos rojos y frambuesas negras.
+        En boca emergen en el paladar notas de pimienta, chocolate y menta.
+        Final maduro y sabroso.
+    </string>
+
+    <string name="lapostatintoredblend2016">
+        - Varietales: 60% malbec, 20% bonarda, 20% syrah.
+        /n- Viñedos: La Consulta, Rivadavia, Altamira,
+        /n- 14 meses en barrica (70% roble francés, 30%
+         roble americano, 20% primer uso)
+        /n- Alc. Vol.: 13,7%
+        /n- Notas de cata: Color morado, notas de cedro, especias,
+         blueberry y blackberry. En la boca aparecen frutas dulces,
+         fácil de beber. Es un sabroso, vino para disfrutar
+         los próximos 5 años.
+    </string>
+
+    <string name="lapostapizzellamalbec2012">
         - Varietales: 100% malbec.
-        \n - Viñedos: La Consult, Rivadavia, Altamira, Vistaflores.
-        \n - Altura de los viñedos: 933 msnm.
-        \n - 14 meses en barrica (70% roble francés, 30% roble americano,
-        20% primer uso).
-        \n - Alc. Vol.: 13.7%
-        \n - Notas de cata:Color morado, notas de cedro, especias, mina
-        de lápiz, blueberry y blackberry. En la boca aparecen frutas
-        dulces, fácil de beber. En un sabroso, vino para disfrutar los
-        primeros 5 años.
+        /n- Viñedos: Altamira. San Carlos.
+        /n- Altura de los viñedos: 930 msnm.
+        /n- 9 meses en barrica de
+        roble francés (20% nuevo, 80% con un año de uso).
+        /n- Alc. Vol. 13,5%
+        /n- Notas de cata: Maduro, ostentoso, llamativa
+        capa de moka, raspberry, boysenberry, dendo pero
+        ligero.Final afrutado.
     </string>
 
-    <string name="laPostaCocinaBlanco2014">
-        - Varietales: 55% chardonnay, 15% torrontés, 15% sauvignon blanc,
-        \n 15% sauvignon blanc, 15% gewurztraminer.
-        \n - Alc. Vol.: 13.7%
-        \n - Notas de cata: es brillante y fresco, con melocotón maduro
-        blanco y notas florales en la nariz. Manzana madura y un toque
-        de crujiente limón explotan en el paladar, seguido rápidamente
-        por un final complejo y equilibrado.
+
+    //Vistalba
+
+    <string name="vistalbacortea2012">
+        - Varietales: 90% Malbec, 10% Cabernet Sauvignon.
+        /n- Alc. Vol.: 15%
+        /n- Origen: Zona alta del río Mendoza, Luján de Cuyo.
+        /n- Guarda: 18 m. en roble francés 100%, 12 m. en botella
+        /n- Notas de cata: Color cereza oscuro, borde al licor,
+          tostado y especias.
+        
+</string>
+
+    <string name="vistalbacorteb2011">
+        - Varietales: 60% Malbec, 30% Bonarda, 10% Cab. Sauv.
+        /n- Alc. Vol.: 14,5%
+        /n- Origen: Zona alta del Río Mendoza, Luján de Cuyo.
+        /n- Guarda: 12 m. en roble francés 100%, 10 m. en botella.
+        /n- Notas de cata: Color rojo rubí intenso con reflejos negros.
+        Aromas intensos a frutos confitados, frutos secos, humo, cassis,
+        clavo de olor. En boca es de entrada dulce, con taninos suaves
+        e intensos con un final amable y persistente.
     </string>
 
-    <string name="laPostaArmando2015">
-        - Varietales:100% Bonarda
-        \n - Viñedos: Buena Nueva, Guaymallén
-        \n - 10 meses en barrica (70% roble francés, 30% roble americano)
-        \n - Alc. Vol.: 13.5%
-        \n - Notas de cata: De color carmesí profundo, afrutado y aromático
-        con notas de cedro, denota especias, frutos rojos y frambuesas
-        negras. En boca emergen en el paladar notas de pimienta y menta.
-        \n Final maduro y sabroso.
-    </string>
-    <string name="laPostaTinto2016">
-        - Varietales:60% malbec, 20% bonarda, 20% syrah.
-        \n - Viñedos: La Consulta, Rivadavia, Altamira, Vistaflores.
-        \n - Altura de los viñedos: 933 msnm.
-        \n - 14 meses en barrica (70% roble francés, 30% roble americano
-        20% primer uso).
-        \n - Alc. Vol.: 13.7%
-        \n - Notas de cata: Color morado, notas de cedro, especias, blueberry
-        y blackberry. En la boca aparecen frutas dulces, fácil de beber.
-        \n - Es un sabroso, vino para disfrutar los proximos 5 años.
-    </string>
-    <string name="laPostaMalbec2012">
-        - Varietales:100% malbec.
-        \n - Viñedos: Altamira, San Carlos.
-        \n - Altura de los viñedos: 930 msnm.
-        \n - 9 meses en barrica de roble francés (20% nuevo, 80% con un año de uso)
-        \n - Alc. Vol.: 13.5%
-        \n - Notas de cata: Maduro, ostentoso, llamativa capa de moka, boysenberry
-        dendo pero ligero. final afrutado.
+    <string name="vistalbacortec2017">
+        - Varietales: 70% Malbec, 30% Cabernet Sauvignon.
+        /n- Alc. Vol.: 14,6%
+        /n- Origen: Zona alta del río Mendoza, Luján de Cuyo.
+        /n- Guarda: 12 m. en roble francés 20%, 6 m. en botella.
+        /n- Notas de cata: Color cereza, borde granate, aroma
+          potente, con carácter expresivo, fruta madura y roble.
     </string>
 
-    //Cuarta cava BODEGAS VISTALBA DE CARLOS
-    <string name="CorteAMalbec2012750ml">
-        - Varietales:90% Malbec, 10% Cabernet Sauvignon.
-        \n Alc. Vol.: 15%
-        \n - Origen: Zona alta del Río Mendoza, Luján de Cuyo.
-        \n - Notas de cata: Color cereza oscuro, borde granate,
-        \n aroma potente, ruta confitada, fruta al licor,
-        \n tostado y especias.
+    <string name="tomerogranreservamalbec2011">
+        - Varietales: 100% Malbec
+        /n- Alc. Vol.: 15%
+        /n- Origen: Alto Valle de Uco.
+        /n- Guarda: 22 m. en roble francés 20%, 12 m. en botella.
+        /n- Notas de cata: Color: Rojo con intensos tonos bordo.
+        Aroma a ciruelas negras deshi- dratadas, sutiles notas a
+        romero salvaje y lemongras.
+        En boca es equilibrado de buena acidez y volumen.
+        Taninos dulces y estructurados que le otorgan unbalance
+        armonico y con final de chocolate.
+
     </string>
 
-    <string name="CorteB2011750ml">
-        - Varietales:60% Malbec, 30% Bonarda,10% Cabernet Sauvignon.
-        \n Alc. Vol.: 14.5%
-        \n - Origen: Zona alta del Río Mendoza, Luján de Cuyo.
-        \n - Notas de cata: Color rubí intenso con reflejos negros.
-        \n - Aromas intensos a frutos confitados, frutos secos, humo,
-        \n cassis, clavo de olor. En boca es de entrada dulce, con
-        \n taninos suaves e intensos, con un final amable y persistente.
-    </string>
+    <string name="tomeromalbecrose2018">
+        - Varietal: 100% Malbec.
+        /n- Alc. Vol.: 12,8%
+        /n- Ubicación del viñedo: Finca Los Álamos, Alto Valle de Uco,
+         Mendoza, Argentina.
+        /n-Notas de cata: Color rosado confunda con notas a fresas
+        maduras con un balance de untuosidad y cremosidad obtenido a
+        partir del balance entre la acidez y el azúcar residual.
 
-    <string name="CorteC2014750ml">
-        - Varietales:70% Malbec, 30% Cabernet Sauvignon.
-        \n Alc. Vol.: 14.6%
-        \n - Origen: Zona alta del Río Mendoza, Luján de Cuyo.
-        \n - Guarda: 12 m. en roble francés 20%, 6 m. en botella.
-        \n - Notas de cata: Color cereza, borde granate, aroma
-        \n potente, con carácter expresivo, fruta madura y roble.
-    </string>
+</string>
 
-    <string name="granReservaMalbec2011750ml">
-        - Varietales:100% Malbec.
-        \n Alc. Vol.: 15%
-        \n - Origen: Alto Valle de Uco.
-        \n - Guarda: 22 m. en roble francés 20%, 12 m. en botella.
-        \n - Notas de cata: color rojo con intensos tonos bordo.
-        \n Aroma a ciruelas negras deshidratadas, sutiles notas a
-        \n romero salvaje y lemongras. En boca es equilibrado de
-        \n buena acidez y volumen. Taninos dulces y estructurados
-        \n que le otorgan un balance armonico y con final a chocolate.
-    </string>
+    <string name="tomerochardonnay2016">
+        - Varietal: 100% Chardonnay
+        /n- Alc. Vol.: 13,5%
+        /n- Ubicación del viñedo: Finca Los Álamos,
+        Alto Valle de Uco, Mendoza, Argentina.
+        /n- Notas de cata: de color Amarillo Aroma: Intensos
+        con notas de manzanas verdes, durazno blanco y araná.
+        En boca posee buena vainillas.
 
-    <string name="tomeroCabernet2014750ml">
-        - Varietales:100% Cabernet Sauvignon.
-        \n Ubicación del viñedo: Finca los Álamos, Alto Valle de Uco,
-        \n Mendoza Argentina.
-        \n Criado 8 meses en tanques de acero 80% y en barricas de
-        \n roble francés 20%. 6 meses de estiba.
-        \n - Notas de cata: Color intenso con matices rojo rubi, en
-        \n nariz deja resaltar aromas a primera rosa, especias, café
-        \n y canela. Entrada de boca dulce, de taninos estructurados
-        \n y de final amable y persistente
-    </string>
+</string>
 
-    <string name="tomeroMalbec2016y2017350y750ml">
-        - Varietales:100% Malbec.
-        \n Ubicación del viñedo: Finca los Álamos, Alto Valle de Uco,
-        \n Mendoza Argentina.
-        \n Criado 8 meses en tanques de acero 80% y en barricas de
-        roble francés 20%. 6 meses de estiba.
-        \n - Notas de cata: Rojo violáceo con aromas que recuerdan a
-        ciruelas frescas, higos secos y vainilla, entrada de boca
-        dulce, de buena estructura que se deja resatar por sus
-        taninos aterciopelados y prolongada persistencia.
-    </string>
+    <string name="tomeroclassiccs2014">
+        - Varietal: 100% Cab. Sauvignon.
+        /n- Ubicación del viñedo: Finca Los Álamos, Alto Valle
+          de Uco, Mendoza, Argentina.
+        /n- Criado 8 meses en tanques de acero 80% y en barricas
+          de roble francés 20%.6 meses de estiba.
+        /n- Notas de cata: Color intenso con matices rojo rubí,
+          en nariz deja resaltar aromas a primera rosa, especias,
+          café y canela. Entrada de boca dulce, de taninos
+          estructurados y de final amable y persistente.
+</string>
 
-    <string name="tomeroRoseMalbec2018750ml">
-        - Varietales:100% Malbec.
-        \n Ubicación del viñedo: Finca los Alamos, Alto Valle de Uco,
-        \n Mendoza Argentina.
-        \n - Notas de cata: Color rosado con reflejos violánceos, de
-        nariz profunda, en boca se presenta con un balance de
-        untuosidad y cremosidad obtenido a partir del balance entre
-        la acidez y el azúcar residual.
-    </string>
+    <string name="tomeroclassiccabernetfranc2016">
+        - Intenso, rojo brillante.
+        Aromas a pimenton dulce y pimiento rojo con
+        frutos rojos aporte de roble frances.
+        /n- En boca es fresco de sensación dulce por los
+        taninos maduros, largo final.
+</string>
 
-    <string name="tomeroChardonnay2015750ml">
-        - Varietales:100% Chardonnay.
-        \n Alc. Vol.: 13.5%
-        \n Ubicación del viñedo: Finca los Alamos, Alto Valle de Uco,
-        \n - Notas de cata: Color amarillo versoso con reflejos acerados.
-        \n - Aromas: Intensos con notas de manzanas verdes, durazno blanco
-        y araná. En boca posee buena acidez, final, fresco, con notas de
-        vainillas.
-    </string>
+    <string name="tomeroclassicmalbec375ml2017">
+        -Varietal: 100% Malbec.
+        /n- Ubicación del viñedo: Finca Los Álamos, Alto
+          Valle de Uco, Mendoza, Argentina.
+        /n- Criado 9 meses en tanques de acero 80% y en
+         barricas de roble francés 20%.
+        /n- 6 meses de estiba.
+        /n- Notas de cata: Rojo violáceo, con aromas que
+          recuerdan a cirue-las fres- cas, higos secos y
+          vainilla, entrada de boca dulce, de buena
+          estructura que se deja resaltar por sus taninos
+          aterciopelados y prolongada persistencia.
+</string>
 
-    <string name="reservaMalbec2011750ml">
-        - Varietales:100% Malbec.
-        \n - Ubicación del viñedo: Finca los Alamos, Alto Valle de Uco,
-        \n Mendoza Argentina.
-        \n - Criado: 15 m. en barricas de roble francés nuevo y 6 m. en botella.
-        \n - Notas de cata: rojo intenso con reflejos azulados. Aroma complejo,
-        notas que delatan su paso por madera, fruta roja madura y confitada
-        \n - Notas especiadas que recuerdan a pimienta blanca y comino.
-        \n - En boca: taninos dulces, textura aterciopelada.
-        \n - Final agradable y persistente
-    </string>
+    <string name="tomeroclassicmalbec2017">
+        -Varietal: 100% Malbec.
+        /n- Ubicación del viñedo: Finca Los Álamos, Alto
+        Valle de Uco, Mendoza, Argentina.
+        /n- Criado 9 meses en tanques de acero 80% y en
+        barricas de roble francés 20%.
+        /n- 6 meses de estiba.
+        /n- Notas de cata: Rojo violáceo, con aromas que
+        recuerdan a cirue-las fres- cas, higos secos y
+        vainilla, entrada de boca dulce, de buena
+        estructura que se deja resaltar por sus taninos
+        aterciopelados y prolongada persistencia.
+        
+</string>
 
-    <string name="reservaSyrah2011750ml">
-        - Varietales:100% Syrah.
-        \n - Ubicación del viñedo: Alto valle de Uco, Mendoza.
-        \n - Criado: 15 meses en barricas de roble francés nuevo 100%
-        \n - Notas de cata: Frutos negros como cassis, arándanos, notas
-        de canela, chocolate, gran estructura.
-    </string>
+    <string name="tomeroreservamalbec2011">
+        - Varietal: 100% Malbec.
+        /n- Finca Los Álamos, Alto Valle de Uco,
+          Mendoza, Argentina.
+        /n- Criado 15 m. en barricas de roble francés nuevo
+          y 6 m. en botella.
+        /n- Notas de cata: rojo intenso con reflejos azulados.
+        Aroma complejo notas que delatan su paso por madera,
+        fruta roja madura y confitada. Notas especiadas que
+        recierdan a pimienta blanca y comino.
+        En boca: taninos dulces, textura aterciopelada.
+        Final agradable y persistente.
+</string>
 
-    <string name="reservaPetit2015750ml">
-        - Varietales:100% Petit Verdot.
-        \n - Ubicación del viñedo: Finca los Álamos, Alto Valle de Uco,
-        \n Mendoza Argentina.
-        \n - Criado 15 meses en barricas de roble francés nuevo 100%.
-        \n - Guardado en estba durante 12 meses.
-    </string>
+    <string name="tomeroreservapetitverdot2015">
+        - Varietal: 100% Petit Verdot.
+        /n- Finca Los Álamos, Alto Valle de Uco, Mendoza, Argentina.
+        /n- Criado 15 meses en barricas de roble francés nuevo 100%.
+        /n- Guardado en estiba durante 12 meses.
+</string>
 
-    <string name="aridoMoscato2015750ml">
-        - Varietales:100% Moscatel.
-        \n - Alc. Vol.: 7.6%
-        \n - Azúcar: 80gr/lt
-    </string>
+    <string name="tomeroreservasyrah2011">
+        - Varietal: 100% Syrah.
+        /n- Finca Los Álamos, Alto Valle de Uco, Mendoza
+        /n- Criado 15 meses en barricas de roble francés nuevo 100%.
+        /n- Notas de cata: Frutos negros como cassis, arándanos,
+         notas de canela, chocolate. Gran estructura.
+</string>
 
-    <string name="aridoSauvignonblac2015750ml">
-        - Varietales: Sauvignon Blanc 100%.
-        \n - Alc. Vol.: 7.6%
-        \n - Azúcar: 80gr/lt
-    </string>
+    <string name="aridomoscato2015">
+        - Varietal: Moscatel 100%
+        /n- Alc. Vol.: 7,6%
+        /n- Azúcar: 80gr/lt
+</string>
 
-    <string name="progenie750ml">
-        - 85% Chardonnay.
-        \n - 15% Pinot Noir.
-        \n - Extra brut.
-        \n - Alc. Vol.: 12.7%
-        \n - Método Charmat.
-    </string>
+    <string name="aridosauvignonblanc2019">
+        - Varietal: Sauvignon Blanc 100%
+        /n- Amarillo palido.
+        /n- En nariz: citricos y delicadas flores blancas
+        con un toque de jenjibre, facil de beber.
+        entrada dulce, acidez, equilibrada.
 
-    //Quinta cava 55 MALBEC , MANOS NEGRAS , TINTO NEGRO , MENDOZA , ARGENTINA
+</string>
 
-    <string name="tehoMalbec2014">
+
+    //manosnegras
+    <string name="tehomalbec2014">
         - 90% Malbec, 6% Petit Verdot, 4% Cabernet Franc.
-        \n - Alc. Vol.: 14.8%
-        \n - Origen: Altamira, Valle de Uco, Mendoza.
-        \n - Notas de cata: De color rojo profundo con reflejos bordeaux.
-        \n - En nariz presenta frutas rojas cocidas, pasas y especias.
-        \n - En boca se destaca por su buen peso y densidad.
-        \n - De final fresco, complejo y elegante.
+        /n- Alc. Vol. 14,8%
+        /n- Origen: Altamira, Valle de Uco, Mendoza
+        /n- De color rojo profundo con reflejos bordeaux.
+           En nariz presenta frutas rojas cocidas, pasas
+           y especias. En boca se destaca por su buen peso
+           y densidad. De final fresco, complejo y elegante.
     </string>
 
-    <string name="tehoElCorte2012">
-        - 62% Malbec, 38% Cabernet Sauvignon.
-        \n - Alc. Vol.: 13.9%
-        \n - Origen: Altamira, Valle de Uco, Mendoza.
-        \n - Notas de cata: En nariz presenta un perfume floral
-        intenso, sabores de frutas negras y una intensa pero
-        suave textura en boca. El Cabernet Sauvignon de este
-        viñedo presenta aromas a hierbas frescas concentrado
+
+    <string name="tehoelcorte2014">
+        - 62% Malbec, 38% Cabernet Sauvignon
+        /n- Alc. Vol. 13,9%
+        /n- Origen: Altamira, Valle de Uco, Mendoza
+        /n- Notas de cata: En nariz presenta un perfume
+           floral intenso, sanores
+        de frutas negras y una intensa pero suave textura
+        en boca. El Cabernet Sauvignon de este viñedo
+        presenta aromas a hierbas frescas concentrado
         sabores de cassis y taninos intensos pero sedoso.
     </string>
 
-    <string name="zahaMalbec2014">
+    <string name="zahamalbec2014">
         - 90% Malbec, 8% Cabernet Franc, 2% Petit Verdot.
-        \n - Alc. Vol.: 14.8%
-        \n - Origen: Altamira, Valle de Uco, Mendoza.
-        \n - Notas de cata: De color rojo, profundo intenso,
-        aroma complejo frutal en especial la fruta fresca
-        negra: guindas y moras; el especiado y el aporte
-        del grafito(mineral). Vinilla, moka, aportados
-        por la crianza en barricas. De textura muy suave,
-        con taninos dulces, final en boca elegante.
+        /n- Alc. Vol. 14,8%
+        /n- Origen: Altamira, Valle de Uco, Mendoza.
+        /n- Notas de cata: De color rojo profundo con tintes
+        violáceos. En nariz, sobresalen notas de frutas rojas,
+        florales y vegetales amalgamadas. En bosa su entrada
+        es dulce y se percibe un vino complejo y elegante,
+        con taninos redondos y sedosos.
     </string>
 
-    <string name="zahaElCorte2016">
-        - 78% Malbec, 22% Cabernet Sauvignon
-        \n - Alc. Vol.: 14%
-        \n - Origen: Altamira, Valle de Uco, Mendoza.
-        \n - Notas de cata: Blend complejo, con capas de aromas
-        \n que suman notas e fruta roja y negra, pimentón dulce
-        \n ahumado y suaves notas de tabaco y tostadas.
+    <string name="zahaelcorte2016">
+        - 78% Malbec | 22% Cabernet Sauvignon
+        /n- Alc. Vol. 14%- Origen: Altamira, Valle de Uco, Mendoza
+        /n- Notas de cata: Blend complejo, con capas de aromas
+        que suman notas de fruta roja y negra, pimentón dulce
+        ahumado y suaves notas de tabaco y tostadas.
     </string>
 
-    <string name="manosNegrasMalbec2016">
-        \n - Alc. Vol.: 14%
-        \n - Origen: Altamira, Mendoza.
-        \n - Temp. de Servicio: 16° - 18°
-        \n - Potencial de guarda: 8 años
-        \n Notas de cata: Color rojo violánceo. Aroma de
-        \n frutos negros con notas minerales, fresco.
-        \n En boca, entrada frutada, buena acidez, frutas
-        \n negras conocidas amalgamadas con notas minerales,
-        \n franco.
-    </string>
-
-    <string name="manosNegrasPinotNoir2013">
-        \n - Alc. Vol.: 14.8%
-        \n - Origen: Patagonia,Río Negro.
-        \n - Temp. de Servicio: 16°
-        \n - Potencial de guarda: 5 años
-        \n Notas de cata: Aromas a frutillas y un dejo mineral,
-        \n el cuerpo es medio y la acidez refrescante.
-        \n De final medio.
-    </string>
-
-    <string name="manosNegrasStoneSoil2013">
-        \n - Fecha de cosecha: Abril.
-        \n - Fermentación: Despalillage suave manceración en frío
-        \n por 6 días a 8°C. Fermentación con baya entera a max. tem. 18°C.
-        \n Remontajes extensivos durante los primeros 10 días de fermentación.
-        \n - Fermentación total de 18 días.
-        \n - Añejamiento 12 meses en roble francés, 15% nuevo.
-        \n - 100% fermentación malolática en barrica
-    </string>
-
-    <string name="manosNegrasSoilPinotNoir2013">
-        \n - Fecha de cosecha: Marzo.
-        \n - Fermentación: Despalillage suave manceración en frío por
-        \n 2 días a 10°C. Fermentación con baya entera a max. tem. 22°C.
-        \n Remontajes extensivos durante los primeros 7 días de fermentación.
-        \n - Fermentación total de 12 días.
-        \n - Añejamiento 12 meses en roble francés, 15% nuevo.
-        \n - 100% fermentación malolática en barrica
-    </string>
-
-    <string name="manosNegrasAtrevida2011">
-        \n - Varietales: 93% Malbec, 7% Cabernet Franc.
-        \n - Vanificación: Los varietales son co-fermentados.
-        \n El cabernet Franc intensifica los aromas florales
-        \n de Malbec y agrega elegancia del viejo mundo.
-        \n Maceración en frío por 4 días y después fermentado
-        \n a temperaturas bajas, max. 22°C, por 12 días. El
-        \n vino tiene una maceración posfermentativo por 4 días.
-        \n - Añejamiento: 12 meses en roble franés, 15% nuevo.
-    </string>
-
-    <string name="manosNegrasQuimay2011">
-        \n - Varietales: 70% Malbec, 30% Cabernet Sauvignon.
-        \n - Vanificación: despalillage suave, fermentación con
-        \n baya entera a max. temp. 24°C. Remontajes, pillajes y
-        \n delestages extensivos durante los primeros 9 días de
-        \n fermentación.
-        \n - Fermentación total de 14 días.
-        \n - Añejamiento: 12 meses en roble, 80% Franés, 20% Americano,
-        \n 15% nuevo. 100% fermentación maloláctica en barrica.
-    </string>
-
-    <string name="vivooMuertoSanJorge2014">
-        \n - Ubicación: San Carlos, Valle de Uco, Mendoza.
-        \n - Varietales: Malbec, Cab. Franc y Cab. Sauvignon.
-        \n Alcohol: 14%
-        \n Crianza: 14 meses en roble francés, 22% nuevo.
-        \n - Notas de cata: expresión de frutas negras frescas con notas florales,
-        \n  taninos suaves y finos, de carácter delicado y de gran equilibrio.
-    </string>
-
-    <string name="vivooMuertoElLimite2014">
-        \n - Ubicación: Valle de Uco, Mendoza.
-        \n - Varietales: Malbec, Tempranilla y Syrah.
-        \n Alcohol: 14.3%
-        \n Crianza: 14 meses en roble francés, 20% nuevo.
-        \n - Notas de cata: ¡Rico! Furta negra con notas aromáticas de pimienta
-        \n  blanca, gran estructura de la tempranilla, toques salinos que se
-        \n suman a taninos de grano rugoso y seco.
-    </string>
-
-    <string name="vivooMuertoElIndio2014">
-        \n - Ubicación: Valle de Uco, Mendoza.
-        \n - Varietales: Malbec, Tempranilla y Cab. Sauvignon.
-        \n Alcohol: 14.1%
-        \n Crianza: 14 meses en roble francés, 20% nuevo.
-        \n - Notas de cata: herbal, fresca, frutas rojas, buena estructura.
-    </string>
-
-    <string name="vivooMuertoElManzano2014">
-        \n - Ubicación: Valle de Uco, Mendoza.
-        \n - Varietales: Malbec, Cabernet Franc, Petit Verdor.
-        \n Alcohol: 14.1%
-        \n Crianza: 14 meses en roble francés, 22% nuevo.
-        \n - Notas de cata: aromas de frutas rojas en mermeladas conjugados
-        \n  con notas florales. Gran concentración en boca acompañada y
-        \n  con un carácter fresco y salino.
-    </string>
-
-    <string name="vivooMuertoLaverdad2014">
-        \n - Ubicación: Tupungato, Valle de Uco, Mendoza.
-        \n - Varietales: Malbec, Cabernet Franc.
-        \n Alcohol: 14.8%
-        \n Crianza: 12 meses en roble francés, 17% nuevo.
-        \n - Notas de cata: Expresión floral que acompaña  la fruta roja
-        \n  fresca, acidez marcada, final de textura filosa y marcada
-        \n  mineralidad.
-    </string>
-
-    <string name="FincaLaEscuela2011">
-        \n - Fina La Escuela está ubicada en Altamira, la premiere
-        \n  zona para Mendoza hace lucir el valor excepcional y
-        \n  perfil romable de Malbec.
-        \n  Su nombre proviene de una escuela rural ubicada en la propiedad
-        \n  TintoNegro activamente ayuda a la escuela a través de donaciones
-        \n  y becas.
-        \n  Posee 12 meses de añejamiento en roble francés 50% nuevo.
-    </string>
-
-    <string name="tintoNegroMalbec2012">
-
-    </string>
-
-    <string name="TintoNegroMendozaMalbec2015y2014750y1500">
-        \n - Con uva cultivada en la primera Zona de Maipú y Luján
-        \n  de Cuyo, el corte Mendoza hce lucir el valor del Malbec.
-        \n  Esta acompañado por un suave añejamiento en roble que le
-        \n  aporta un toque de complejidad adicional.
-        \n  Posee 6 meses de añejamiento en roble francés, 10% nuevo.
-    </string>
-
-    <string name="TintoNegroSangiovese">
-        \n - 770 mtrs. sobre el nivel del mar.
-        \n  Crianza 6 meses en barrica de roble francés usado. Este
-        \n  vino es tributo a los inmigrantes italianos que trajeron
-        \n  consigo la cultura del vino.
-        \n  Elaborado con la reina de los vinos toscanos, se expresa
-        \n  con aromas de bosque, hierba, tierra húmeda. Al pasar por
-        \n  boca deja un recuerdo de higos y hojas secas.
-    </string>
-
-    <string name="TintoNegroUcoValleyMalbec">
-        \n - Hecho con uva del Valle de Uco, la más alta zona de Mendoza,
-        \n  la más alta zona en Mendoza, este corte hace lucir el estilo
-        \n  de Malbec de clima frío. Aromas intensos de flores, una
-        \n  textura envolvente y un final fresco con buena acidez natural.
-        \n - Malbec de clima frío
-        \n - Posee 9 meses de añejamiento en roble francés, 10% nuevo.
-    </string>
-
-    <string name="TintoNegroUcoValleyFranc">
-        \n - Sus viñedos son de los altos del valle de Uco. Este muestra
-        \n  las caracteristicas de esta zona, sus condiciones le dan al
-        \n  vino intensos aromas de hierbas y flores, sabor de mermelada
-        \n  de frutas rojas, una rica textura y final con marcados tonos
-        \n  minerales.
-        \n - Posee 9 meses de añejamiento en roble francés, 5% nuevo.
+    <string name="zahacabernetfranc2016">
+        - 100% Cabernet Franc | Alc. Vol. 14%
+        /n- Origen: Altamira, Valle de Uco, Mendoza
+        /n- Notas de cata: De color rojo, profundo intenso.
+        Aroma complejo, frutal en especial la fruta fresca negra:
+        guindas y moras; el especiado y el aporte del grafito (mineral).
+        Vainilla, moka, apartados por la crianza en barricas, de textura
+        muy suave, con taninos dulces, final de boca elegante.
     </string>
 
 
-    // sexta cava BODEGAS VICENTIN
-
-    <string name="Blend2014">
-         - Notas de cata: rojo violánceo brillante. En nariz se perciben
-        \n  lilas y violetas especialmente con frutos rojos. Entrada de
-        \n  boca dulce, fruta roja cerez y ciruela madura. La madera, se
-        \n  amalgama perfectamente dando sabores a vainilla y chocolate
-        \n  Es largo y elegante termina con taninos maduros.
+    <string name="manosnegraspinotnoir">
+        - Alc. Vol. 14,8%
+        /n- Origen: Patagonia, Río Negro
+        /n- Temp. de Servicio: 16°
+        /n- Potencial de Guarda: 5 años
+        /n- Notas de cata: Aromas a frutillas y un dejo mineral,
+          el cuerpo es medio.
+        
     </string>
 
-    <string name="Blackbone2012">
-         - 6%
+    <string name="manosnegrasmalbec">
+        - Alc. Vol. 14%
+        /n- Origen: Altamira, Mendoza
+        /n- Temp. de Servicio: 16o-18o
+        /n- Potencial de Guarda: 8 años
+        /n- Notas de cata: Color rojo violáceo. Aroma
+        de frutos negros con notas minerales, fresco.
+        En boca, entrada frutada, buena acidez, frutas
+        negras cocidas amalgamadas con notas minerales, franco.
     </string>
 
-    <string name="Gene2012">
-         - 24%
+    <string name="manosnegrassoilselectpinotnoir2013">
+        - Fecha de cosecha: Marzo
+        /n- Fermentacion: Despillage suave en frío por 2
+        días a 10° C. Fermentacióm von baya entera a max.
+        tem. 22° C. Remontajes extensivos durante los
+        primeros 7 días de fermentación.
+        Fermentación total de 12 días
+        /n- Añejamiento: 12 mese en roble francés, 15%
+        nuevo, 100% fermentación en barrica.
     </string>
 
-    <string name="Robusto2012">
-         - 31%
+    <string name="manosnegrasatrevidaredblend2011">
+        - Varietales: 93% Malbec, 7% Cabernet Franc.
+        /n- Vinificación: los varientales son cofermentados.
+        El Cabernet Franc intenifica los aromas florales de
+        Malbec y agrega eleganci del viejo mundo. Manceración
+        en frio por 4 días y después fermentado a temperaturas
+        bajas, max. 22° C por 12 días. El vino tiene una
+        manceración posfermentativo por 4 días.
+        /n- Añejamiento: 12 meses en roble francés, 15% nuevo
     </string>
 
-    <string name="Voraze2012">
-         - 39%
+    <string name="manosnegrasquimayredblend2013">
+        -Varientales 70% Malbec, 30% Cabernet Sauvignon.
+        /n-Vinificación: Despapillage suave, fermentación
+        con baya entera a max. tem. 24° C. Remontajes,
+        pillajes los primeros 9 días de fermentación.
+        Fermentación total de 14 días.
+        /n-Añejamiento: 12 meses en roble, 80% Frances,
+        20% Americano, 15% nuevo, 100% fermentación
+        malolática en barrica.
     </string>
 
-    <string name="ElContrabandista2016">
-
+    <string name="manosnegrasstonesoilmalbec2013">
+        - Fecha de cosecha: Abril
+        - Fermentación: Despalillage suave manceración
+        en frío por 6 días a 8° C. Fermentación con baya
+        entera a max. temp. 18° C.
+        Remontajes extensivos durante los primeros 10 días
+        de fermentación. Fermentación total de 18 días.
+        - Añejamiento: 12 meses con roble francés, 15% nuevo.
+        100% fermentación maloláctica en barrica.
+   
     </string>
 
-    <string name="Sauvignon2016">
+    //Vivo o muerto
 
+    <string name="vivoomuertolaverdadgualtallarry2016">
+        - Ubicación: Tupungato, Valle de Uco, Mendoza
+        /n- Varietales: Malbec, Cabernet Franc. Alcohol: 13,8%
+        /n- Crianza: 12 meses en roble francés, 17% nuevo.
+        /n- Notas de cata: expresión floral que acompaña a la
+        fruta roja fresca, acidez marcada, final de textura
+        filosa y marcada mineralidad.
     </string>
 
-    <string name="Franc2016">
-
+    <string name="vivoomuertoelmanzanoloschacayes2016">
+        - Ubicación: Tunuyán, Valle de Uco, Mendoza
+        /n- Varietales: Malbec, Cabernet Franc, Petit Verdot.
+        /n- Alcohol: 14,1%
+        /n- Crianza: 14 meses en roble francés, 22% nuevo.
+        /n- Notas de cata: aromas de frutas rojas en mermeladas
+        conjugados con notas florales. Gran concentración
+        en boca acompañada con un carácter fresco y salino.
     </string>
 
-    <string name="RetoBlend2016">
-         - Notas de cata: rojo violánceo brilante. En nariz se perciben
-        \n  lilas especialmente con frutos rojos. Entrada de boca dulce
-        \n  y con buena acidez, untuoso taninos redondos elegantes dulces,
-        \n  fruta roja cereza y ciruela madura. La amdera se amalgama
-        \n  perfectamente dando sabores a vainilla y chocolate. Es largo
-        \n  y elegante termina con taninos maduros.
+    <string name="vivoomuertoellimite2016">
+        - Ubicación: Valle de Uco, Mendoza
+        /n- Varietales: Malbec, Tempranilla y Syrah
+        /n- Alcohol: 14,3%
+        /n- Crianza: 14 meses en roble francés, 20% nuevo.
+        /n- Notas de cata: ¡Rico! Fruta negra con notas
+        aromáticas de pimienta blanca, gran estructura
+        de la tempranilla, toques salinos que se suman
+        a taninos de grano rugoso y seco.
     </string>
 
-    <string name="RetoChardonnay2018">
-         - Notas de cata: De color claro con aromas intensos a cítricos
-        \n  y ananá. Fermentado con roble americano y francés encuentra
-        \n  su frescura y su cuerpo untuoso a 8 grados. Es un vino fresco
-        \n  y joven para ser tomado con pescados y entradas sin carne roja
+    <string name="vivoomuertoelindioelcepillo">
+        - Ubicación: Valle de Uco, Mendoza
+        /n- Varietales: Malbec, Tempranilla, Cab. Sauvinon
+        /n- Alcohol: 14,1%
+        /n- Crianza: 14 m. en roble francés, 20% nuevo.
+        /- Notas de cata: herbal, fresca, frutas rojas,
+        buena estructura.
     </string>
 
-    <string name="RetoCabernetFranc2017">
-
-
+    <string name="vivoomuertosanjorgeatamira2016">
+        - Ubicación: San Carlos, Valle de Uco, Mendoza
+        /n- Varietales: Malbec,Cab. Franc y Cab. Sauvignon.
+        /n- Alcohol: 14%
+        /n- Crianza: 14 meses en roble francés, 22% nuevo.
+        /n- Notas de cata: expreión de frutas negras frescas
+        con notas florales, taninos suaves y finos, de
+        carácter delicado y de gran equilibrio.
     </string>
 
-    <string name="RetoMalbec2016">
-         - Notas de cata: Rojo violánceo brillante. En nariz se perciben
-        \n  lilas y violetas especialmente con frutos rojos. Entrada de
-        \n  boca dulce y con buena acidez, untuoso taninos redondos
-        \n  elegantes dulces, futa roja cereza y ciruela madura. Es largo
-        \n  y elegante termina con taninos maduros.
-        \n - Guarda: 30% roble americano y 70% francés de primer uso.
+    //Tinto negro
+    <string name="tintonegromalbecmendoza2015">
+        - Con uva cultivada en la Primera Zona de Maipú
+        y Luján de Cuyo, el corte Mendoza hace lucir el
+        valor del Malbec. Esta acompañado por un suave
+        añejamiento en roble que le aporta un toque de
+        complejidad adicional.
+        Posee 6 meses de añejamiento en roble francés,
+        10% nuevo.
     </string>
 
-    <string name="RetoCabernetSauvignon2014">
-         - Notas de cata: Rojo violánceo profundo. En rariz se perciben
-        \n  olores a chocolate y frutos rojos maduros.
-        \n  - Entrada de boca se denota muy redondo y dulce. Con buena
-        \n  acidez, de cuerpo elegante y medio con tonos taninos redondos
-        \n  a fruta roja ciruela madura. Es largo y de final elegante.
-        \n  - Guarda: 6 meses en barrica de roble francés de primer uso.
+
+    <string name="tintonegromendozasangiovese2015">
+        - 770 mtrs. sobre el nivel del mar. Crianza 6
+        meses en barrica de roble francés usado. Este
+        vino es un tributo a los inmigrantes italianos
+        que trajeron consigo la cultura del vino.
+        Elaborado con la reina de los vinos toscanos,
+        se expresa con aromas de bosque, hierba, tierra
+        húmeda. Al pasar por boca deja un recuerdo de
+        higos y hojas secas.
     </string>
 
-    <string name="RetoPinotGrigio2018">
+    <string name="tintonegroUcoValleyCabernetFranc2014">
+        - Sus viñedos son de los Altos del Valle de Uco.
+        Este muestra las caracteristicas de esta zona,
+        sus condiciones le dan al vino intensos aromas
+        de hierbas y flores, sabor de mermelada de frutas
+        rojas, una rica textura y final con marcados
+        tonos minerales.
+        Posee 9 meses de añejamiento en roble francés,
+        5% nuevo.
+        
+    </string>
 
+    <string name="tintonegroucovalleyreservemalbec2012">
+        - Hecho con uva del Valle de Uco, la más alta
+        zona en Mendoza, este corte hace lucir el
+        estilo de Malbec de clima frío. Aromas intensos
+        de flores una textura envolvente y un final
+        fresco con buena acidez natural
+        /n- Malbec de clima frío.
+        Posee 9 meses de añejamiento en roble francés,
+        10% nuevo.
+    </string>
+
+    <string name="fincalaescuelamalbec2011">
+        - Finca La Escuela está ubicada en Altamira,
+        la premiere zona para Mendoza hace lucir el
+        valor excepcional y perfil tomable de Malbec.
+        /n- Su nombre provienede una escuela rural ubicada
+        en la propiedad. TintoNegro activamente ayuda a
+        la escuela a través de donaciones y becas.
+        Posee 12 meses de añeja-miento en roble francés,
+        50% nuevo.
+    </string>
+
+    <string name="vineyard1955Malbec2012">
+        - Uno de los tesoros viticultores de Mendoza son
+        las viñas viejas de Malbec en La Consulta. Las
+        vides estan balanceadas naturalmente y producen
+        rendimientos super bajos, menos de sabores y
+        aromas con una elegancia sorprendente.
+        Posee 15 meses de añejamiento en roble francés,
+        39% nuevo.
+    </string>
+
+    //Vicentin
+    <string name="vicentinblenddemalbec2015">
+        - Añejado en los mejores robles con Malbecs
+        de diferentes zonas.
+        /n -Es un producto de los siguientes Malbecs:
+        /n- ROBUSTO.
+        39 % Las Compuertas.
+        Provee la estructura del Blend, gracias a viñedos de 1910
+        /n - GEN.
+        24 %. La Consulta. Provee el carácter del Malbec.
+        /n- BACKBONE.
+        6 %. Tupungato. Aporta la minerabilidad, proviene de suelos rocosos.
+        /n - VORAZ. 3
+        9 %. Vista Flores.Provee la pasión de los Malbecs.
+    </string>
+
+    <string name="vicentinbackbone2012">
+        - Tupungato, Mendoza.
+      /n- Mineralidad que proviene de suelos rocosos
+       
+    </string>
+
+    <string name="vicentingen2012">
+        -La Consulta, Mendoza.
+        /n-Caracter del Malbec
+    </string>
+
+
+    <string name="vicentinrobusto2012">
+        - Las Compuertas, Mendoza
+        /n- Viñas de 1910, tiene la estructura del Malbec
+    </string>
+
+
+    <string name="vicentinvoraz2012">
+        - Vista Flores, Mendoza.
+       /n - Posee la pasión del Malbec
+    </string>
+
+
+    <string name="elrenegadocs2016">
+        - Valle de Uco, Mendoza
+        /n- Rojo intenso profundo, aromas a frutos
+        rojos maduros, piienta negra, grafito.
+        /n- Entra en boca con dulzura de pimientos
+        maduros, pimienta negra y grosella madura
+        /n- Crianza 12 meses en barrica francesa tostada.
+        
+    </string>
+
+    <string name="eltramposocfranc2016">
+        - Valle de Uco, Mendoza 100% Cabernet Franc
+        /n- Rojo intenso, explosión de eucaliptos,
+        puro fresco, mentas silvestres, frutas rojas,
+        cerezas, fresas, franbuesas un dejo de tabaco.
+        /n- Entrada en boca, dulce muy especiado, taninos
+        redondos, elegantes e intensos, exelente concentración
+        muy persistente.
+    </string>
+
+    <string name="elcontrabandistapetitverdot2016">
+        - Valle de Uco, Mendoza 100% Petit Verdot
+        - Crianza 12 meses de barrica Francesa
+        alto tostado.
+        - Rojo rubí con reflejos violaceos, sensual
+        Perfume floral, tostados, tabaco y regaliz.
+    </string>
+
+    <string name="retochardonnay2018">
+       -Notas de cata: De color claro con aromas
+        intensos a cítricos y ananá. Fermentado
+        con roble americano y francés encuentra
+        sufrescura y su cuerpo untuoso a 8 grados.
+        Es un vino fresco y joven para ser tomado
+        con pescados y entradas sin carne roja.
+    </string>
+
+    <string name="retocabernetfranc2017">
+        
+    </string>
+
+    <string name="retoblend2016">
+        - Notas de cata: Rojo violáceo brillante.
+        En nariz se perciben lilas y violetas
+        especialmente con frutos rojos. Entrada de
+        boca dulce y con buena acidez, untuoso taninos
+        redondos elegantes dulces, fruta roja cereza
+        y ciruela madura. La madera se amalgama
+        perfectamente dando sabores a vainilla y
+        chocolate. Es largo y elegante termina con
+        taninos maduros
+        
+    </string>
+
+    <string name="retocabernetsauvignon2014">
+        - Notas de cata: Rojo violáceo profundo. En nariz
+        se perciben olores a chocolate y frutos rojos
+        maduros. Entrada de boca se denota muy redondo
+        y dulce. Con buena acidez, de cuerpo elegante y
+        medio con taninos redondos a fruta roja cieruela
+        madura es largo y de final elegante.
+        Guarda: 6 meses en barricas de roble francés
+        de primer uso.
+        
+    </string>
+
+    <string name="retomalbec2016">
+        - Notas de cata: Rojo violáceo brillante. En
+        nariz se perciben lilas y violetas especialmente
+        con frutos rojos. Entrada de boca dulce y con
+        buena acidez, untuoso taninos redondos elegantes
+        dulces, fruta roja cereza y ciruela madura. Es
+        largo y elegante termina con taninos maduros.
+        Guarda: 30% roble americano y 70% francés de
+        primer uso.
+        
     </string>
 
     <string name="Maldito">
-         - Malbec 98%, Petit Verdot 1%. Cabernet Franc 1%.
-        \n  Intercosecha del Colosso 2011, 2012, 2013.
-        \n -  Región: Luján de Cuyo y Valle de Uco, La consulta, San Carlos:
-        \n  1200 msnm.
-        \n - Guarda Colosso 2011: 30 meses.
-        \n - Guarda Colosso 2012: 24 meses.
-        \n - Guarda Colosso 2012: 15 meses.
-        \n - Notas de cata: Profundo en boca y de gran intensidad, muy
-        \n  perfumado con frutos de cassis, regaliz, frutas negras,
-        \n  violetas. Especiado y grafito. Entrada en bosa dulce y sedosa,
-        \n  gran concentación y complejidad.
+        - Malbec 98 %, Petit Verdot 1%, Cabernet Franc 1%.
+        /n- Intercosecha del Colosso 2011, 2012, 2013.
+        /n- Región: Luján de Cuyo y Valle de Uco, La consulta,
+        San Carlos: 1200 msnm. Vista Flores, Tunuyán: 1100 msnm.
+        /n- Las Compuertas: 1090 msnm.Guarda Colosso 2011: 30 m
+        eses. Guarda Colosso 2012: 24 meses.Guarda Colosso
+        2013: 15 meses.
+        /n- Notas de cata: Profundo en boca y de gran intensidad,
+        muy perfumado con frutos de cassis, regaliz, frutas
+        negras, violetas. Especiado y grafi to. Entrada en bosa
+        dulce y sedosa, gran concentración y complejidad.
+        
     </string>
 
-    <string name="VicentinBlacMalbec2017">
-         - Crianza: 6 meses en barricas de roble americano (Seguin
-        \n  Moreau-Canton-Radoux).
-        \n  Su nombre, Blanc de Malbec, es debido a que su vinificación
-        \n  se realiza como si fuera una uva blanca, esto lo convierte
-        \n  en el primer blanc de malbec en Argentina
-        \n  - Notas de cata: Rosado muy tenue, bien definido y brillante
-        \n  - En nariz se perciben suaves notas de jazmín y violetas
-        \n  con la madera que aporta notas de canela, clavo de olor y
-        \n  especies.
-        \n  - Entrada de boca dulce, fresco, untuoso explosivo y largo,
-        \n  muy frutal. Es fresco, largo y elegante termina con taninos
-        \n  maduros y dulces.
+    <string name="vicentinblancdemalbec2017">
+        - Crianza: 6 meses en barricas de roble americano
+        (Seguin Moreau-Canton-Radoux).
+        /n- Su nombre, Blanc de Malbec, es debido a que su
+        vinificaciónse realiza como si fuera una uva blanca,
+        esto lo convierte en el primer blanc de malbec en
+        Argentina.
+        /n- Notas de cata: Rosado muy tenue, bien definido y
+        brillante. En nariz se perciben suaves notas de jazmín
+        y violetas con marcado aro- mas a frutos de melocotón,
+        sandía amalgamados con la madera que aporta notas de
+        canela, clavo de olor y especies.
+        Entrada de boca dulce, fresco, untuoso, explosivo y
+        largo, muy frutal. Es fresco, largo y elegante termina
+        con taninos maduros y dulces.
+        
     </string>
 
-    <string name="VicentinColossoMalbec2015">
-         - Crianza: 24 meses en barricas de roble francés.
-        \n  - Notas de cata: Rojo profundo de gran intensidad con tintes
-        \n  violáncreos. Muy perfumado de cassis, regaliz, frutas negras,
-        \n  violetas, rosas, especiado y grafito. Entrada de boca dulce,
-        \n  de gran concentración, taninos redondos aterciopelados y
-        \n  elegantes, robusto, frutas negras madura, muy especiado.
-        \n  - Colossal persistencia.
+    <string name="arrogante2014">
+        - Variedad 100% Malbec, lujan de Cuyo, la Consulta
+        Valle de Uco Chacras de Coria, las Compuertas,
+        Mendoza Argentina.
+        /n- Rojo profundo de gran intensidad.muy perfumado,
+        frutos de cassis , regaliz,frutas negras ,violetas.
+        En boca dulce , sedoso untuoso taninos redondos,
+        aterciopelado, gran concentracion y complejidad.
+    
+    </string>
+
+    <string name="colossomalbec2015">
+        - Crianza: 24 meses en barricas de roble francés
+        /n- Notas de cata: Rojo prof undo de gran intensidad
+        con tintes violáceos.
+        Muy perfumado de cassis, regaliz, frutas negras,
+        violetas, rosas, especiado y grafito.
+        Entrada de boca dulce, de gran concentración, taninos
+        redondos atercioapelados y elegantes, robusto,
+        frutas negras madura, muy especiado. Colossal
+        persistencia.
+        
+    </string>
+    <string name="legitimochampangefrances">
+        - Dorado con reflejos acerados. Aromas
+        citricos que nos recuerdan frutas blancas
+        y alguna flor. Sutiles notas tostadas y a
+        “brioche” . Las notas frutales se presentan
+        en la boca acompañadas de algunos
+        toques herbaceos muy elegantes. De muy
+        buena acidez y frescura. La pequeña
+        burbuja nos brinda una sensación de
+        “mousse” muy agradable.
+        
+       
+    </string>
+
+    //mapema
+    <string name="mapemapzmalbec2008">
+        - 100% Malbec. Alc. Vol 13,5%
+        /n- Viñedos: La Consulta y Tupungato 15 meses en
+        barrica de roble francés 100% nuevo.
+        /n- Notas de cata: Color cereza oscuro, borde
+        granate, aroma elegante, complejo, fruta madura,
+        terroso, tostado.
+      
+    </string>
+
+    <string name="mapemagrappamalbec">
+        - Grappa 100% de Malbec . Alc. Vol 13,5%
+        /n- Viñedos: Agrelo, Mendoza, Argentina
+        /n- Notas de cata: Cristalina y límpida, muy
+        aromática, con notas de moras rojas y canela.
+        De sabor suave con buen final.
+    </string>
+
+    <string name="mapemasauvignonblanc2016">
+        - 100% Sauvignon Blanc
+        /n- Alc. Vol. 13,5%
+        /n- Viñedos: Los Álamos
+        /n– Tupungato.
+        /n- Añejado 3 meses en barricas de roble francés
+        100% nuevo.
+    </string>
+
+    <string name="mapemamalbectempranillo">
+        - 50% Malbec, 50% Tempranillo
+       /n - Alc. Vol. 13,5%- Viñedos: La Consulta –
+        San Carlos.
+       /n - Añejado 12 meses en barricas de roble
+        francés (25% nuevo, 25% segundo uso).
+    </string>
+
+    <string name="mapemamalbec2012100malbec">
+        - Alc. Vol. 13,5%
+        /n- Viñedos: La Consulta, San Carlos.
+        /n- 12 meses de añejamiento en roble francés.
+    </string>
+
+
+    //maal
+    <string name="imposiblemalbec2014">
+        - Alc. Vol. 14,8%
+        /n- Viñedos Vistaflores, Tunuyán, Mendoza
+        /n- Notas de cata: Color violeta intenso con matices
+        púrpuras. Notas a frutas maduras de casis y guinda,
+        que se combinan con aromas a moka y vainilla, tan
+        característicos de un justo paso por roble. Se
+        muestra potente a la vez armónico y equilibrado.
+        Su final largo, fresco y vibrante sorprende grata
+    </string>
+
+    <string name="biutifulmalbec2017">
+        - Alc. Vol. 14,5%
+        /n- Viñedos: San Carlos, Mendoza.
+        /n- Notas de cata: Un rojo oscuro, mostrando
+        atractivo aroma de especias, tabaco y regaliz.
+        Finas notas de cerezo macerado y casis. Marcado
+        final cremoso.
+    </string>
+
+    <string name="bestialmalbec2016">
+        - Alc. Vol. 14,8%
+        /n- Tunuyán, Mendoza.
+        /n- Tiempo en barrica: 16 meses para el 80% del vino
+        20 % sin roble.
+        /n- Notas de cata: sabor amplio e intenso, tanto
+        en su ataque inicial, como también en su textura
+        suave, su gran pureza y duración admirable. Frutos
+        negros, violetas y notas salvajes se combinan para
+        haces de esté un vino satisfactorio y sin complejos.
+    </string>
+
+    <string name="biolentomalbec2016">
+        - Alc. Vol. 14,5%
+        /n- Viñedos: Chacras de Coria, Mendoza.
+        /n- Notas de cata: Llamamos a este vino “Biolento”,
+        en honor a las pequeñas y violentas criaturas que
+        atacan al viñedo y representan el mayor desafío de
+        la agricultura ecológica.
+        Este vino contiene la mitad de sulfitos agregados
+        que un vino tradicional, se fermenta con levaduras
+        indígenas y se embotella sin filtrar.
+    </string>
+
+
+    <string name="rebelionmalbec2017">
+        - Alc. Vol. 14,5% tamira Chacras
+        /n- Notas de cata: Este Malbec Blend de tres
+        viñedos, combina la elegancia de Luján, con
+        la frescura de Vistafllores y la potencia
+        Altamira.
+    </string>
+
+    <string name="ambiguoblancodemalbec2016">
+        - Malbec 100%
+        /n- Tunuyan Mendoza 1170 msnm
+        /n-Edad de viñedo 9 años
+    </string>
+    // Por una cabeza
+
+
+    <string name="porunacabezamalbec2018">
+     - 100% Malbec.
+     /n- Alc. Vol. 13,2%
+     /n-Tupungato, Mendoza.
+     /n- Notas de cata: rojo rubí, aromas de frutas rojas
+     y negras, 4 meses en barricas de roble francés
+     
+ </string>
+
+    <string name="porunacabezabornarda2016">
+     - 100% Bonarda.
+     /n- Alc. Vol. 13,1%
+     /n- Tupungato, Mendoza.
+     /n- Notas de cata: rojo y tonos violetas, en nariz
+     amplia frutalidad. Muestra de paso por barrica americana.
+     
+ </string>
+
+    <string name="porunacabezacabsauvignon2016">
+     - 100% Cabernet Sauvignon.
+     /n- Alc. Vol. 13,2%
+     /n- Tupungato, Mendoza.
+     /n- Notas de cata: color intenso aroma a ciruelas,
+     matices violáceos, sabor herbáseo. Toques a pimiento
+     verde, frutas como frambuesas, moras y fresas.
+     
+ </string>
+
+    <string name="porunacabezatorrontes2016">
+     - 100% Torrontés
+     /n- Alc. Vol. 13,5%
+     /n- Tupungato, Mendoza.
+     /n- Notas de cata: Cepa blanca emblemática de Argentina,
+     forma parte del grupo de cepajes criollos. En boca
+     recuerda a la moscatel pero más suave y elegante, con
+     gran intensidad frutada, tonos especiados y frorales.
+     Temperatura ideal de consumo 8°.
+     
+ </string>
+
+    //Dante Robino
+    <string name="novecentonightrosado">
+     - Variedad rose, corte chardonnay / bonarda.
+     Color rosado brillante y suges- tivo, aroma
+     a frutas rojas como la cereza, combinadas con
+     notas citricas.
+     Buen balance entre el azucar y la acidez.
+ </string>
+
+    <string name="capricciotorrontés">
+     - Dulce natural. Alc. Vol. 8,5% Método Charmat.
+     - Aroma floral, delicada textura y dulzura.
+     Finas burbujas. Fresco, atractivo, versátil y
+     fácil de beber.
+     
+ </string>
+
+    <string name="novecentoextrabrutnight">
+     - Corte : 50% chardonnay ,50% chenin
+     Muy bien terminado y presentado. Color amarillo
+     brillante con reflejo verdosos. Aroma fresco
+     combinado con notas frutales y citricas muy
+     delicadas. Refinado y persistente.
+ </string>
+
+    <string name="capricciotardio">
+     - Nota de Cata: Color verdoso pálido.
+     /n- Aromas que recuerdan a piña, duraznos,
+     flores de azahar. Con notas cítricas y dulzor
+     equilibrado.
+     
+ </string>
+
+    <string name="novecentochardonnay2018">
+     - Nota de Cata:De color amarillo brllante con
+     tonalidades verdosas.
+     - De buena intensidad aromática, mezcla de flores,
+     hierba y frutas tropicales en boca; fresco y frutal.
+ </string>
+
+    <string name="novecentosyrah2018">
+     - Nota de Cata: Color rojo ciruela con reflejos
+     violaceoas.
+     /n - En nariz es expresivo con frutos del bosque y especias.
+     En boca, untuoso de taninos dulces y notas afrutadas
+     de cereza, mora y cassis.
+ </string>
+
+    <string name="novecentomalbec2018">
+     - Nota de cata: Color rojo intenso con matices violáces.
+     /n- En nariz se percibe elegante, con aromas que recuerdan
+     a mora, guinda y ciruela madura.
+     En boca taninos suaves y dulces, equilibrado y de
+     buen final.
+ </string>
+
+    <string name="novecentocabernetsauvignon2018">
+     - Nota de Cata: Color rojo profundo y provocador.
+     En nariz su aroma recuerda a la pimienta negra,
+     frutos negros maduros y mermeladas.
+     En boca se presenta estructurado de gran personalidad
+     y presencia.
+ </string>
+
+    <string name="novecentomalbec2011">
+     - Variedad: 100% Malbec de viñedos de 40 años.
+     /n- Crianza: 50 % del vino en contacto con roble
+     americano durante 8 meses. 50 % restante en
+     tanque de acero inoxidable.
+     /n- Notas de Cata: Rojo intenso co reflejos violáceos,
+     aromas elegantes que recuerdan a mora, guindas y ciruelas.
+     En boca es suave, lleno y
+ </string>
+
+    <string name="novecentocabernetsauvignon2016">
+     - Variedad: 100% Cabernet Sauvignon de viñedos
+     de 36 años.
+     /n- Crianza: 40 % del vino en contacto con roble
+     americano durante 8 meses. 60 % restante en tanque
+     de acero inoxidable
+     /n- Notas de Cata: Rojo intenso y profundo, seductores
+     aromas a frutas rojas y especias. En boca se presenta
+     con una estructura definida y armónica, desplegando
+     toda su identidad varietal.
+ </string>
+
+    //Canale
+
+    <string name="humbertocanalecentenium">
+     - Crianza: 18 meses de roble americano.
+     /n- Notas de cata: de color rojo profundo con tonalidades
+     violáceas. Aromas a frutos rojos y negros confitados.
+     Notas de vainilla y chocolate. El sabor es untuoso con
+     taninos maduros que dan sensación de dulzura. Gran
+     personalidad y larga vida.
+     
+ </string>
+
+    <string name="blackrivermalbec2015">
+     - Malbec 100% intenso color rojo con tintes violaceos,
+     aromas a pequeñoas frutas rojas de la cordillera.
+     En boca bien balanceado, taninos suaves, aterciopelado
+     y frutado.
+ </string>
+
+    <string name="blackrivercabernetsauvignon2016">
+     - Cavernet Sauvignon 100% Viñedos propios de mas de 60 años,
+     General Roca, Patagonia.
+     Intenso color rojo granate y leves colores teja en el anillo.
+     Aromas frutados a moras y grosellas, algo de pimiento.
+     Verde caracteristico de la variedad, cuerpo medio muy suave
+     aterciopelado con nats de vainilla, chocola- te, largo final.
+     Maridaje: carnes varias, pastas con salsas intensas.
+ </string>
+
+    <string name="blackrivermerlot2016">
+     - Merlot 100% intenso color rojo granate, aromas
+     afrutados a frambuesa, cereza, cassis, grosella.
+     En boca suave, aterciopelado e intenso, de buen
+     cuerpo, notas de tabaco chocolate y vainilla.
+ </string>
+
+    <string name="blackriversauvignonblanc2017">
+     - Sauvignon 2017 100% color amarillo verdoso claro,
+     aroma intenso muy afrutado, mango , piña, maracuya.
+     Entrada impresionante, suave dulce armonico equilibrado
+     Equilibrada acidez, fin de boca largo.
+ </string>
+
+
+    <string name="intimocabernetsauvignon2014">
+     - Alc. Vol. 13,7%
+     /n- 4 años en barricas de roble y 8 meses en botella.
+     /n- Notas de cata: Intenso color rojo granate y leves
+     colores teja en el anillo; aromas frutados a mora y
+     grosella, algo de pimiento verde característico de
+     la variedad; en la boca se destaca su cuerpo medio,
+     vino muy suave y aterciopelado, notas tenues de
+     vainilla y chocolate, de largo final de boca.
+ </string>
+
+    <string name="intimomalbec2015">
+     - Alc. Vol. 13,8%
+     /n- Reposo en barricas de roble ameri- cano durante
+     4 meses.
+     /n- Notas de cata: De color rojo vio- láceo. En la
+     nariz se perciben frutos rojos con notas especiadas
+     y presencia de aguaribay (pimienta rosa). En la
+     boca es franco, típico, de buena armonía y balance.
+     El pasaje por roble le aporta notas de vainilla y coco.
+ </string>
+
+    <string name="intimoblend2017">
+     - Alc. Vol. 13,9%
+     /n- Reposo en barricas de roble ame- ricano durante 4 meses.
+     /n- Notas de cata: Color rojo rubí de muy buena intensidad.
+     Nariz compleja y elegante con presencia de frutos rojos,
+     con notas de vainilla y tabaco aportados por el roble.
+     En la boca es amplio, con buen volumen y de largo final.
+     
+ </string>
+
+    <string name="humbertocanalecabsauvignon2014">
+     - Alc. Vol. 13,9%
+     /n- Notas de cata: Rojo rubí, brillante, limpio.
+     Fresco, frutado, aterciopela- do. Aromas de frutas
+     rojas y negras, violetas y chocolate. De gran
+     estructura y cuerpo un vino de carácter y exquisita
+     elegancia.
+ </string>
+
+    <string name="humbertocanalecabernetfranc2015">
+     - Alc. Vol. 13,8%
+     /n- Notas de cata: Color rojo profundo, intenso,
+     de reflejos rubi. Aroma complejo, parte frutal,
+     en especial la fruta fresca negra: guidas negras
+     y, moras; el especiado y el aporte de grafito (mineral).
+     En boca se sienten taninos maduros, dulces y redondos,
+     amplios y untuosos, tiene un final muy persistente.
+ </string>
+
+    <string name="humbertocanalepinotnoir2015">
+     - Alc. Vol. 14,0%
+     /n- Notas de cata: un vino elegante, delicado y complejo,
+     de color rojo granate. A la nariz se perciben aromas de
+     frutos rojos frescos. En boca, de de impacto dulce y
+     gran complejidad, es untuoso, de final largo y persistente.
+ </string>
+
+    <string name="humbertocanalemalbec2015">
+     - Alc. Vol. 13,7%
+     /n- Notas de cata: Un vino de gran cuerpo y estructura,
+     color rojo rubí intenso, con sorprendentes aromas a
+     frutas rojas, eucaliptus, especias y pimientos negros.
+     Luego de un año en botella se vuelve untuoso, intenso,
+     concentrado.
+ </string>
+    <string name="oldvineyardpinotnoirrose2017">
+     - Pinot Noir 100% Suave color rosado con tonalidad
+     salmón, marcado aro- mas de frutos rojos.
+     En boca es fresco, balanceado y elegante con carácter
+     frutal intenso.
+     Maridaje: pescados como salmón, corvina, trucha o
+     abadejo, carnes blancas grilladas.
+ </string>
+
+    //Patritti
+    <string name="primogenitomalbec2008">
+        - Guarda: 12 meses en barrica de roble francés
+        /n- Alc. Vol. 14,1%
+        /n- Notas de cata: Rojo intenso con tonos violetas.
+        En nariz cereza, frambuesa, menta, vainilla, café.
+        En boca frutos rojos maduros, taninos suaves.
+</string>
+    <string name="primogenitocabernetsauvignon2008">
+        - Guarda: 12 meses en barrica de roble francés
+        /n- Alc. Vol. 13,2%
+        /n- Notas de cata: Rojo rubí brillante, aromas a
+        frutos negros, pimienta y humo. En boca taninos
+        redondos y persistentes.
+</string>
+
+    <string name="primogenitoblend2013">
+        - 50% Cabernet Sauvignon, 40% Malbec, 10% Merlot.
+        /n- Alcohol: 13,9 %
+        /n- 24 meses en barricas de roble francés de primer uso.
+        /n- Notas de Cata: Rojo rubí brillante, con tonos
+        violáceos y gran profundidad. Es un vino largo y
+        complejo que denota elegancia y potencia a la vez.
+</string>
+
+    <string name="primogenitopinotnoir2014">
+        - Alcohol: 13,9 %
+        /n- 12 meses en barricas de roble francés.
+        /n- Notas de Cata: Color rojo rubí, brillante,
+        con tonos suaves y atractivos. Elegante aroma con
+        notas florales. Vino balanceado con taninos amables,
+        buena estructura y larga persistencia.
+</string>
+
+    <string name="primogenitomerlot2011">
+        - Guarda: 12 meses en barrica de roble francés
+        /n- Alc. Vol. 13,9%
+        /n- Notas de cata: Rojo rubí brillante, aromas
+        especiados y frutos rojos. En boca taninos
+        dulces que le dan complejidad.
+</string>
+
+    <string name="primogenitosangreazulmerlot2016">
+        - Merlot 100%
+        /n- Crianza: 20 meses en barrica de roble francés.
+        Potencial de guarda de 10 a 12 años.
+        /n- Notas de cata: de color rojo rubí de gran intensidad.
+        En nariz se perciben frutos negros y azules, como sauco,
+        casis y arándanos. Notas de pimienta negra y regaliz.
+</string>
+
+    <string name="primogenitosommelier2012">
+        - 40% Cabernet Sauvignon, 25% Malbec, 25% Merlot,
+        10% Cabernet Franc.
+        /n- 24 meses en Barrica de Roble Francés. Potencial de
+        guarda de 10 a 12 años.
+        /n- Notas de cata: color de gran intensidad. Nariz muy
+        expresiva, predominan frutos rojos y negros. Taninos
+        firmes que se irán redondeando con el tiempo.
+
+</string>
+
+
+    <string name="primogenitosangreazulblend2011">
+        - 40% Cabernet Sauvignon, 30% Malbec, 20% Merlot,
+        10% Petit Verdot.
+        /n- Crianza: 24 meses en Barrica de Roble Francés.
+        /n- Notas de cata: de color rojo violáceo de alta
+        profundidad. En nariz se percibe muy expresivo,
+        detalles de hojas secas como: té negro, tabaco,
+        vainilla y coco.
 
     </string>
 
-    <string name="Arrogante2014">
-
+    //La guarda
+    <string name="vikasyrahmalbec2014">
+        - Alc. Vol. 13,3%
+        /n- Syrah / Malbec Joven frutado
     </string>
 
-    <string name="MapemaDeMariano">
-
-    </string>
-
-    <string name="MapemaPzMalbec2008">
-          - 100% Malbec.
-        \n  - Alc. Vol 13.5%
-        \n  - Viñedos: La consulta y Tupungato.
-        \n  - 15 meses en barrica de roble francés 100% nuevo.
-        \n  - Notas de cata: Color cereza oscuro, borde granate, aroma
-        \n  elegante, complejo, fruta madura, terroso, tostado.
-
-    </string>
-
-    <string name="MapemaMalbec2012">
-          - 100% Malbec.
-        \n  - Alc. Vol 13.5%
-        \n  - Viñedos: La consulta, San Carlos.
-        \n  - 12 meses en barrica de roble francés.
-    </string>
-
-    <string name="MapemaMalbecTempranillo2012">
-          - 50% Malbec, 50% Tempranillo.
-        \n  - Alc. Vol 13.5%
-        \n  - Viñedos: La consulta, San Carlos.
-        \n  - Añejado 12 meses en barricas de roble francés (25% nuevo,
-        \n  25% segundo uso).
-    </string>
-
-    <string name="MapemaSauvignonBlanc2016">
-          - 100% Sauvignon Blanc.
-        \n  - Alc. Vol 13.5%
-        \n  - Viñedos: Los Álamos - Tupungato.
-        \n  - Añejado 3 meses en barricas de roble francés 100% nuevo.
-    </string>
-
-    <string name="MapemaGrappaMalbec">
-          - Grappa 100% de Malbec.
-        \n  - Alc. Vol 13.5%
-        \n  - Viñedos: Agrelo, Mendoza, Argentina.
-        \n  - Notas de cata: Cristalina y límpida, muy aromática, con notas
-        \n    de moras rojas y canela. De sabor suave con buen final.
+    <string name="vikasyrahcabernetsauvignon2014">
+        - Alc. Vol. 13,3%
+        /n- Syrah / Cabernet Sauvignon
     </string>
 
 
-    // MAAL WINES DE M. FRAGA y / A. MERLOS ; MENDOZA , ARGENTINA
-
-    <string name="imposibleMalbec2014">
-          - Alc. Vol 14.8%
-        \n  - Viñedos: Vistaflores, Tunuyán, Mendoza.
-        \n  - Notas de cata: Color violeta intenso con matices púrpuras.
-        \n  Notas a frutas maduras de casis y guinda, que se combinan con
-        \n  aromas a moka y vainilla, tan característicos de un justo paso
-        \n  paso por roble. Se muestra potente a la vez que armónico y
-        \n  equilibrado. Su final largo, fresco y vibrante sorprende gratamente.
-    </string>
-
-    <string name="BiutifulMalbec2017">
-          - Alc. Vol 14.5%
-        \n  - Viñedos: San Carlos, Mendoza.
-        \n  - Notas de cata: Un rojo oscuro, mostrando atractivo aroma de
-        \n  especias, tabaco y regaliz. Finas notas de cerezo negro y casis.
-        \n  Marcado final cremoso.
-    </string>
-
-    <string name="BestialMalbec2016">
-          - Alc. Vol 14.8%
-        \n  - Viñedos: Tunuyán, Mendoza.
-        \n  - Tiempo en barrica: 16 meses para el 80% de vino, 20% sin roble.
-        \n  - Notas de cata: Sabor amplio e intenso, tanto en su ataque inicial,
-        \n  como tambien en su textura suave, su gran pureza y duración admirable
-        \n  Frutos negros, violetas y notas salvajes florales se combinan para
-        \n  hacer de éste un vino satisfactorio y sin complejos.
-    </string>
-
-    <string name="BiolentolMalbec2016">
-          - Alc. Vol 14.5%
-        \n  - Viñedos: Chacras de Coria Mendoza.
-        \n  - Notas de cata: Llamamos a este vino "Biolento", en honor a las
-        \n  pequeñas y violentas criaturas que atacan al viñedo y representan
-        \n  el mayor desafío de la agricultura ecológica.
-        \n  Este vino contiene la mitad de sulfitos agregados que un vino
-        \n  tradicional, se fermenta con levaduras indígenas y se embotella
-        \n  sin filtrar.
-    </string>
-
-    <string name="RebelionMalbec2017">
-          - Alc. Vol 14.5%
-        \n  - Viñedos: Vistaflores - Altamira - Chacras.
-        \n  - Notas de cata: Este Malbec Blend de tres villedos, combina la
-        \n  elegancia de Luján, con la frescura de Vistaflores y la potencia
-        \n  de Altamira.
-    </string>
-
-    <string name="AmbiguoRoseMalbec">
-
-    </string>
-
-    <string name="Paciencia">
-
-    </string>
-
-    // POR UNA CABEZA ; MENDOZA , ARGENTINA
-
-    <string name="PorUnaCabezaMalbec2016">
-          - 100% Malbec
-        \n  - Alc. Vol. 13.2%
-        \n  - Tupungato, Mendoza
-        \n  - Notas de cata: rojo rubí, aromas de frutas rojas y negras,
-        \n  4 meses wn barricas de roble francés.
-    </string>
-
-    <string name="PorUnaCabezaBonarda2016">
-          - 100% Bonarda
-        \n  - Alc. Vol. 13.1%
-        \n  - Tupungato, Mendoza
-        \n  - Notas de cata: rojo y tonos violetas en nariz amplia
-        \n  frutalidad. Muestra de paso por barrica americana.
-    </string>
-
-    <string name="PorUnaCabezaSauvignon2016">
-          - 100% Caberbet Sauvignon
-        \n  - Alc. Vol. 13.2%
-        \n  - Tupungato, Mendoza
-        \n  - Notas de cata: color intenso aroma a ciruelas, matices
-        \n  violánceos, sabor herbáseo. Toques a pimiento verde, frutas
-        \n como frambuesas, moras y fresas.
-    </string>
-
-    <string name="PorUnaCabezaTorrontes2016">
-          - 100% Torrontés
-        \n  - Alc. Vol. 13.5%
-        \n  - Tupungato, Mendoza
-        \n  - Notas de cata: cepa blanca emblemática de Argentina forma
-        \n  parte del grupo de cepajes criollos. En boca recuerda a la
-        \n moscatel pero más suave y elegante, con gran intensidad
-        \n frutada, tonos especiados y frorales. Temperatura ideal
-        \n de consumo 8°.
-    </string>
-
-    <string name="PorUnaCabezaBagBox">
-
-    </string>
-
-    // cava 7 BODEGAS DANTE ROBINO ; MENDOZA ; ARGENTINO
-
-    <string name="NovecentoMalbec">
-            - Variedad: 100% Malbec de viñedos de 40 años
-        \n  - Crianza: 50% del vino en contacto con roble
-              americano durante 8 meses. 50% restante en
-              tanque de acero inoxidable.
-        \n - Notas de cata: Rojo intenso con reflejos
-             violáceos, aromas elegantes que recuerdan a
-             mora, guindas y ciruelas. En boca es suave,
-             lleno y de largo final.
-    </string>
-
-    <string name="NovecentoSauvignon2016">
-            - Variedad: 100% Cabernet Sauvignon de viñedos
-              de 36 años.
-        \n  - Crianza: 40% del vino en contacto con roble
-              americano durante 8 meses. 60% restante en
-              tanque de acero inoxidable.
-        \n - Notas de cata: Rojo intenso y profundo,
-             seductores aromas a frutas rojas y especias.
-             En boca se presenta con una estructura definida
-             y armónica, desplegando toda su identidad varietal.
-    </string>
-
-    <string name="NovecentoTorrontes">
-            - Dulce natural
-        \n  - Alc. Vol. 8.5%
-        \n  - Metodo floral, delicada textura y dulzura.
-              finas burbujas. Fresco, atractivo, versátil
-              y fácil de beber.
-    </string>
-
-    <string name="NovecentoExtraBrut">
-            - Extra brut.
-        \n  - Alc. Vol. 11.5%
-        \n  - Metodo Charmat. Aromas florales, cítricos y
-              pan tostado.
-    </string>
-
-    <string name="NovecentoMalbec2016">
-            - Nota de cata: Color rojo intenso con matices
-              violáceos.
-              En nariz se percibe elegante, con aromas que
-              recuerdan a mora, guinda y ciruela madura.
-              En boca suaves y dulces, equilibrado y de buen
-              final.
-    </string>
-
-    <string name="NovecentoSyrah2016">
-            - Nota de cata: Color rojo ciruela con reflejos
-              violáceos.
-              En nariz es expresivo con frutos del bosque y
-              especias.
-              En boca, untuoso de taninos dulces y notas
-              afrutadas de cereza, mora y cassis.
-    </string>
-
-    <string name="NovecentoCabernet">
-            - Nota de cata: Color rojo profundo y provocador.
-              En nariz su aroma recuerda a la pimienta negra,
-              frutos negros maduros y mermeladas.
-              En boca se presenta escructurado dde gran
-              personalidad y presencia.
-    </string>
-
-    <string name="NovecentoChardonnay">
-            - Nota de cata: De color amarillo brillante con
-              tonalidades verdosas.
-              De buena intensidad aromática, mezcla de flores,
-              hierba y frutas tropicales en boca; fresco y frutal
-    </string>
-
-    <string name="NovecentoCapriccio">
-            - Nota de cata: Color versoso pálido.
-              Aromas que recuerdan a piña, duraznos,
-              flores de azahar. Con notas cítricas y dulzor
-              equilibrado.
-    </string>
-
-    //HUMBERTO CANALE ; CARÁCTER PATAGONICO ; RIO NEGRO , ARGENTINA
-
-    <string name="HumbertoCentenium">
-            - Crianza: 18 meses en roble americano
-          \n-  Notas de cata: de color rojo profundo con
-               tonalidadez violánceas. Aromas a frutos
-               rojos y negros confitados. Notas de vainilla
-               y chocolate. El sabor es untuoso con taninos
-               maduros que dan sensación de dulzura. Gran
-               personalidad y larga vida.
-    </string>
-
-    <string name="HumbertoCabernet">
-            - Alc. Vol. 13.7%
-            - 4 años en barricas de roble y 8 meses en botella
-            - Notas de cata: Intenso color rojo granate y leves
-              colores teja en el anillo; aromas frutados a mora
-              y grosella, algo de pimiento verde característico
-              de la variedad; en la boca se destaca su cuerpo
-              medío, vino muy suave y aterciopelado, notas
-              tenues de vainilla y chocolate, de largo final de
-              boca.
-    </string>
-
-    <string name="HumbertoMalbec">
-            - Alc. Vol. 13.8%
-            - En reposo en barricas de roble americano durante
-              4 meses.
-            - Notas de cata: De color rojo violánceo. En la nariz
-              se perciben frutos rojos con notas especiadas y
-              presencia de aguaribay(pimienta rosa). En la boca
-              es franco, típico, de buena armonía y balance. El
-              pasaje por roble le aporta notas de vainilla y coco.
-    </string>
-
-    <string name="HumbertoBlend">
-            - Alc. Vol. 13.9%
-            - Reposo en barricas de roble americano durante
-              4 meses.
-            - Notas de cata: De color rojo rubí de muy buena
-              intensidad. Nariz compleja y elegante con presencia
-              de frutos rojos, con notas de vainilla y tabajo
-              aportados por el roble.
-              En la boca es amplio, con buen volumen y de largo final.
-    </string>
-
-    <string name="HumbertoCabSauvignon">
-            - Alc. Vol. 13.9%
-            - Notas de cata: rojo rubí, brillante, limpio.
-              Fresco, frutado aterciopelado. Aromas de
-              frutas rojas y negras, violetas y chocolate.
-              De gran estructura y cuerpo un vino de carácter
-              y exquisita elegancia.
-    </string>
-
-    <string name="HumbertoCabFranc">
-            - Alc. Vol. 13.8%
-            - Notas de cata: Color rojo profundo intenso, de
-              reflejos rubí. Aroma complejo, parte frutal,
-              en especial la fruta fresca negra: guidas
-              negras y, moras; el especiado y el aporte del
-              grafito (mineral). En boca se seinten taninos
-              dulces y redondos, amplios y untuosos, tiene un
-              final muy persistente.
-    </string>
-
-    <string name="HumbertoPinotNoir">
-            - Alc. Vol. 14.0%
-            - Notas de cata: un vino elegante, delicado y
-              complejo, de color rojo granate. A la nariz
-              se perciben aromas de frutos rojos frescos.
-              En boca, de impacto dulce y gran complejidad,
-              es untuoso, de final largo y persistente.
-    </string>
-
-    <string name="HumbertoMalbec2014">
-            - Alc. Vol. 13.7%
-            - Notas de cata: Un vino de gran cuerpo y estructura,
-              color rojo rubí intenso, con sorprendentes aromas
-              a frutas rojas, eucaliptus, especias y pimientos
-              negros. Luego de un año en botella se vuelve
-              utuoso, intenso, concentrado.
-    </string>
-
-    <string name="HumbertoOldRosePinot">
-
-    </string>
-
-    <string name="BlackRiverMalbec2016">
-
-    </string>
-
-    <string name="BlackRiverSauvignon2016">
-
-    </string>
-
-    <string name="BlackRiverMerlot2016">
-
-    </string>
-
-    <string name="BlackRiverSauvignonBlanc2016">
-
-    </string>
-
-    //BODEGAS PATRITTI ; NEUQUEN , ARGENTINA.
-
-    <string name="PrimogenitoMerlot2011">
-            - Guarda: 12 meses en barrica de roble fracés
-            - Alc. Vol. 13.9%
-            - Notas de cata: Rojo rubí brillante, aromas
-              especiados y frutos rojos. En boca taninos
-              dulces que le dan complejidad.
-    </string>
-
-    <string name="PrimogenitoSauvignon2008">
-            - Guarda: 12 meses en barrica de roble fracés
-            - Alc. Vol. 13.2%
-            - Notas de cata: Rojo rubí brillante, aromas
-              a frutos negros, pimienta y humo. En boca
-              taninos redondos y persistentes
-    </string>
-
-    <string name="PrimogenitoPinotNoir">
-            - Guarda: 12 meses en barrica de roble fracés
-            - Alc. Vol. 13.9%
-            - Notas de cata: Color rojo rubí brillante, con
-              tonos suaves y atractivos. Elegante aroma
-              con notas florales. Vino balanceado con taninos
-              amables, buena estructura y larga persistencia.
-    </string>
-
-    <string name="PrimogenitoMalbec">
-            - Guarda: 12 meses en barrica de roble fracés
-            - Alc. Vol. 14.1%
-            - Notas de cata: Rojo intenso con tonos violetas.
-              En nariz cereza, frambuesa, menta, vainilla,
-              café. En boca frutos rojos maduros, taninos
-              suaves.
-    </string>
-
-    <string name="PrimogenitoBlend">
-            - 50% Cabernet Sauvignon, 40% Malbec, 10%
-              Merlot.
-            - Alcohol:13.9%
-            - 24 meses en barricas de roble francés de
-              primer uso.
-            - Notas de cata: Rojo rubí brillante, con
-              tonos violánceos y gran profundidad. Es
-              un vino largo y complejo que detona
-              elegancia y potencia a la vez
-
-    </string>
-
-    <string name="SangreAzulMerlot">
-            - Merlot 100%
-            - Crianza: 20 meses en barrica de roble
-              francés. Potencial de guarda de 10 a 12
-              años.
-        \n  - Notas de cata: de color rojo rubí de gran
-              intensidad. En nariz se perciben frutos
-              negros y azules, como sauco, casis y
-              arándanos. Notas de pimienta negra y
-              regaliz.
-    </string>
-
-    <string name="SangreAzulSommelier">
-            - 40% Cabernet Sauvignon, 25% Malbec,
-              25% Merlot, 10% Cabernet Franc.
-        \n  - 24 meses en Barrica de Roble Francés.
-              Potencial de guarda de 10 a 12 años
-        \n  - Notas de cata: color de gran intensidas.
-              Nariz muy expresiva, predominan frutos
-              rojos y negros. Taninos firmes que se
-              irán redondeando con el tiempo.
-    </string>
-
-    <string name="SangreAzulBlend">
-            - 40% Cabernet Sauvignon, 30% Malbec,
-              20% Merlot, 10% Petit Verdor.
-        \n  - Crianza: 24 meses en barrica de Roble
-              Francés.
-        \n  - Notas de cata: de color rojo violánceo
-              de alta profundidad. En narizx se
-              percibe muy expresivo, detalles de hojas
-              secas como: té negro, tabaco, vainilla y
-              coco.
-    </string>
-
-    <string name="SangreAzulPinotNoir">
-
-    </string>
-
-    <string name="SangreAzulChardonnay">
-
-    </string>
-    //BODEGAS LA GUARDA ; SAN JUAN ; ARGENTINA, EL MEJOR SYRAH ARGENTINO ES DE SAN JUAN
-
-    <string name="VikaMalbec">
-            - Alc. Vol.13.3%
-            - Syrah/Malbec.
-            - Joven frutado.
-    </string>
-
-    <string name="VikaSauvignon">
-            - Alc. Vol.13.3%
-            - Syrah/Cabernet Sauvignon.
-    </string>
-
-    // cava 8 BODEGAS YACOCHUYA ; DE ARNALDO Y PABLO ETCHART ; VALLES CALCHAQUIES ,SALTA ; ARGENTINA
-
-    <string name="CoquenaMalbec">
-            - Malbec 100%
-            - Alc. Vol. 14.6%
-            - Finca Tolombón, Valles Calchaquíes, Salta, Argentina
-        \n  - Notas de cata: De intenso color y aroma con un cáracter
-              frutal muy marcado y un toque de roble.
-              Se percibe su frutalidad en boca, toques especiados y
-              un final largo.
-    </string>
-
-    <string name="CoquenaTannat">
+    //Yacochuya
+    <string name="coquenatannat2015">
             - Tannat 100%
-            - Valles Calchaquies, Provincia de Salta
-            - Notas de cata: Brillante y límpido.
-              Aroma intenso con carácter frutal muy
-              marcado (ciruelas y cerezas) y algo de
-              especias. En boca posee carácter frutado
-              taninos firmes y maduros. Buena acidez y
-              final largo.
-    </string>
+            /n- Valles Calchaquíes, Provincia de Salta.
+            /n- Notas de cata: brillante y límpido. Aroma
+            intenso con carácter frutal muy marcado (ciruelas
+            y cerezas) y algo de especias. En boca posee
+            carácter frutado, taninos firmes y maduros.
+            Buena acidez y largo final.
+        </string>
 
-    <string name="YacochuyaMalbec">
-            - 85% Malbec, 15% Cabernet Sauvignon
-            - Alc. Vol.: 16%
-            - Viñedos: Cafayate, Salta.
-            - Viña con 60 años de edad, 2035 msnm.
-            - Enólo Michel Rolland.
-            - 12 m. de crianza en barricas de roble
-              Francés(70% 2do. uso y 30% nuevas).
-    </string>
-
-    <string name="SanPedroYacochuyaMalbec">
-            - 90% Malbec, 10% Cabernet Sauvignon
-            - Alc. Vol.: 16%
-            - Viñedos: Valles Calchaquíes, Cafayate, Salta.
-            - Viña con 60 años de edad, 2035 msnm.
-            - Enólo Michel Rolland.
-            - 15 m. de crianza en barricas de roble
-              Francés de 1er uso.
-    </string>
-
-    //BODEGAS COLOME ; VALLES CLACHAQUIES, SALTA; ARGENTINA.
-
-    <string name="AmalayaMalbec">
-
-    </string>
-
-    <string name="AmalayaTorrontes">
-
-    </string>
-
-    <string name="AmalayaRosadodeCorte">
-
-    </string>
-
-    <string name="AmalayaGranCorte">
-
-    </string>
-
-    <string name="ColomeEstateMalbec">
-
-    </string>
-
-    <string name="ColomeAutentico">
-
-    </string>
-
-    <string name="ColomeLoteEspecial">
-
-    </string>
-
-    <string name="ColomeAlturaMaxima">
-
-    </string>
-
-    //FINCA LAS DIVAS , RIGLOS ; MENDOZA , ARGENTINA
-
-    <string name="RiglosCabernetFranc">
-
-    </string>
-
-    <string name="RiglosGranMalbec">
-            - Varietal: 100% Cabernet Franc.
-            - Zona Gualtayarí
-            - 18/ meses de barrica de roble francés
-            - Notas de cata: Posee colores intensos con
-              bordes violetas. En nariz se perciben frutos
-              rojos maduros, moras, ciruelas, flores de
-              cassis y tulipanes
-    </string>
-
-    <string name="RiglosGranSauvignon">
-            - Varietal: 100% Cabernet Sauvignon.
-            - Zona Gualtayarí
-            - 12 meses de barrica de roble francés
-            - Notas de cata: de color rojo intenso con matices
-              anaranjados. En nariz predominan los frutos rojos
-              y las especias, gran tipicidad del Cab. Sauvignon
-              y de la zona. Posee buena estructura, es untuoso,
-              profundo y de buena acidez
-    </string>
-
-    <string name="RiglosGranCorte">
-            - Varietal: 34% MAlbec, 33% Cab. Sauvignon,
-              33% Cab. Franc.
-            - 21 meses de barrica de roble francesa.
-            - Notas de cata: de color rojo profundo, mezclado
-              con matices violetas, naranjas y negros. De gran
-              complejidad sensorial.
-              En nariz se perciben flores y frutos rojos,
-              también mineral. En boca chocolate. Vino
-              opulento de largo final mineral.
-    </string>
-
-    // PROYECTO LAS COMPUERTAS , DE HECTOR Y PABLO DURIGUTTI , MENDOZA ;ARGENTINA
-
-    <string name="LasCompuertasCriolla">
-
-    </string>
-
-    <string name="LasCompuertasCordisco">
-
-    </string>
-
-    <string name="LasCompuertasMalbec">
-
-    </string>
-
-    <string name="LasCompuertasMalbec1914">
-
-    </string>
-
-    <string name="LasCompuertasFranc">
-
-    </string>
-
-    <string name="LasCompuertasCharbono">
-
-    </string>
-
-    <string name="CaraSucioTinto">
-
-    </string>
-
-    <string name="CaraSucioCereza">
-
+    <string name="coquenamalbec2013">
+        - Malbec 100%
+        /n- Alc. Vol. 14,6%
+        /n- Finca Tolombón, Valles Calchaquíes, Salta, Argentina.
+        /n- Notas de cata: De intenso color y aroma,
+        con un carácter frutal muy marcado y un toque de roble.
+        Se percibe su frutalidad en boca, toques especiados y
+        un final largo.
     </string>
 
 
-    //Cava 9 QUINTA DO ´PORTAL , PORTO ; PORTUGAL
-
-
-    <string name="PortalVintagePort2011">
-            - El vino muestra madrura frescura de
-              retención de frutas y accesibilidad.
-              Tiene una gran mineralidad que
-              equilibra muy bien con su potencia y
-              concntración.
-    </string>
-
-    <string name="PortalLateBottled">
-            - De color rubí, aromas de frutas rojas
-              maduras y bayas silvestres y un toque
-              de credro. En boca es sedoso pero con
-              personalidad, con una fresca acidez.
-              La final es largo y complejo, y muestra
-              el potencial para envejecer mejor en
-              la botella.
-    </string>
-
-    <string name="PortalFineRubyPorto">
-            - Portal Fine Ruby es elegante, animado,
-              con aroma a ricos frutos jóvenes. Posee
-              un proceso de envejecimiento de tres
-              años en grandes tinas de madera,
-              manteniendolo fresco y protegido de la
-              ocidación.
-              Una combinación clásica es acompañarlo
-              con ricos quesos blandos, chocolate y
-              frutos rojos.
-    </string>
-
-    <string name="PortalFineTawnyPorto">
-            - Es muy suave, limpio y brillante.
-              Probablemente el mejor y sin duda el
-              más elegante en su categoría.
-              Envejecido 4 años en barrica.
-              En nariz se percibe fruta fresca, con
-              notas de nuez. Este vino se disfruta
-              sobre todo como aperitivo. También es
-              ideal como vino de postre para los que
-              prefieren un estilo más ligero de vino.
-    </string>
-
-    <string name="Portal29Grapes">
-            - Es una mezcla de antiguos viñedos donde
-              podemos encontrar un gran número de
-              diferentes variedades de uva. Es un
-              resultado de una sección de los mejores
-              lotes de rubí cuidadosamente envejecido
-              en nuestras cavas entre los 4 y 5 años.
-    </string>
-
-    <string name="Portal6Barrels">
-            - Esta es una mezcla de nuestros oportos,
-              una selección de los mejores 6 barriles,
-              y añejado durante 7 años en nuestras
-              cavas. Es sutil, elegante, pero rico
-              y aterciopelada. Una gran oporto de
-              postre para disfrutar ligeramente frío.
-    </string>
-
-    <string name="Portal10years">
-            - Es una mezcla de diferentes vinos
-              envejecidos en antiguas barricas
-              durante muchos añosen nuestras
-              bodegas donde adquieren el color
-              ámbar y convierten la fruta rica
-              joven en elegancia.
-              Es estructurado, pero equilibrado
-              por una fina acidez.
-              En su añejamiento desarrolla aromas
-              de caramelo, café con leche, junto
-              con sabores a nuez. Para disfrutar
-              con tarta tatin o macadamia helado.
-    </string>
-
-    <string name="Portal20years">
-            - Otro éxito de Port de la familia
-              Branco de Quinta do Portal,
-              después de su éxito con la
-              cosecha 2003.
-              Este es un vino lleno de vida, con
-              una acidez fresca, aromas a fruta
-              madura.
-              Es maduro pero muy elegante con un
-              dulce sabor a frutas secas.
-    </string>
-
-    <string name="Portal30years">
-            - Siendo una casa portuguesa, Portal
-              tiene mucho interés en tener una
-              gama completa de oportos Tawny
-              incluyendo el añejo de 30 años.
-              Se trata de una mezcla de vinos
-              que han envejecido en antiguas
-              barricas en el Duero, donde
-              desarrolló un hermoso color
-              ámbar dorado con delicados tonos
-              verdes y un rico y complejo bouquet,
-              maravilloso!.
-    </string>
-
-    <string name="Portal40years">
-            - De color ámbar con intenso bonde
-              aceituna verdoso, excelente aroma
-              de frutos secos con la almendra e
-              higos.
-              Lleno de gran complejidad, recuerda
-              a la miel.
-    </string>
-
-    <string name="PortalVintage2003">
-            - Negruzco púrpura intenso con aromas
-              de arándanos, anís, menta y un poco
-              de pimienta negro. Vino con cuerpo
-              grande y equilibrada con el ciruelo
-              negro dulce y arándanos con un montón
-              de buena acidez.
-    </string>
-
-    <string name="PortalVintage2007">
-            - Morado muy oscuro, tiene aromas de
-              ciruela e higo negro en un perfil
-              limpio y puro. Muy equilibrado,
-              sedoso pero con un tanino firme y
-              excelente acidez.¡Elegante!
-    </string>
-
-    <string name="Portal20YearsOld">
-            - Otro éxito de Port de la familia
-              Branco de Quinta do Portal después
-              de su éxito con la cosecha 2003.
-              Este es un vino lleno de vida, con
-              una acidez fresca, aromas a fruta
-              madura. Es maduro pero muy elegante
-              con un dulce sabor a frutas secas.
-    </string>
-
-    <string name="Portal10YearsOld">
-            - Mezcla de diferentes vinos envejecidos
-              en antiguas barricas por años donde
-              adquieren el color ámbar y convierten
-              la fruta rica joven en elegancia.
-              Es estructurado, pero equilibrado de
-              fina acidez.En su añejamiento desarrolla
-              aromas de caramelo, café con leche, junto
-              con sabores a nuez. Para disfrutar con una
-              tarta tatin o macadamia helado.
-    </string>
-
-    <string name="TrevoVerdeBlanco">
-            - Trevo es una mezcla de variedades de uva
-              Loureiro, Trajadura y Arinto. Posee aromas
-              de fruta freca con un poco de fruta tropical
-              y notas florales. Es seco y fresco, con
-              cierta complejidad y persistencia. Ideal para
-              un brindis de verano.
-              Disfrute como aperativo, con mariscos, pescado
-              a la parrilla, sushi y sashimi.
-    </string>
-
-    <string name="MurosDeVinhaTinto">
-            - Vino rojo granate intenso, expone compotados
-              sabores y algunas especias.
-              Elegante y equilibrado en el paladar, final
-              largo y agradable frescura. Un vino que muestra
-              la carácteristica tipica de la región de la que
-              se originó. Ideal para un momento descontracturado,
-              de fácil beber!
-    </string>
-
-    <string name="MurosDeVinhoRose">
-            - Es un color rosado y vino elegante debido a la
-              corta el contacto con las películas. El aroma
-              está dominado por los furtos rojos con un toque
-              floral luz, mientras que la elegancia y frescura
-              dominan el paladar.
-              Un excelente vino rosado para disfrutar como
-              aperativo, con ensaladas o para acompañar
-              platos de marisco y pescado a la parrilla
-              y hasta la comida oriental.
-    </string>
-
-    <string name="MurosDeVinhoBlanco">
-            - Blend de: Malvasia fina, codega de larinbo
-              y fernnao pires.
-              Es un vino fresco muy elegante, pudiendo
-              disfrutarlo como aperativo o acompañar
-              ensaladas, platos con mariscos, pescados a
-              la parrilla.
-    </string>
-
-    <string name="PortalMoscatelGallego">
-            - Pronfusión de notas florales. Fresco
-              y de aromas cítricos como naranja,
-              piel de naranja y rosas.
-              En boca es mineral, complejo, elegante y
-              de estilo fresco.
-              Ideal para aperativo, pastas comida fisión
-    </string>
-
-    <string name="PortalVintagePort2000">
-            - Es un vino realizado para durar por
-              décadas! De tonalidad púrpura opaca,
-              en nariz tenemos notas de ciruela y
-              frutos rojos.
-              Posee buen cuerpo, pero suave y elegante
-              con un delicioso perfil a cassis, cedro
-              y frambuesa.
-    </string>
-
-    <string name="PortalVintagePort2004">
-            - Se percibe con un marcado sabor a fruta
-              madura pero más fresco y joven, esto
-              aliado a sus potentes taninos lo hacen
-              denso, intenso pero suave y muy agradable.
+    <string name="yacochuyablend2011">
+        - 85% Malbec, 15% Cabernet Sauvignon.
+        /n- Alc. Vol.: 16%.
+        /n- Viñedos: Cafayate, Salta.
+        /n- Viña con 60 años de edad. 2035 msnm.
+        /n- Enólo Michel Rolland.
+        /n- 12 m. de crianza en barricas de roble francés
+        (70% 2do. uso y 30% nuevas).
     </string>
 
 
-    <string name="FineWineKopke">
+    <string name="sanpedrodeyacochuya2012">
+        - 90% Malbec, 10% Cabernet Sau-vignon.
+        /n- Alc. Vol.: 16%.
+        /n- Viñedos: Valles Calchaquíes, Cafayate, Salta.
+        /n- Viña con 60 años de edad. 2035 msnm.
+        /n- Enólo Michel Rolland.
+        /n- 15 m. de crianza 100% en barricas de roble
+        francés de 1er. uso.
+    </string>
+
+    //Colome
+
+    <string name="colomeautenticomalbec2017">
+        - Valles Calchaquies, Salta, Argentina
+        /n- viñedos de 90 años, 2300 mts snm
+        intenso, casi negro, matices violaceos,
+        aromas de frutas, negras y rojas elegante
+        y especiado.
+    </string>
+
+    <string name="colomeestatemalbec2016">
+        - Valles Calchaquies, Salta, Argentina,
+        1700 msnm
+        /n- 15 meses en roble , 6 meses en botella.
+        /n- Color: Rojo brillante e intenso, con aromas
+        a frutas negras y rojas nariz perfumada,
+        gran personalidad
+    </string>
+
+    <string name="colomeloteespecialelarenalmalbec2017">
+        - Crianza 12 meses en barrica de roble simbolo
+        de los malbec de gran altura, ele- gancia frescura
+        por la gran amplitud termica e intensidad y
+        concentracion de taninos, por mayor exposicion solar
+        /n- Color brillante, purpura casi negro, tiene una nariz
+        especiada floral y con frutra negra. Elegante y complejo
+        en boca es fresco y con buen volumen.
+    </string>
+
+    <string name="amalayagrancortemalbec2015">
+        - Valles calchaquies Salta Argentina
+        /n- malbec 85%, tannat 10%, p.verdot 5%
+        /n- 8 meses en barrica francesa, el 25% del vino
+        /n- color rubi con bordes violetas; fresas, frambuesas
+        y fruta madura con toque de pimienta. final delicado
+    </string>
+
+    <string name="amalayablancodecorte2018">
+        - 85% / riesling 15% 1800 msnm. suelos pobres
+        y rocosos
+        /n- Color amarillo verdoso brillante, sutiles
+        aromas frutados con manzana verde
+        Entrada dulce, final fresco
+    </string>
+
+    <string name="amalayarosado2017">
+        - Valles Calchaquies, Salta, Argentina
+        /n- Malbec 90 % ;torrontes 10%
+        /n- Color: rosa salmon delicado y brillante.
+        Ataque floral sutil con un dejo de azahares
+        notas de cereza y fresa es refrescante y sedoso,
+        se puede percibir el torrontes.
+    </string>
+
+    <string name="amalayamalbec2017">
+        - Varietal: 85% malbec tannat 10.% petit verdot 5%
+        /n- Las Mercedes, Valle Calchaquies, Salta
+        /n- Crianza : 8 meses en barricas de roble frances
+        el 25% del vino; brillante color rubi con bordes
+        violetas, fresas, frambuesas y fruta madura.
+        Con toque de pimientay aromas de especias, en
+        boca sabores de fruta roja especias y notas de
+        vainilla. Muy buena frescura final delicado
+        y persistente
+    </string>
+
+    <string name="alturamaximamalbec2015">
+        - 3111 msnm. viñedos mas altos del mundo
+        produccion 27 barricas la verdadera expresion
+        proviene de la altitud extrema en la que se
+        asienta este viñedo. fuerte exposicion solar.
+        Color profundo.
+        Nariz compleja la amplitud termica le da
+        elegancia y frescura
+    </string>
+
+    //riglos
+    <string name="riglosgrancfranc2014">
+        - Varietal: 100% Cabernet Franc
+        /n- 19 meses de barrica francesa.
+        /n- Notas de cata: de color rojo terracota y
+        negros profundos.
+        Aromas balsámicos de hierbas silvestres, también
+        frambuesa, fresa y canela. En boca es mineral
+        posee sabrosos taninos, pero no dominantes.
+    </string>
+
+    <string name="riglosgranmalbec2014">
+        - Varietal: 100% Malbec
+        /n- Zona Gualtayarí
+        /n- 18/ meses de barrica de roble francés
+        /n- Notas de cata: posee colores intensos con
+        bordes violetas. En nariz se perciben frutos
+        rojos maduros, moras, ciruelas, flores de cassis
+        y tulipanes.
+    </string>
+
+
+    <string name="riglosgrancorte2014">
+        - Varietal: 34% Malbec, 33% Cab. Sauvignon,
+        33% Cab. Franc.
+        - 21 meses de barrica de roble francesa.
+        - Notas de cata: de color rojo profundo,
+        mezclado con matices violetas, naranjas
+        y negros. De gran com- plejidad sensorial.
+        En nariz se perciben flores y frutos rojos,
+        también mineral. En boca chcolate. Vino
+        opulento de largo final mineral.
+    </string>
+
+    <string name="riglosgrancabernetsauvignon2014">
+        - Varietal: 100% Cabernet Sauvignon
+        /n- Zona: Gualtayarí
+        /n- 12 meses de barrica de roble francés
+        /n- Notas de cata: de color rojo intenso con
+        matices anaranjados. En nariz predominan
+        los frutos rojos y las especias, gran
+        tipicidad del Cab. Sauvignon y de la zona.
+        Posee buena estructura, es untuoso, profundo
+        y de buena acidez.
+    </string>
+
+    <string name="quintomalbec2017">
+        - Malbec 100%.
+        /n- Crianza 6 meses en barrica francesa.
+        /n- Color rojo oscuro profundo, complejos
+        aromas predominan, frutos rojos y sub notas
+        de pimienta negra. muy balanceado, taninos
+        aterciopelados, largo final.
+    </string>
+
+    //durigutti
+
+    <string name="carasuciacepastradicionales2018">
+        - Rivadavia, Mendoza, 450 msnm Variedades:
+        Bonarda, Syrah, Sangiovese, Cardinale,
+        Beiquiñol, Barebera, Bijonamico.
+        Aroma a frutas rojas como la guinda
+        fresca madura, hierbas y romero taninos
+        amables y afrutados, estilo moderno.
+    </string>
+
+
+    <string name="carasuciacereza">
+        - Santa MarÍa de Oro, Rivadavia, Mendoza variedad
+        100% cereza, vino tinto rojizo, con aromas de
+        futos rojos frescos y golosinas. En paladar
+        es tenso, envolvente y algo goloso, moderno
+        facil de beber
+    </string>
+
+    <string name="proyectolascompuertasmalbec1914">
+        - Lujan de cuyo , mendoza 1074 msnm
+        /n- 16 meses en foudre de roble mas 1 mes en
+        huevo de cemento
+        /n- Color: Rojo violaceo brillante, intensidad
+        media, aromas tipicos de malbec como ciruelas
+        negras, cerezas, moras y violeta
+        /n- En ataque: seco amplio y jugoso.
+    </string>
+
+
+    <string name="proyectolascompuertascabernetfranc2018">
+        - Las Compuertas, Mendoza , 1050 msnm
+        9 meses en huevos de cemento
+        frutal , fluido, y delicado
+        presenta una gama aromatica fresca de
+        fruta roja, y flores.
+        gana presencia en copa con el correr de los minutos.
+        Elegante, con taninos finos, gran equilibrio.
+    </string>
+
+
+    <string name="proyectolascompuertascriollaparral2018">
+        - Llujan de Cuyo , Mendoza 1075 msnm
+        /n- Crianza , huevos de cemento
+        /n- Color: Rojo rubi brillante de baja
+        intensidad nariz frutal, fresas,membrillo
+        cerezas y ciruela es seco, refrescante y
+        final prolongado.
+    </string>
+
+    <string name="proyectolascompuertascordisco2017">
+        Llujan de Cuyo , Mendoza 1075 msnm, Organico
+        es el tipo de montepulzziano de abruzzo
+        /n- Crianza: huevos de cemento.
+        /n- Color: rojo cereza de baja intensidad con
+        tonmos rosados
+        /n- Nariz: frutas frescas. como arandanos, cerezas,
+        moras y ciruelas, es seco frutal y refrescante
+        final frutal y prolongado
+    </string>
+
+    <string name="proyectolascompuertasccharbono2018">
+        - Las Compuertas, Mendoza 1050 msnm
+        /n- 9 meses en huevos de cemento.
+        Color: Violaceo brillante, aromas de frutas rojas
+        y hierbas frescas, secas, romero y especias denso
+        jugoso. Final largo y aterciopelado.
+    </string>
+
+    <string name="proyectolascompuertasmalbec5suelos2016">
+        - Lujan de Cuyo, Mendoza , 1075 msnm barricas de
+        roble frances de 500 litros de 3 y 4 uso por 8 meses,
+        mas 6 meses en huevos de cemento.
+        /n- Color: Rojo brillante, de intensidad media, agradable.
+        tipicidad varietal, con aromas de arandanos, moras y
+        licor de casis sabroso y firme con taninos redondos.
+        final de recuerdo.
+    </string>
+
+    //pampamaya
+    <string name="pampamayablend2018">
+        - 60% syrah ; 30%nebbiolo, 10% tempranillo
+        /n- Viñedo propio, cuna de tierra.
+        /n- Crianza de 6 meses en barricas de segundo y
+        tercer uso de roble frances, hungaro y americano.
+        El equilibrio de este vino es el resultado cortar
+        una syrah intensa, especiada, con matices herbales,
+        con la carnosa nebbiolo de color granate profundo
+        y la nerviosa tempranillo que le da frescura.
+    </string>
+
+
+    <string name="pampamayasyrahnebbiolo2018">
+        - Viñedo propio: cuna de tierra.
+        /n- Syrah 80% / nebbiolo 20%
+        /n- Crianza de 6 meses en barricas de sgundo y
+        tercer uso ,de roble frances, hungaro y americano.
+        La armonia de este ensamble es el resultado de cortar
+        una variedad syrah muy elegante, con matices especiados
+        y herbales, con al intensa nebbiolode capa alta y matices
+        granates.
+    </string>
+
+
+    //quintadoportal
+    <string name="portalvintageport2011">
+       - El vino muestra madura frescura de retención de
+        frutas y accesibilidad. Tiene una gran mineralidad
+        que equilibra muy bien con su potencia y concentración.
+        </string>
+
+
+    <string name="portallatebottledvintage2009">
+        -De color rubí , aromas de frutas rojas maduras
+        y bayas silvestres, y un toque de cedro. En
+        boca es sedoso pero con personalidad, con una
+        fresca acidez. La final es largo y complejo,
+        y muestra el potencial para envejecer mejor en
+        la botella.
 
     </string>
 
-    <string name="Kopke10YearsOld">
-        - De un bello color ámbar. Con aromas intensos
-        de flores. Con buen cuerpo, suave, aterciopelado
-        y con buen equilibrio; final armonioso y
-        prolongado.
+    <string name="portalfinerubyporto">
+       - Portal Fine Ruby es elegante, animado, con aroma
+        a ricos frutos jóvenes. Posee un proceso de
+        envejecimiento de tres años en grandes tinas de
+        madera, manteniéndolo fresco y protegido de la
+        oxidación.
+        Una combinación clásica es acompañarlo con ricos
+        quesos blandos, chocolate y frutos rojos.
     </string>
 
-    <string name="Kopke20YearsOld">
-        - De un bello color topacio. Intenso aroma
-          donde sus años marcan la presencia de resina,
-          aroma de pino y cedro, con fuerte notas de
-          frutas bien maduras, compota y miel. La
-          armonía y el buen equilibrio marca el gusto.
-          Siendo de buen cuerpo y suave, posee un final
-          armonioso y prolongado.
+    <string name="portalfinetawnyporto">
+      -  Es muy suave, limpio y brillante. Probablemente
+        el mejor y sin duda el más elegante en su categoria!.
+        Envejecido 4 años en barrica. En nariz se percibe
+        fruta fresca, con notas de nuez. Este vino se disfruta
+        sobre todo como aperitivo. También es ideal como vino
+        de postre para los que prefieren un estilo más ligero
+        de vino.
+
     </string>
 
-    <string name="Kopke30YearsOld">
-        - De un bello color topacio. Aromas delicados
-          donde predominan las especias. Posee la
-          particularidad de un aroma suave y aterciopelado
-          que le confiere un equilibrio en la boca final
-          persistente.
+    <string name="portal29grapes">
+       - Es una mezcla de antiguos viñedos donde podemos
+        encontrar un gran número de diferentes variedades
+        de uva.
+        Es un resultado de una selección de los mejores
+        lotes de rubí cuidadosamente envejecido en nuestras
+        cavas entre los 4 y 5 años.
     </string>
 
-    <string name="Kopke40YearsOld">
-        - De color ámbar oscuro con bordes verdosos.
-          Nariz extremadamente complejo, con notas
-          de secas las frutas, tales como, nueces,
-          pasas y los higos, que participan por
-          sutiles toques de vainila y miel. En
-          boca es denso, sedoso y concentrado,
-          impresionado por su frescura. Potente
-          acbado y muy persistente.
+    <string name="portalsixbarrels">
+        Esta es una mezcla de nuestros oportos, una
+        selección de los mejores 6 barriles, y añejado
+        durante 7 años en nuestras cavas.
+        Es sutil, elegante, pero rico y aterciopelada.
+        Un gran oporto de postre para disfrutar ligeramente
+        frío.
     </string>
 
-    <string name="KopkeFineRuby">
-        - De color rojo rubí, presenta aromas
-          afrutados y jóvenes.
-          En boca es suave abundante y equilibrado.
+    <string name="portal10yearsold">
+      - Es una mezcla de diferentes vinos envejecidos en
+        antiguas barricas du- rante muchos años en nuestras
+        bodegas donde adquieren el color ámbar y convierten
+        la fruta rica joven en elegancia. Es estructurado, pero
+        equilibrado por una fina acidez.
+        En su añejamiento desarrolla aromas de caramelo,
+        café con leche, junto con sabores a nuez. Para disfrutar
+        con tarta tatin o macadamia helado.
     </string>
 
-    <string name="KopkeTawny">
-        - De color rubio y puro. Su aroma es afrutado.
-          Un vino joven y armonioso. Un oporto vivo,
-          fino y bien equilibrado.
+    <string name="portal20yearsold">
+      - Otro éxito de Port de la familia Branco de Quinta do
+        Portal, después de su éxito con la cosecha 2003.Este
+        es un vino lleno de vida, con una acidez fresca,
+        aromas a fruta madura. Es maduro pero muy elegante
+        con un dulce sabor frutas secas.
     </string>
 
-    <string name="KopkeLBV">
-        - De color rubí intenso. De notas vegetales
-          y de delicado aroma mineral, ofrece
-          encantadores matices al bouquet. En boca
-          es suave, sedoso, con intensos aromas
-          frutales, vigoroso y de gran complejidad
-          Un vino bienbalanceado, bien elaborado con
-          un excelente final.
+    <string name="portal30yearsold">
+       -Siendo una casa portuguesa, Portal tiene mucho
+        interés en tener una gama completa de oportos
+        Tawny incluyendo el añejo de 30 años.
+        Se trata de una mezcla de vinos que han
+        envejecido en antiguas barricas en el Duero ,
+        donde desarrolló un hermoso color ámbar dorado
+        con delicados tonos verdes y un rico y complejo
+        bouquet, maravilloso!.
+
     </string>
 
-    <string name="KopkeReserveTawny">
-        - Vino de calidad excepcional, fase mínima de
-          guarda de 7 años en madera.
-          De color marrón con un halo de color rojizo.
-          Un ramo picante potente y rico en vainilla
-          toques sutiles. En el sabor es complejo,
-          armónoco y con un final de calidad.
+    <string name="portal40yearsold">
+     -  De color ámbar con intenso borde aceituna verdoso,
+        excelente aroma de frutos secos como la almendra
+        e higos. Lleno de gran complejidad, recuerda a
+        la miel.
+
+    </string>
+
+
+    <string name="portalportovintage2003375ml">
+      -  Negruzco púrpura intenso con aromas de arándanos,
+        anís, menta y un poco de pimienta negro. Vino con
+        cuerpo grande y equilibrada con el ciruelo negro
+        dulce y arándanos con un montón de buena acidez.
+
+
+    </string>
+
+    <string name="portalportovintage2007375ml">
+      - Morado muy oscuro, tiene aromas de ciruela e
+        higo negro en un per- fil limpio y puro. Muy
+        equilibrado, sedoso pero con un tanino firme
+        y excelente acidez. ¡Elegante!
+
+    </string>
+    <string name="portal10yearsold375ml">
+      - Mezcla de diferentes vinos envejecidos en antiguas
+        barricas por años donde adquieren el color ambar y
+        comvierten la fruta rica joven en elegancia. Es
+        estructurado, pero equilibrado de fina acidez.
+        En su añejamiento desarrolla aromas de caramelo,
+        café con leche, junto con sabores a nuez . Para
+        disfrutar con tarta tatino macadamia helado.
+    </string>
+
+
+    <string name="portal20yearsold375ml">
+     -  Otro éxito de Port de la familia Branco de Quinta
+        do Portal, después de su éxito con la cosecha 2003.
+        Este es un vino lleno de vida, con una acidez fresca,
+        aromas a fruta madura. Es ma-duro pero muy elegante
+        con un dulce sabor frutas secas.
+    </string>
+
+
+    <string name="trevovinhoverde2015">
+        Trevo es una mezcla de variedades de uva Loureiro,
+        Trajadura y Arinto. Posee aromas de fruta fresca con
+        un poco de fruta tripocal y notas florales. Es seco
+        y fresco, con cierta complejidad y persistencia.
+        Ideal para un brindis de verano!
+        Disfrute como aperitivo, con mariscos, pescado
+        a la parrilla, sushi y sashimi
+    </string>
+
+
+    <string name="murosdevinha2010">
+        Vino rojo granate intenso, expone compotados
+        sabores y algunas especias.
+        Elegante y equilibrado en el paladar, final largo
+        y agradable frescura. Un vino que muestra la
+        carácteristica tí- pica de la región de la que se
+        originó. Ideal para un momento descontrac- turado,
+        de fácil beber!
+    </string>
+
+
+    <string name="murosdevinharose2017">
+       - Es un color rosado y vino elegante debido a
+        la corta el contacto con las películas. El
+        aroma está dominado por los frutos rojos con
+        toque floral luz, mientras que la elegancia
+        y frescura dominan el paladar.
+        Un excelente vino rosado para disfrutar como
+        aperitivo, con ensaladas o para acompañar platos
+        de marisco y pescado a la parrilla y hasta la
+        comida oriental.
+    </string>
+
+
+    <string name="murosdevinhablanco2016">
+       - Blend de: Malvasia fina, codega de larinho
+        y fernao pires.
+        Es un vino fresco muy elegante, pudiendo
+        disfrutarlo como aperitivo o acompañar
+        ensaladas, platos con mariscos, pescados a
+        la parrilla.
+    </string>
+
+
+    <string name="moscatelgalego2016">
+      - Profusión de anotas florales. Fresco y de
+        aromas cítricos como naranja, piel de naranja
+        y rosas.
+        En boca es mineral, complejo, elegante y de
+        estilo fresco.
+        Ideal para aperitivo, pastas comida fusión.
+    </string>
+
+
+    <string name="portalvintageport20001500ml">
+       -Este es un vino reralizado para durar por décadas!
+        De tonalidad púrpura opaca, en nariz tenemos
+        notas de ciruela y frutos rojos.
+        Posee buen cuerpo, pero suave y elegante, con
+        un delicioso perfil a cassis, cedro y frambuesa.
+    </string>
+
+    <string name="portalvintageport20041500ml">
+       - Se percibe con un marcado sabor a fruta madura
+        pero más fresco y joven, esto, aliado a sus
+        potentes taninos lo hacen denso, intenso pero
+        suave y muy agradable.
+    </string>
+
+
+    /////////////pendiente
+
+
+    //Kopke
+
+    <string name="kopke10yearsOld">
+           - De un bello color ámbar. Con aromas intensos
+            de flores. Con buen cuerpo, suave, aterciopelado
+            y con buen equilibrio; final armonioso y
+            prolongado.
+        </string>
+
+    <string name="kopke20yearsold">
+           - De un bello color topacio. Intenso
+            aroma donde sus años marcan la
+            presencia de resina, aroma de pino
+            y cedro, con fuerte notas de frutas
+            bien maduras, compota y miel. La
+            armonía y el buen equilibrio marcan
+            el gusto. Siendo de buen cuerpo y
+            suave, posee un final armonioso y
+            prolongado.
+        </string>
+
+    <string name="kopke30yearsold">
+          - De un bello color topacio. Aromas
+            delicados donde predominan las especias.
+            Posee la particularidad de un
+            aroma suave y aterciopelado que le
+            confiere un equilibrio en la boca con
+            final persistente
+        </string>
+
+    <string name="kopke40yearsold">
+           - De color ámbar oscuro con bordes
+            verdosos. Nariz extremadamente
+            complejo, con notas de secas las
+            frutas, tales como, nueces, pasas y
+            los higos, que participan por sutiles
+            toques de vainilla y miel. En boca es
+            denso, sedoso y concentrado,
+            impresionando por su frescura. Potente
+            acabado y muy persistente.
+        </string>
+
+    <string name="kopkefineruby">
+           -De color rojo rubí, presenta aromas
+            afrutados y jóvenes. En boca es
+            suave abundante y equilibrado
+        </string>
+
+    <string name="kopkefinetawny">
+            De color rubio y puro. Su aroma es
+            afrutado. Un vino joven y armonioso.
+            Un oporto vivo, fresco, fino y
+            bien equilibrado
+        </string>
+
+    <string name="kopkelbv2013">
+           -De color rubí intenso. De notas vegetales
+            y de delicado aroma mineral, ofrece
+            encantadores matices al bouquet.
+            En boca es suave, sedoso, con
+            intensos aromas frutales, vigoroso
+            y de gran complejidad. Un vino bien
+            balaceado, bien elaborado con un
+            exelente final.
+        </string>
+
+    <string name="kopkereservetawny">
+           -Vino de calidad excepcional, fase mínima de
+            guarda de 7 años en madera.
+            De color marrón con un halo de color rojizo.
+            Un ramo picante potente y rico en vainilla
+            toques sutiles. En el sabor es complejo,
+            armónico y con un final de calidad.
+        </string>
+
+    <string name="kopkereserveruby">
+           -Oporto envejecido en madera. De color
+            violeta, con aromas de frutas rojas y
+            mermeladas.
+            En boca es afrutado elegante y complejo.
+            Recomendamos con: Es ideal con fruta, helados
+            y quesos
+        </string>
+
+    <string name="kopkewhite10yearsold">
+            De color marrón rojizo atractiva,
+            con halo de color ámbar. Elegante y
+            complejo, presenta picantes aromas,
+            de pie, los frutos secos y las elegantes
+            notas de madera y miel. Suave
+            y redondo en el sabor, muestra su
+            complejidad a la esencia de intensos
+            sabores de frutas secas. Excelente
+            acabado.
+        </string>
+
+    <string name="kopketawny20yearsold">
+           -Delicado color naranja color verdoso.
+            Su espléndido ramo es una unión
+            compleja entre los frutos secos,
+            especias y notas de madera fina.
+            El sabor está dominado por ricos y
+            sabores concentrados con un final
+            largo y aterciopelado.
+        </string>
+
+
+    <string name="kopkeportocolheita1984">
+            De color ámbar intenso. nariz completa y
+            concentrada, dominada por la abundancia de
+            frutos secos, especias y notas de un sutil
+            toque de vainilla. Muy refinado en la boca
+            elegante, con un carácter notable y un
+            agradable frescor. Final largo y
+            persistente
+        </string>
+
+    <string name="kopkecolheitaporto2001">
+            - Rubí oxidado con borde rojizo
+           /n- Nariz : aromas de frambuesa,
+            pasas, toffe, tostada de cereza, moka
+            calido y seco en paladar.
+           /n- Crianza nunca menos de 7 años.
+            /n- Variedades: touriga nacional /
+            touriga franca / tinta roriz
+        </string>
+
+    <string name="kopkecolheitaporto2004">
+            - Color marron brillante con toques
+            rojizos,
+            /n- Nariz marcada por la presencia de
+            frutos secos donde se destaca delicadamente
+            la frescura de los frutos rojos como
+            la cereza. Elegante y complejo en el sabor.
+            /n- Crianza no menos de 7 años
+            /n- Varietales: touriga nacional/ touriga
+            franca / tinta roriz
+        </string>
+
+
+    <string name="kopkecolheitaporto2008">
+            - Color marron claro con brillo
+            anaranjado, en el paladar ; higos ,
+            almendras y avellanas.
+            calidad excepcional de una sola
+            cosecha.
+            /n- Crianza nunca menos de 7 años
+            /n- Varietales: touriga nacional;
+            touriga franca; tinta roriz
+        </string>
+
+    //bottega
+    <string name="bottegagrappaalexander">
+       - Grappa joven más vendido de
+        Bottega .
+        Esta grappa se hace de las uvas
+        de las vides de Pinot, Cabernet
+        y Merlot. Se produce una grapa blanca,
+        suave de acero por 6 meses, de manera
+        que todos los aromas se pueden mezclar
+        juntos perfectamente.
+
+    </string>
+
+    <string name="grappaalexanderexquisite">
+       - Grappa Bolgheri EnvejecidoObtenido a
+        partir de una selección de los orujos
+        procedentes de la zona de Bolgheri,
+        Castagneto Carducci. Los orujos de
+        Bolgheri se destilan en alambiques
+        de cobre, por consiguiente, el
+        producto obtenido se refrigera a
+        una temperatura de 10 ° C y después
+        se La grappa obtenida se madura en
+        barricas de ahumados
+    </string>
+    <string name="cremadilimoncino">
+        - Cremoso y agradablemente dulce,
+        este licor se enriquece con la elegante
+        caja de la botella Bottega Cremas
+        y Licores. Este licor proviene de la
+        mezcla suave de los limones de Sicilia
+        frescas y la suavidad de la crema
+        La adición de grappa enriquece su
+        fragancia
+    </string>
+    <string name="limoncino">
+       -Limoncino Bottega se produce exclusivamente
+        con limón de Sicilia. El envase atractivo
+        completa el perfil del producto.
+        Los limones de Sicilia se caracterizan
+        por la intensidad aromática. Una vez
+        recogidos, se pelan a mano. Las pieles de
+        los limones se dejan reposar en alcohol
+        y grappa . El resultado es un licor dulce,
+        fragante y aromático.
+    </string>
+
+    <string name="nero">
+        Es un chocolate negro y licor cremoso a
+        base de grappa. La elegante caja de la
+        botella completa el perfil del producto.
+        Se caracteriza por un contenido moderado
+        de alcohol y por un sabor que todo lo
+        abarca el chocolate. Su perfume penetrante
+        despierta el sentido del olfato, su
+        suavidad satisface el paladar. La
+        adición de grappa veneciana realza la
+        personalidad de este licor cremoso
+    </string>
+
+    <string name="sambucabianca">
+       -La sambuca es un licor fuerte y dulce
+        El nombre tiene su origen a partir
+        de un término árabe, probablemente
+        ‘ Zam-mut ‘, una bebida a base de
+        anís que llegó al puerto de Civitavecchia
+        en los buques procedentes
+        de Extremo Oriente .La sambuca es
+        un licor dulce y fuerte cuya base está
+        constituida por aceites esenciales de
+        la destilación al vapor de semillas de
+        anís. Su sabor fresco y armónico se
+        enriquece con un intenso sabor a
+        anís y aromas florales suaves.
+    </string>
+
+    <string name="cuveeespumantebrut">
+        Uvas chardonnay y Pinot Noir.
+        Color: brillante con perlaje fino y
+        persistente, color pajizo. Aromas
+        florales y herbáceos, frutas, manzana
+        golden y corteza de pan. En boca es
+        seco alcohólico y fresco.
+        Ideal como aperitivo, cocktails.
+        Primeros platos y pescados.
+    </string>
+
+    <string name="amarettoaccademia">
+        - Color: Ambrado
+        /n- Aroma: Perfume intenso de almendras.
+        /n-Gusto: Intenso, aromático y agradable
+        con ligero aroma amargo.
+    </string>
+
+    <string name="limoncinoaccademia">
+       /n- Color: amarillo limón
+       /n- Aroma: Perfume intenso de limones
+        de Sicilia maduros.
+        /n- Gusto: dulce, lleno, jugoso con
+        notas cítricas,Combinación excelente
+        para helados y sorbetes
+    </string>
+
+    <string name="grappaaccademiaveneto">
+       -Uvas: pinot noir y glera Transparente
+        y cristalino: Aromas de frutas frescas
+        y bayas. Gusto fresco fuerte, moderno,
+        con gusto persistente de fruta
+    </string>
+
+
+    //scarpa
+    <string name="monferratorossoscarpa2014">
+        - Variedad de uva: 90 % Dolcetto - 10% Ruche.
+        - Vinificación: En tanques de acero inoxidable.
+        - Vino jóven ideal para glass wine. Buen aperitivo,
+        fácil y cómodo de maridar.
+        De gran calidad y caracter como las grandes etiquetas
+        pero a un precio más económico.
+    </string>
+
+    <string name="casascarpabarberadastidocg2015">
+        - Variedad: 100 % Barbera.
+        - Vinificación en tanques de acero inoxidable.
+        - Notas de cata: de color rojo rubí con toques
+        de naranja, de aroma intenso y muy característico,
+        afrutado y mineral, con notas de violetas, rosas
+        ciruelas y bayas, guinda salvaje, regaliz.
+        Aparecen especias. En boca es fresco, seco y
+        austero, aterciopelado después del cuarto año,
+        muy elegante pero potente, carnoso
+    </string>
+
+    <string name="scarparoseespumante">
+        - Variedad : 100 % Albarrosa.
+       /n - Vinificación en tanques de acero inoxidable.
+       /n - Notas de cata: de atractivo color rosa pálido,
+        perlado de ascendencia continua, en nariz es
+        fragante y perfumado aparece la fruta roja generosa.
+        En boca es de excelente textura, suave
+        y con peso. Intenso y de buen sabor, su acidez
+        chispeante lo hace irrsistible. Refinado y de
+        buen final
+    </string>
+
+    <string name="nebbiolodalbadoc">
+        - Variedad de uva: 100 % Nebbiolo.
+       /n -Vinificación en tanques de acero inoxidable.
+        /n- Envejecimiento en barrica: 1 año en barricas
+        de roble francés Allier.
+        /n- Refinamiento en botella almenos 1 año
+        /n- Notas de cata: de color rojo rubí con toques
+        granate. Refinado bouquet, melocotones, rosas
+        marchitas. En boca: seco, notables táninos
+        en su juventud, se vuelve más delicado y
+        armonioso después del envejecimiento
+    </string>
+
+    <string name="dolcettodacquidoclaselvadimoirano">
+        - Variedad : 100 % Dolcetto D.Acqui
+       /n - Notas de cata: rojo rubi, aromas de frutas y
+        flores intensos sabores, seco al paladar. Ideal
+        para starters, quesos y vegetales.
+    </string>
+
+    <string name="barberadastilaboglionadoc">
+        - Envejecimiento en barricas dos o tres años de
+        roble francés y en botella dos o tres años.
+        /n- Notas de cata: de color rojo rubí , con tonos
+        de naranja. Aroma intenso afrutado y mineral con
+        notas de violetas, rosas, ciruelas y bayas.
+        Aparecen especias.En boca es fresco, seco y
+        austero, aterciopelado después del cuarto año,
+        muy elegante, pero potente y carnoso
+    </string>
+
+    <string name="barberadasticruibricchi">
+        - Variedad de uva : 100 % Barbera.
+        /n- Vinificación: en tanques de acero inoxidable
+        /n- Envejecimiento en barricas: 2 años
+        en barricas de roble.
+        /n- Refinamiento en botella: 1 año.
+        /n- Notas de cata: De color rojo rubí con reflejos
+        granate tenues.
+        Aroma complejo, mineral y afrutado, intenso,
+        austero y agradable, con alusiones de guinda.
+        De agradable sabor al paladar, pleno y armonioso,
+        agradable, elegante y fresco.
+    </string>
+
+    //disznoko
+    <string name="ezencia2000">
+        -Después o incluso en lugar del postre.
+        Un vino único por su riqueza y concentración,
+        refleja el carácter de las berries de Aszu.
+    </string>
+
+    <string name="tokajilateharvest2016">
+        - Un vino único por su riqueza y su concentración,
+        la memoria de la cosecha que refleja
+        perfectamente el carácter de las frutos aszú.
+    </string>
+
+    <string name="tokajiaszu6puttonyos2002">
+        -Un vino equilibrado y accesible con una
+        complejidad aromática excelente adecuado
+        para un primer descubrimiento de los vinos
+        de Disznókö
+    </string>
+
+    <string name="tokajiaszu5puttonyos2008">
+        -El más complejo de nuestros vinos aszú. Un
+        vino excepcional complejo y concentrado con
+        una acidez perfecta.
+    </string>
+
+
+    //valduero
+    <string name="granreserva2007">
+        - 100% Tempranillo
+        /n- Alc. Vol. 14,0%
+        /n- 48 meses en barrica de roble francés,
+        americano y europeo de 6 orígenes.
+        /n- Notas de cata: imponente rojo granate.
+        Su aroma nos obsequia con auhumados,
+        pan de higos, toffe y cuero. En la boca
+        es intenso y se expande a medida que
+        lo degustamos. Taninos todavía vivos a
+        pesar de la edad y retrogusto intenso y
+        persistente. Es excepcional como llega a
+        la mente a través de los sentidos. Decantar
+        el vino antes de servir.
+    </string>
+
+    <string name="reserva2011">
+        /n- 100% Tempranillo
+        /n-Alc. Vol. 14,0%
+        /n- 30 meses en barrica de roble americano,
+        francés y europeo.
+        /n- Presentación de 750 ml. y 500 ml.
+        /n- Notas de cata: nos conquista su intenso granate,
+        vivo y de capa alta. Con aromas que recuerdan al café,
+        al tabaco y a madera. En boca es contundente y carnoso
+        de potentes taninos. Fiel reflejo del terreno de nuestro
+        viñedo. Su sabor lo hace afín a la caza, al famoso lechazo
+        y a los quesos.
+    </string>
+
+    <string name="reserva1500ml2011">
+        /n- 100% Tempranillo
+        /n-Alc. Vol. 14,0%
+        /n- 30 meses en barrica de roble americano,
+        francés y europeo.
+        /n- Presentación de 750 ml. y 500 ml.
+        /n- Notas de cata: nos conquista su intenso granate,
+        vivo y de capa alta. Con aromas que recuerdan al café,
+        al tabaco y a madera. En boca es contundente y carnoso
+        de potentes taninos. Fiel reflejo del terreno de nuestro
+        viñedo. Su sabor lo hace afín a la caza, al famoso lechazo
+        y a los quesos.
+
+    </string>
+
+    <string name="valdueroreservabarrica2010750ml">
+        - Es un Club Exclusivo al que pertenece THE VINES
+        MEXICO. Esto nos permite tener una barrica de 225
+        litros, con características excepcionales, cosecha 2010.
+    </string>
+
+    <string name="valdueroreservabarrica20101500ml">
+        - Es un Club Exclusivo al que pertenece THE VINES
+        MEXICO. Esto nos permite tener una barrica de 225
+        litros, con características excepcionales, cosecha 2010.
+    </string>
+
+    <string name="valdueroreservabarrica20103000ml">
+        - Es un Club Exclusivo al que pertenece THE VINES
+        MEXICO. Esto nos permite tener una barrica de 225
+        litros, con características excepcionales, cosecha 2010.
+    </string>
+
+    <string name="crianza500ml2011">
+        -100% Tempranillo - Alc. Vol. 14,0%
+        /n- 15 meses en barrica de roble europeo y francés.
+        /n- Presentación de 750ml. y 500ml.
+        /n- Notas de cata: Granate intenso, vivo, de capa alta. Con aromas
+        frutales, balsámico y especiado con detalles de comino, clavo y nuez
+        moscada. Un vino muy bien estructurado, amable y con nervio en
+        boca.
+        Se despide con un importante retrogusto. “Más que un crianza”.
+    </string>
+
+    <string name="crianza750ml2014">
+        -100% Tempranillo - Alc. Vol. 14,0%
+        /n- 15 meses en barrica de roble europeo y francés.
+        /n- Presentación de 750ml. y 500ml.
+        /n- Notas de cata: Granate intenso, vivo, de capa alta. Con aromas
+        frutales, balsámico y especiado con detalles de comino, clavo y nuez
+        moscada. Un vino muy bien estructurado, amable y con nervio en
+        boca.
+        Se despide con un importante retrogusto. “Más que un crianza”.
+    </string>
+
+    <string name="crianza1500ml2015">
+        -100% Tempranillo - Alc. Vol. 14,0%
+        /n- 15 meses en barrica de roble europeo y francés.
+        /n- Presentación de 750ml. y 500ml.
+        /n- Notas de cata: Granate intenso, vivo, de capa alta. Con aromas
+        frutales, balsámico y especiado con detalles de comino, clavo y nuez
+        moscada. Un vino muy bien estructurado, amable y con nervio en
+        boca.
+        Se despide con un importante retrogusto. “Más que un crianza”.
+    </string>
+
+    <string name="valduerorosadoroble">
+        - 50% albillo y 50% tempranillo.
+        /n- Crianza en barrica 6 meses, botella 12 meses
+        /n- Color rubi, con ribetes dorados, aromas a frutas
+        rojas, pero tambien a la madera, vainilla, romero
+        o ahumados.
+        la uva albillo lo hace vivo y fresco en la boca,
+        una complejidad extraordinaria para un rosado,
+        cumple con una comida de principio a fin.
+    </string>
+
+    <string name="garciaviaderoalbillo">
+        - Color pajizo muy claro, aroma frutal con
+        fondo de piña y toronja, originales y propios
+        de la variedad albillo, equilibrado en boca,
+        compensa la copulencia con una ligera acidez
+        ideal para pescados, veduras a la plancha y
+        ensaladas mediterraneas.
+    </string>
+
+
+    //manzanos
+
+    <string name="dinastiamanzanoserserva2012">
+        - 60% Tempranillo, 20% Merlot, 20% Graciano.
+        /n- 24 meses de barrica americanas, francesas y rusas.
+        /n- Notas de cata: de color picota obscuro. Aromas de
+        frutas en licor, suaves tostados. De buen cuerpo,
+        golozo, acidez perfecta, mucha fruta en el recuerdo.
+
+    </string>
+
+    <string name="dinastamanzanosblend2016">
+        - 50% Graciano, 50% Garnacha
+       /n- 7 meses de barricas francesas, americanas y rusas.
+       /n- Notas de cata: de color rojo intenso, nariz intensa,
+        frutos rojos y negros.
+        En boca es fresco de buen equilibrio.
+
+    </string>
+
+    <string name="dinastiamanzanoscrianza2013">
+        - 50% Tempranillo, 30% Graciano, 10% Merlot,
+        10% Granacha.
+        /n- 18 meses de barricas francesas y americanas.
+        /n- Notas de cata: de color cereza con bordes
+        rojo oscuro. Largo aroma de frutos rojos.
+        En boca es suave, frutal y sedoso.
+
+    </string>
+
+    <string name="dinastiamanzanoschardonnay2016">
+        - 100 % chardonnay
+        /n- Notas de cata: de color amarillo limón
+        muy brillante. Intenso aroma a frutas
+        tropicales blancas. En boca es fresco
+        y sedoso.
+
+    </string>
+    <string name="dinastiamanzanosrosado2016">
+        - 60% Garnacha, 40% tempranillo.
+        /n- Notas de cata: brillante
+        e intenso color fresa. Notas frutales, fresco
+        suave y equilibrado.
+
+    </string>
+
+    //Haut Charmes
+    <string name="hautcharmes2015">
+        -El Sauternes es un vino de postre francés de la
+        región de Sauternes, dentro de la región vinícola
+        de Burdeos.
+        Sauternes se elabora con uvas semillón (es la más
+        utilizada), sauvignon blanc y muscadelle afectadas
+        por la Botrytis cinérea, también conocidas como
+        “podredumbre noble”. Esto hace lo que las uvas
+        queden parcialmente pasificadas, de lo que resulta
+        una mayor concentración de azúcar y vinos con un
+        aroma distintivo.
+        Sauternes es una de las pocas regiones vinícolas
+        donde la infección de “podredumbre noble” es
+        algo que acontece con frecuencia, debido a su clima.
+        Incluso así, la producción es arriesgada, variando
+        mucho de una a otra cosecha.
+        Los vinos de Sauternes pueden ser muy caros, debido
+        al alto coste de producción.
+        Notas de cata: Este Sauternes es de color dorado
+        brillante, nariz potente con notas de miel y albaricoque.
+        En boca, el gusto es amplio pero dejando al gran éxito
+        de Sauternes.
+        Uva semillón afectada por Botrytis cinérea.
     </string>
 
 

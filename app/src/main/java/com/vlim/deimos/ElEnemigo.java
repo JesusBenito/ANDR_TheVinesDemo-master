@@ -66,23 +66,24 @@ public class ElEnemigo extends AppCompatActivity implements SearchView.OnQueryTe
     private void prepareAlbums() {
         final String[] wordsEnemigo = getResources().getStringArray(R.array.enemigo);
         int[] enemigoVinos = new int[]{
-                R.drawable.velenemigobonarda2016,
+                R.drawable.vgranenemigo2015,
                 R.drawable.velenemigocabernetfranc2015,
-                R.drawable.velenemigochardonnay2016,
-                R.drawable.elenemigoelmiradorbonarda2013,
-                R.drawable.velenemigomalbec15l2016,
                 R.drawable.velenemigomalbec2016,
+                R.drawable.velenemigomalbec15l2016,
+                R.drawable.elenemigoelmiradorbonarda2013,
                 R.drawable.velenemigosyrahviognier2016,
-                R.drawable.vgranenemigo2010agrelo,
+                R.drawable.velenemigochardonnay2016,
+                R.drawable.vgranenemigochacayes2012,
                 R.drawable.vgranenemigo2012elcepillo,
                 R.drawable.vgranenemigo2013gualtallary,
-                R.drawable.vgranenemigoblend2013,
-                R.drawable.vgranenemigochacayes2012
+                R.drawable.vgranenemigo2010agrelo,
+                R.drawable.velenemigobonarda2016,
+                R.drawable.velenemigolosparaisos2016
         };
 
 
         int[] fondos = new int[]{
-                R.drawable.fondoredblend
+                R.drawable.fv3
         };
 
         int[] banderas = new int[]{
@@ -93,41 +94,41 @@ public class ElEnemigo extends AppCompatActivity implements SearchView.OnQueryTe
 
 
         for(int i =0 ;i<1; i++){
-            //0 El Enemigo Bonarda 2016
-            Album a = new Album(wordsEnemigo[0], fondos[0], enemigoVinos[0], R.string.granEnemigo2013, "Argentina|Mendoza", banderas[0]);
+            //gran enemigo 2015
+            Album a = new Album(wordsEnemigo[0], fondos[0], enemigoVinos[0], R.string.granenemigo2015, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
-            //1 El Enemigo cabernet Franc 2015
-            a = new Album(wordsEnemigo[1], fondos[0], enemigoVinos[1], R.string.granEnemigo2013, "Argentina|Mendoza", banderas[0]);
+            //el enemigo cabernet franc 2016
+            a = new Album(wordsEnemigo[1], fondos[0], enemigoVinos[1], R.string.elenemigocabernetfranc2016, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
-            //2 El Enemigo cabernet Franc 2015
-            a = new Album(wordsEnemigo[2], fondos[0], enemigoVinos[2], R.string.granEnemigo2013, "Argentina|Mendoza", banderas[0]);
+            //el enemigo malbec 2016
+            a = new Album(wordsEnemigo[2], fondos[0], enemigoVinos[2], R.string.elenemigomalbec2016, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
-            //3 El Enemigo el Mirador Bonarda 2013
-            a = new Album(wordsEnemigo[3], fondos[0], enemigoVinos[3], R.string.granEnemigo2013, "Argentina|Mendoza", banderas[0]);
+            //el enemigo bonarda 2016
+            a = new Album(wordsEnemigo[3], fondos[0], enemigoVinos[3], R.string.elenemigobonarda2016, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
-            //4 El Enemigo Malbec 1.5L 2016
-            a = new Album(wordsEnemigo[4], fondos[0], enemigoVinos[4], R.string.granEnemigo2013, "Argentina|Mendoza", banderas[0]);
+            //el enemigo syrahviognier 2016
+            a = new Album(wordsEnemigo[4], fondos[0], enemigoVinos[4], R.string.elenemigosyrahviognier2016, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
-            //5 El Enemigo Malbec 2016
-            a = new Album(wordsEnemigo[5], fondos[0], enemigoVinos[5], R.string.granEnemigo2013, "Argentina|Mendoza", banderas[0]);
+            //el enemigo chardonnay 2016
+            a = new Album(wordsEnemigo[5], fondos[0], enemigoVinos[5], R.string.elenemigochardonnay2016, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
-            //6 El Enemigo Syrah Viognier 2016
-            a = new Album(wordsEnemigo[6], fondos[0], enemigoVinos[6], R.string.granEnemigo2013, "Argentina|Mendoza", banderas[0]);
+            //gran enemig ochacayes 2012
+            a = new Album(wordsEnemigo[6], fondos[0], enemigoVinos[6], R.string.granenemigochacayes2012, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
-            //7 Gran Enemigo 2010 Agrelo
-            a = new Album(wordsEnemigo[7], fondos[0], enemigoVinos[7], R.string.granEnemigo2013, "Argentina|Mendoza", banderas[0]);
+            //gran enemigo el cepillo 2012
+            a = new Album(wordsEnemigo[7], fondos[0], enemigoVinos[7], R.string.granenemigoelcepillo2012, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
-            //8 Gran Enemigo 2012 el Cepillo
-            a = new Album(wordsEnemigo[8], fondos[0], enemigoVinos[8], R.string.granEnemigo2013, "Argentina|Mendoza", banderas[0]);
+            //gran enemigo gualtallary
+            a = new Album(wordsEnemigo[8], fondos[0], enemigoVinos[8], R.string.granenemigogualtallary, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
-            //9 Gran Enemigo 2013 Gualtallary
-            a = new Album(wordsEnemigo[9], fondos[0], enemigoVinos[9], R.string.granEnemigo2013, "Argentina|Mendoza", banderas[0]);
+            //gran enemigo agrelo
+            a = new Album(wordsEnemigo[9], fondos[0], enemigoVinos[9], R.string.granenemigoagrelo, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
-            //10 Gran Enemigo Blend 2013
-            a = new Album(wordsEnemigo[10], fondos[0], enemigoVinos[10], R.string.granEnemigo2013, "Argentina|Mendoza", banderas[0]);
+            //el enemigo el mirador 2016
+            a = new Album(wordsEnemigo[10], fondos[0], enemigoVinos[10], R.string.elenemigoelmirador2016, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
-            //11 Gran Enemigo Chacayes 2012
-            a = new Album(wordsEnemigo[11], fondos[0], enemigoVinos[11], R.string.granEnemigo2013, "Argentina|Mendoza", banderas[0]);
+            //el enemigo los paraisos 2016
+            a = new Album(wordsEnemigo[11], fondos[0], enemigoVinos[11], R.string.elenemigolosparaisos2016, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
 
 

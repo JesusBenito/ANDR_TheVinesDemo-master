@@ -2,365 +2,706 @@
 <resources>
     <string-array name="ernestoCatena">
         //Ernesto Catena
-        0<item>Alma Negra Brut Nature</item>
-        1<item>Alma Negra Blanc</item>
-        2<item>Alma Negra Espumante 1.5L</item>
-        3<item>Alma Negra M Blend</item>
-        4<item>Alma Negra Mblend 500ml</item>
-        5<item>Alma Negra Misterio 500ml</item>
-        6<item>Alma Negra Misterio</item>
-        7<item>Alma Negra Vblend</item>
-        8<item>Animal C.S Organico</item>
-        9<item>Animal C.H Organico</item>
-        10<item>Animal Malbec Organico</item>
-        11<item>Gran Alma Negra 1.5L</item>
-        12<item>Gran Alma Negra</item>
-        13<item>Padrillos Blend</item>
-        14<item>Padrillos Malbec 375ml</item>
-        15<item>Padrillos Malbec 2017</item>
-        16<item>Padrillos Pinot Noir 2016</item>
-        17<item>Padrillos Torrontes</item>
-        18<item>Siesta 2014 Malbec</item>
-        19<item>Siesta C.S Biodinamico 2014</item>
-        20<item>Siesta C.S Biodinamico ED.Mexico</item>
-        21<item>Siesta C.S 2010</item>
-        22<item>Siesta Malbec 2013</item>
-        23<item>Siesta Malbec Biodinamico 2014</item>
-        24<item>Siesta Pinot Noir 2011</item>
-        25<item>Tahuan Bonarda 2011</item>
-        26<item>Tahuan Chardonnay</item>
-        27<item>Tahuan Malbec 2011</item>
-        28<item>Tikal Amorio Malbec 1.5 lts</item>
-        29<item>Tikal Amorio Malbec, C.Franc 2013</item>
-        30<item>Tikal Jubilo C.S Malbec 2006</item>
-        31<item>Tikal Patriota Malbec Bonarda</item>
-        32<item>Gran Siesta 2011</item>
+        0
+        <item>Alma Negra Blanco 2015</item>
+        1
+        <item>Alma Negra Tinto 2013</item>
+        2
+        <item>Gran Alma Negra 2011 1500ML</item>
+        3
+        <item>Gran Alma Negra 2011 750ML</item>
+        4
+        <item>Alma Negra Mblend 2013</item>
+        5
+        <item>Alma Negra Blanc de Blancs</item>
+        6
+        <item>Alma Negra Brut Nature</item>
+        7
+        <item>Alma Negra Orange</item>
+        8
+        <item>Stella Crinita Barbera Vino Tinto</item>
+        9
+        <item>Stella Crinita C.Franc Vino Tinto</item>
+        10
+        <item>Stella Crinita Petit Verdot Vino Tinto</item>
+        11
+        <item>Padrillos Pinot Noir 2016</item>
+        12
+        <item>Padrillos Malbec 2009</item>
+        13
+        <item>Padrillos Malbec 2017</item>
+        14
+        <item>Padrillos Blend 2005</item>
+        15
+        <item>Padrillos Torrontes</item>
+        16
+        <item>Gran Siesta Malbec 3000ML</item>
+        17
+        <item>Siesta Pinot Noir 2011</item>
+        18
+        <item>Siesta C.S 2010</item>
+        19
+        <item>Siesta Malbec 2013</item>
+        20
+        <item>Siesta Malbec Biodinamico 2014</item>
+        21
+        <item>Siesta Single Vineyard Malbec</item>
+        22
+        <item>Siesta C.S Biodinamico ED.Mexico</item>
+        23
+        <item>Animal Malbec Organico 2018</item>
+        24
+        <item>Animal C.S Organico 2018</item>
+        25
+        <item>Animal C.H Organico 2018</item>
+        26
+        <item>Tahuan Malbec 2016</item>
+        27
+        <item>Tahuan Chardonnay</item>
+        28
+        <item>Tahuan Bonarda 2011</item>
+        29
+        <item>Tikal Jubilo C.S Malbec 2006</item>
+        30
+        <item>Tikal Amorio Malbec 1.5 lts</item>
+        31
+        <item>Tikal Amorio Malbec, C.Franc 2013</item>
+        32
+        <item>Tikal Patriota Malbec Bonarda</item>
     </string-array>
 
     <string-array name="escorihuela">
         //Escorihuela
-        0<item>The Presidents Blend 1884 2015</item>
-        1<item>Capriccio Novecento Espumante Dulce Natural</item>
-        2<item>Circus Malbec 2017</item>
-        3<item>Circus Saiuvignon Blanc 2019</item>
-        4<item>Don Malbec 2012</item>
-        5<item>Escorihuela Gascon 375 mls 2017</item>
-        6<item>Escorihuela Gascon Cabernet Franc 2017</item>
-        7<item>Escorihuela Gascon Gran Reserva 2016 Chardonnay</item>
-        8<item>Escorihuela Gascon Gran Reserva Malbec</item>
-        9<item>Escorihuela Gascon Malbec 1.5L 2015</item>
-        10<item>Escorihuela Gascon Malbec 2018</item>
-        11<item>Escorihuela Gascon Organic Vineyard 2016</item>
-        12<item>Escorihuela Gascon Pequeñas Producciones Malbec 2017</item>
-        13<item>Escorihuela Gascon Pinot Noir 2018</item>
-        14<item>Escorihuela Gascon Sangiovese 2017</item>
-        15<item>Escorihuela Gascon Viogner</item>
-        16<item>Familia Gascon Dulce Natural</item>
-        17<item>Familia Gascon Malbec 2016</item>
-        18<item>Familia Gascon Rose 2018</item>
-        19<item>Familia Gascon Syrah 2018</item>
-        20<item>Miguel Escorihuela Gascon 2012</item>
-        21<item>Pequeñas Producciones C.Franc 2015</item>
-        22<item>Pequeñas Producciones C.S 2014</item>
-        23<item>Pequeñas Producciones Cabernet S 2014</item>
-        24<item>Pequeñas Producciones Pinot Noir 2017</item>
-        25<item>Sol Amante C.S 2016</item>
-        26<item>Escorihuela Gascon Chardonnay</item>
+        0
+        <item>Miguel Escorihuela Gascon 2012</item>
+        1
+        <item>Don Miguel Escorihuela Malbec 2012</item>
+        2
+        <item>The Presidents Blend 1884 2015</item>
+        3
+        <item>Pequeñas Producciones Pinot Noir 2017</item>
+        4
+        <item>Pequeñas Producciones C.Franc 2015</item>
+        5
+        <item>Pequeñas Producciones Malbec 2017</item>
+        6
+        <item>Pequeñas Producciones Cabernet S 2014</item>
+        7
+        <item>Familia Gascon Malbec 2018</item>
+        8
+        <item>Familia Gascon Syrah 2018</item>
+        9
+        <item>Familia Gascon Chardonnay 2019</item>
+        10
+        <item>Familia Gascon Rose 2018</item>
+        11
+        <item>Familia Gascon Dulce Natural 2015</item>
+        12
+        <item>Escorihuela Gascon Malbec 375 mls 2017</item>
+        13
+        <item>Escorihuela Gascon Malbec 750L 2018</item>
+        14
+        <item>Escorihuela Gascon Malbec 1.5L 2015</item>
+        15
+        <item>Escorihuela Gascon Viogner</item>
+        16
+        <item>Escorihuela Gascon Cabernet Franc 2017</item>
+        17
+        <item>Escorihuela Gascon Pinot Noir 2018</item>
+        18
+        <item>Escorihuela Gascon Sangvionese 2017</item>
+        19
+        <item>Escorihuela Gascon Sauvignon 2017</item>
+        20
+        <item>Escorihuela Gascon Gran Reserva Malbec 2017</item>
+        21
+        <item>Escorihuela Gascon Gran Reserva 2016 Chardonnay</item>
+        22
+        <item>Circus Malbec 2017</item>
+        23
+        <item>Circus Saiuvignon Blanc 2019</item>
+        24
+        <item>Escorihuela Gascon Organic Vineyard 2016</item>
+        25
+        <item>El Conquistador Red Blend</item>
+        26
+        <item>Carcassonne Clásico</item>
+
     </string-array>
 
     <string-array name="enemigo">
         //El enemigo
-        0<item>El Enemigo Bonarda 2016</item>
-        1<item>El Enemigo cabernet Franc 2015</item>
-        2<item>El Enemigo Chardonnay 2016</item>
-        3<item>El Enemigo el Mirador Bonarda 2013</item>
-        4<item>El Enemigo Malbec 1.5L 2016</item>
-        5<item>El Enemigo Malbec 2016</item>
-        6<item>El Enemigo Syrah Viognier 2016</item>
-        7<item>Gran Enemigo 2010 Agrelo</item>
-        8<item>Gran Enemigo 2012 el Cepillo</item>
-        9<item>Gran Enemigo 2013 Gualtallary</item>
-        10<item>Gran Enemigo Blend 2013</item>
-        11<item>Gran Enemigo Chacayes 2012</item>
+        0
+        <item>Gran Enemigo 2015</item>
+        1
+        <item>El Enemigo Cabernet Franc 2016</item>
+        2
+        <item>El Enemigo Malbec 2016</item>
+        3
+        <item>El Enemigo Bonarda 2016</item>
+        4
+        <item>El Enemigo Syrah Viognier 2016</item>
+        5
+        <item>El Enemigo Chardonnay 2016</item>
+        6
+        <item>Gran Enemigo Chacayes 2012</item>
+        6
+        <item>Gran Enemigo El Cepillo 2012</item>
+        8
+        <item>Gran Enemigo Gualtallary</item>
+        9
+        <item>Gran Enemigo Agrelo</item>
+        10
+        <item>El Enemigo El Mirador 2016</item>
+        11
+        <item>El Enemigo Los Paraísos 2016</item>
     </string-array>
 
-    <string-array name="vistalba">
-        //Vistalba
-        0<item>Arido Moscato 2015</item>
-        1<item>Arido S Blanc 2018</item>
-        2<item>Tomero C.S. 2012</item>
-        3<item>Tomero Cabernet Franc 2016</item>
-        4<item>Tomero Classic C.S 2012</item>
-        5<item>Tomero Classic Malbec 375ml  2012</item>
-        6<item>Tomero Classic Malbec 2018</item>
-        7<item>Tomero Classic Malbec Rose 2016</item>
-        8<item>Tomero Gran Reserva Malbec 2011</item>
-        9<item>Tomero Reserva Malbec 2011</item>
-        10<item>Tomero Reserva Petit Verdot 2015</item>
-        11<item>Tomero Reserva Syrah 2011</item>
-        12<item>Vistalba Corte A 2012</item>
-        13<item>Vistalba Corte B 2011</item>
-        14<item>Vistalba Corte C 2015</item>
-
-    </string-array>
-
-    <string-array name="patritti">
-        //Patritti
-        0<item>Primogenito Sangre Azul Merlot 2016</item>
-        1<item>Primogenito Sommelier 2012</item>
-        2<item>Primogenito Pinot Noir 2014</item>
-        3<item>Primogenito Blend 2013</item>
-        4<item>Primogenito Merlot 2011</item>
-        5<item>Primogenito Malbec 2008</item>
-        6<item>Primogenito Sangre Azul Pinot Noir</item>
-        7<item>Primogenito Cabernet Sauvignon</item>
-        8<item>Primogenito Sangre Azul Blend</item>
-        9<item>Primogenito Sangre Azul Chardonnay</item>
-    </string-array>
-
-    <string-array name="vicentin">
-        //Vicentin
-        0<item>Vicentin Blend de Malbec 2015</item>
-        1<item>Vicentin Blanc de Malbec 2017</item>
-        2<item>Reto Malbec 2016</item>
-        3<item>Reto Chardonnay 2018</item>
-        4<item>Reto Cabernet Sauvignon 2014</item>
-        5<item>Reto Cabernet Franc 2017</item>
-        6<item>Reto Blend 2016</item>
-        7<item>El Tramposo C.Franc 2016</item>
-        8<item>El Renegado C.S. 2016</item>
-        9<item>El Contrabandista Petit Verdot 2016</item>
-    </string-array>
-
-    <string-array name="robino">
-        0<item>Novecento Extra Brut Night</item>
-        1<item>Novecento Night Rosado</item>
-        2<item>Novecento Chardonnay 2018</item>
-        3<item>Capriccio Espumante</item>
-        4<item>Capriccio Tardio</item>
-        5<item>Novecento Cabernet</item>
-        6<item>Novecento Chardonnay</item>
-        7<item>Novecento Malbec</item>
-        8<item>Novecento Raices Cabernet Sauvignon</item>
-        9<item>Novecento Raices Malbec</item>
-        10<item>Novecento Syrah</item>
-    </string-array>
-
-    <string-array name="yacochuya">
-        0<item>Coqueña Tannat 2015</item>
-        1<item>Coqueña Malbec 2013</item>
-        2<item>Coqueña Torrontés 2012</item>
-        3<item>Yacochuya Blend 2011</item>
-        4<item>San pedro de Yacochuya 2012</item>
-    </string-array>
-
-    <string-array name="quintadoportal">
-        0<item>Douro Portal Moscatel Galego 2015</item>
-        1<item>Muros de Vinha blanco 2016</item>
-        2<item>Muros de Vinha Rose 2017</item>
-        3<item>Trevo Vinha Verde Branco 2018</item>
-        4<item>Douro Muros de Vinha Tinto</item>
-        5<item>Portal 6 Barrels</item>
-        7<item>Portal 10 Años 375 mls</item>
-        8<item>Portal 10 Años</item>
-        9<item>Portal 20 Años 375 mls</item>
-        10<item>Portal 20 Años 750 mls</item>
-        11<item>Portal 29 Grapes</item>
-        12<item>Portal 30 Años 750 mls</item>
-        13<item>Portal 40 Años 750 mls</item>
-        14<item>Portal Fine Ruby</item>
-        15<item>Portal Fine Tawny Porto</item>
-        16<item>Portal LBV</item>
-        17<item>Portal Moscatel Galego</item>
-        18<item>Portal Quinta Dos Muros Tinto Vintage 2014</item>
-        19<item>Portal Vintage 2000</item>
-        20<item>Portal Vintage 2003 375 mls</item>
-        21<item>Portal Vintage 2004</item>
-        22<item>Portal Vintage 2007 375 mls</item>
-        23<item>Portal Vintage 2011</item>
-    </string-array>
-    
-    <string-array name="canale">
-        //Canale
-        0<item>Black River Cabernet Sauvignon 2016</item>
-        1<item>Black River Malbec 2016</item>
-        2<item>Black River Merlot 2018</item>
-        3<item>Black River S Blanc 2017</item>
-        4<item>H.C Old Vineyard Pinot Noir Rose 2017</item>
-        5<item>H.C. Intimo Blend 2017</item>
-        6<item>H.C. Intimo C.S 2013</item>
-        7<item>H.C. Intimo Malbec 2014</item>
-        8<item>Humberto Canale Estate C.F. 2015</item>
-        9<item>Humberto Canale Estate C.S 2011</item>
-        10<item>Humberto Canale Estate P.N 2018</item>
-        11<item>Diego Murillo Malbec Magnun</item>
-        12<item>HC Gran Reeva Merlot</item>
-        13<item>HC Gran Rva Cabernet Franc</item>
-        14<item>HC Gran Rva Malbec</item>
-        15<item>Humberto Canale Centenium</item>
-
-    </string-array>
-
-    <string-array name="colome">
-        0<item>Altura Maxima Malbec 2014</item>
-        1<item>Amalaya  Rosado de Corte 2017</item>
-        2<item>Amalaya Gran Corte Malbec 2017</item>
-        3<item>Amalaya Torrontes 2018</item>
-        4<item>Colome Altura Maxima Malbec 2015</item>
-        5<item>Colome Altura Maxima</item>
-        6<item>Colome Autentico Malbec 2017</item>
-        7<item>Colome Estate Malbec 2016</item>
-        8<item>Colome Lote Especial el Arenal Malbec 2017</item>
-    </string-array>
-
-    <string-array name="durigutti">
-        0<item>Cara Sucia Cepas Tradicionales 2018</item>
-        1<item>Proyecto las Compuertas Cabernet Franc 2018</item>
-        2<item>Proyecto las Compuertas Charbono 2018</item>
-        3<item>Proyecto las Compuertas Cordisco 2017</item>
-        5<item>Proyecto las Compuertas Criolla Parral 2018</item>
-        6<item>Proyecto las Compuertas Malbec 5 Suelos 2016</item>
-        7<item>Proyecto las Compuertas Malbec 1914 2016</item>
-        8<item>Cara Sucia Cereza</item>
-    </string-array>
-
-    <string-array name="kopke">
-        0<item>Kopke Colheita 2001</item>
-        1<item>Kopke Colheita 2008</item>
-        2<item>Kopke lbv 2013</item>
-        3<item>Kopke 10 años 375 mls</item>
-        4<item>Kopke 10 años</item>
-        5<item>Kopke 20 años 375 mls</item>
-        6<item>Kopke 20 años</item>
-        7<item>Kopke 30 años</item>
-        8<item>Kopke 40 años</item>
-        9<item>Kopke Colheita 1984 375 mls</item>
-        10<item>Kopke Fine Tawny</item>
-        11<item>Kopque Colheita 2004</item>
-        12<item>Kopque Fine Ruby</item>
-        13<item>Kopque Reserve Rubi</item>
-        14<item>Kopque Reserve Tawny</item>
-    </string-array>
-    
+    //La Posta
     <string-array name="laposta">
-        0<item>La Posta 2016 Malbec</item>
-        1<item>La Posta Armando Bonarda 2017</item>
-        2<item>La Posta Blanco 2011</item>
-        3<item>La Posta Glorieta Pinot Noir 2015</item>
-        4<item>La Posta Pizzella 2012 Malbec</item>
-        5<item>La Posta Red Blend 2016</item>
-        6<item>Luca Beso de Dante 2015</item>
-        7<item>Luca Chardonnay 2014</item>
-        8<item>Luca Malbec 1.5L</item>
-        9<item>luca Pinot Noir 2015</item>
-        10<item>Luca Syrah Laborde 2011</item>
-        11<item>Nico By Luca 2014</item>
-        12<item>Nico By Luca lt 2007</item>
+        0
+        <item>Nico By Luca 2014</item>
+        1
+        <item>Luca Malbec 2015 1500 ML</item>
+        2
+        <item>Luca Malbec 2015 750 ML</item>
+        3
+        <item>Luca Beso de Dante 2016</item>
+        4
+        <item>Luca Chardonnay 2016</item>
+        5
+        <item>Luca Syrah 2016</item>
+        6
+        <item>Luca Pinot Noir 2015</item>
+        7
+        <item>La Posta Pinot Noir 2015</item>
+        8
+        <item>La Posta Malbec 2016</item>
+        9
+        <item>La Posta Cocina Blanco 2014</item>
+        10
+        <item>La Posta Armando Bonarda 2017</item>
+        11
+        <item>La Posta Tinto Red Blend 2016</item>
+        12
+        <item>La Posta Pizzella Malbec 2012</item>
     </string-array>
-    
-    <string-array name="maal">
-        0<item>Ambiguo Blanco de Malbec 2017</item>
-        1<item>Bestial Malbec 2014</item>
-        2<item>Biolento Malbec 2015</item>
-        3<item>Biutiful Malbec 2016</item>
-        4<item>Imposible Malbec 2014</item>
-        5<item>Rebelion Blend de Malbec 2016</item>
+
+    //Vistalba
+    <string-array name="vistalba">
+        0
+        <item>Vistalba Corte A 2012</item>
+        1
+        <item>Vistalba Corte B 2011</item>
+        2
+        <item>Vistalba Corte C 2017</item>
+        3
+        <item>Tomero Gran Reserva Malbec 2011</item>
+        4
+        <item>Tomero Malbec Rose 2018</item>
+        5
+        <item>Tomero Chardonnay 2016</item>
+        6
+        <item>Tomero Classic C.S 2014</item>
+        7
+        <item>Tomero Classic Cabernet Franc 2016</item>
+        8
+        <item>Tomero Classic Malbec 375ml 2017</item>
+        9
+        <item>Tomero Classic Malbec 2017</item>
+        10
+        <item>Tomero Reserva Malbec 2011</item>
+        11
+        <item>Tomero Reserva Petit Verdot 2015</item>
+        12
+        <item>Tomero Reserva Syrah 2011</item>
+        13
+        <item>Árido Moscato 2015</item>
+        14
+        <item>Arido Sauvignon Blanc 2019</item>
     </string-array>
-    
+
+    //Manos negras
     <string-array name="manosnegras">
-        0<item>Finca la Escuela Malbec 2011</item>
-        1<item>Manos Negras Malbec 2015</item>
-        2<item>manos Negras Pinot Noir 2013</item>
-        3<item>Teho Tomal Vineyard el Corte 2012</item>
-        4<item>Teho Tomal Vineyard Malbec 2011</item>
-        5<item>Tinto Negro Malbec Mendoza 2015</item>
-        6<item>Tinto Negro Malbec Uco Valley 2012</item>
-        7<item>Tinto Negro Mendoza Sangiovese 2015</item>
-        8<item>Tinto Negro Uco Valley Cabernet Franc 2014</item>
-        9<item>Vineyard 1955 Malbec 2011</item>
-        10<item>Vivo o Muerto la Verdad 2014</item>
-        11<item>Vivo o Muerto el Indio 2014</item>
-        12<item>Vivo o Muerto el Limite 2014</item>
-        13<item>vivo o Muerto el Manzano 2014</item>
-        14<item>Vivo o Muerto San Jorge 2014</item>
-        15<item>Zaha Cabernet Franc 2012</item>
-        16<item>Zaha Toko Vineyard el Corte 2016</item>
-        17<item>Manos Negras Atrevida Blend</item>
-        18<item>Manos Negras Malbec Stone Soil</item>
-        19<item>Manos Negras Pinor Noir  Red Soil</item>
-        20<item>Manos Negras Quimay Blend</item>
+        0
+        <item>Teho Malbec 2014</item>
+        1
+        <item>Teho El Corte 2014</item>
+        2
+        <item>Zaha Malbec 2014</item>
+        3
+        <item>Zaha El Corte 2016</item>
+        4
+        <item>Zaha Cabernet Franc 2016</item>
+        5
+        <item>Manos Negras Pinot Noir</item>
+        6
+        <item>Manos Negras Malbec</item>
+        7
+        <item>Manos Negras Soil Select Pinot Noir 2013</item>
+        8
+        <item>Manos Negras Atrevida Red Blend 2011</item>
+        9
+        <item>Manos Negras Quimay Red Blend 2013</item>
+        10
+        <item>Manos Negras Stone Soil Malbec 2013</item>
+
     </string-array>
 
-    <string-array name="pampamaya">
-        0<item>Pampa Maya Blend 2018</item>
-        1<item>Pampa Maya Syrah Nebbiolo 2018</item>
+    //Vivo o muerto
+    <string-array name="vivoomuerto">
+        0
+        <item>Vivo o Muerto La Verdad Gualtallarry 2016</item>
+        1
+        <item>Vivo o Muerto El Manzano Los Chacayes 2016</item>
+        2
+        <item>Vivo o Muerto El Limite 2016</item>
+        3
+        <item>Vivo o Muerto El Indio El Cepillo</item>
+        4
+        <item>Vivo o Muerto San Jorge Atamira 2016</item>
+
     </string-array>
 
-    <string-array name="riglos">
-        0<item>Quinto Malbec 2017</item>
-        1<item>Riglos Gran C.Franc  2014</item>
-        2<item>Riglos Gran C.S.2014</item>
-        3<item>Riglos Gran Corte 2013</item>
-        4<item>Riglos Gran Malbec 2014</item>
+    //Tinto negro
+
+    <string-array name="tintonegro">
+        0
+        <item>Tinto Negro Malbec Mendoza 2015</item>
+        1
+        <item>Tinto Negro Mendoza Sangiovese 2015</item>
+        2
+        <item>Tinto negro Uco Valley Cabernet Franc 2014 </item>
+        3
+        <item>Tinto Negro Uco Valley Reserve Malbec 2012</item>
+        4
+        <item>Finca La Escuela Malbec 2011</item>
+        5
+        <item>Vineyard 1955 Malbec 2012</item>
     </string-array>
 
-    <string-array name="scarpa">
-        0<item>Bricchi Barbera De Asti 2008</item>
-        1<item>La Bogliona Barbera 2006</item>
-        2<item>La Bogliona Barbera 2008</item>
-        3<item>La Bogliona Barbera 2009</item>
-        4<item>La Bogliona Barbera 1996</item>
-        5<item>La Bogliona Barbera 1997</item>
-        6<item>La Bogliona Barbera 2001</item>
-        7<item>La Bogliona Barbera 2004</item>
-        8<item>Scarpa Barolo  2010</item>
-        9<item>Scarpa Barolo 1978</item>
-        10<item>Scarpa Barolo 2009</item>
-        11<item>Scarpa Barolo 2013</item>
-        12<item>Tettimorra Scarpa Barolo</item>
+    //Vicentin
+    <string-array name="vicentin">
+        0
+        <item>Vicentin Blend de Malbec 2015</item>
+        1
+        <item>Vicentin Backbone 2012</item>
+        2
+        <item>Vicentin Gen 2012</item>
+        3
+        <item>Vicentin Robusto 2012</item>
+        4
+        <item>Vicentin Voraz 2012</item>
+        5
+        <item>El Renegado C.S. 2016</item>
+        6
+        <item>El Tramposo C.Franc 2016</item>
+        7
+        <item>El Contrabandista Petit Verdot 2016</item>
+        8
+        <item>Reto Chardonnay 2018</item>
+        9
+        <item>Reto Cabernet Franc 2017</item>
+        10
+        <item>Reto Blend 2016</item>
+        11
+        <item>Reto Cabernet Sauvignon 2014</item>
+        12
+        <item>Reto Malbec 2016</item>
+        13
+        <item>Maldito</item>
+        14
+        <item>Vicentin Blanc de Malbec 2017</item>
+        15
+        <item>Arrogante 2014</item>
+        16
+        <item>Colosso Malbec 2015</item>
+        17
+        <item>Legitimo Champange Frances</item>
     </string-array>
 
-    <string-array name="valduero">
-        0<item>Valduero Reserva 2011</item>
-        1<item>Valduero Reserva 3Lt 2011</item>
-        2<item>Valduero Reserva la Tenada 2010</item>
-        3<item>Valduero Reserva la Tenada 1.5LT 2010</item>
-        4<item>Valduero Reserva la Tenada 3LT 2010</item>
-        5<item>Valduero Crianza 3LT 2015</item>
-        6<item>Valduero Crianza 2014</item>
-    </string-array>
+    //Mapema
 
     <string-array name="mapema">
-        0<item>Mapema Grappa</item>
-        1<item>Mapema Malbec Tempranillo</item>
-        2<item>Mapema Malbec</item>
-        3<item>Mapema Pz</item>
-        4<item>Mapema Sauvignon Blanc</item>
+        0
+        <item>Mapema Pz Malbec 2008</item>
+        1
+        <item>Mapema Grappa Malbec</item>
+        2
+        <item>Mapema Sauvignon Blanc 2016</item>
+        3
+        <item>Mapema Malbec Tempranillo</item>
+        4
+        <item>Mapema Malbec 2012 100% Malbec</item>
+
     </string-array>
 
+    //Maal wine
+    <string-array name="maal">
+        0
+        <item>Imposible Malbec 2014</item>
+        1
+        <item>Biutiful Malbec 2017</item>
+        2
+        <item>Bestial Malbec 2016</item>
+        3
+        <item>Biolento Malbec 2016</item>
+        4
+        <item>Rebelion Malbec 2017</item>
+        5
+        <item>Ambiguo Blanco de Malbec 2016</item>
+    </string-array>
+
+
+    //Por una cabeza
+    <string-array name="porunacabeza">
+        0
+        <item>Por Una Cabeza Malbec 2018</item>
+        1
+        <item>Por Una Cabeza Bornarda 2016</item>
+        2
+        <item>Por Una Cabeza Cab. Sauvignon 2016</item>
+        3
+        <item>Por Una Cabeza Torrontés 2016</item>
+    </string-array>
+
+    //Dante Roobino
+    <string-array name="robino">
+        1
+        <item>Novecento Night Rosado</item>
+        1
+        <item>Capriccio Torrontés</item>
+        0
+        <item>Novecento Extra Brut Night</item>
+        0
+        <item>Capriccio Tardío</item>
+        2
+        <item>Novecento Chardonnay 2018</item>
+        2
+        <item>Novecento Syrah 2018</item>
+        2
+        <item>Novecento Malbec 2018</item>
+        2
+        <item>Novecento Cabernet Sauvignon 2018</item>
+        2
+        <item>Novecento Malbec 2011</item>
+        2
+        <item>Novecento Cabernet Sauvignon 2016</item>
+    </string-array>
+
+    //Canale
+    <string-array name="canale">
+        0
+        <item>Humberto Canale Centenium</item>
+        1
+        <item>Black River Malbec 2015</item>
+        2
+        <item>Black River Cabernet Sauvignon 2016</item>
+        3
+        <item>Black River Merlot 2016</item>
+        4
+        <item>Black River Sauvignon Blanc 2017</item>
+        5
+        <item>Íntimo Cabernet Sauvignon 2014</item>
+        6
+        <item>Íntimo Malbec 2015</item>
+        7
+        <item>Íntimo Blend 2017</item>
+        8
+        <item>Humberto Canale Cab. Sauvignon 2014</item>
+        9
+        <item>Humberto Canale Cabernet Franc 2015</item>
+        10
+        <item>Humberto Canale Pinot Noir 2015</item>
+        11
+        <item>Humberto Canale Malbec 2015</item>
+        12
+        <item>Old Vineyard Pinot Noir Rose 2017</item>
+    </string-array>
+
+    //patritti
+    <string-array name="patritti">
+        //Patritti
+        0
+        <item>Primogénito Malbec 2008</item>
+        1
+        <item>Primogénito Cabernet Sauvignon 2008</item>
+        2
+        <item>Primogénito Blend 2013</item>
+        3
+        <item>Primogénito Pinot Noir 2014</item>
+        4
+        <item>Primogénito Merlot 2011</item>
+        5
+        <item>Primogénito Sangre Azul Merlot 2016</item>
+        6
+        <item>Primogenito Sommelier 2012</item>
+        7
+        <item>Primogenito Sangre Azul Blend 2011</item>
+    </string-array>
+
+    //La guarda
+    <string-array name="laguarda">
+        0
+        <item>Vika Syrah Malbec 2014</item>
+        1
+        <item>Vika Syrah Cabernet Sauvignon 2014</item>
+    </string-array>
+    //Yacochuya
+    <string-array name="yacochuya">
+        0
+        <item>Coquena Tannat 2015</item>
+        1
+        <item>Coquena Malbec 2013</item>
+        2
+        <item>Yacochuya Blend 2011</item>
+        3
+        <item>San pedro de Yacochuya 2012</item>
+    </string-array>
+
+    //Colome
+    <string-array name="colome">
+        0
+        <item>Colome Autentico Malbec 2017</item>
+        1
+        <item>Colome Estate Malbec 2016</item>
+        2
+        <item>Colome Lote Especial El Arenal Malbec 2017</item>
+        3
+        <item>Amalaya Gran Corte Malbec 2015</item>
+        4
+        <item>Amalaya Blanco de Corte 2018</item>
+        5
+        <item>Amalaya Rosado 2017</item>
+        6
+        <item>Amalaya Malbec 2017</item>
+        7
+        <item>Altura Maxima Malbec 2015</item>
+
+    </string-array>
+
+    // Riglos
+    <string-array name="riglos">
+        0
+        <item>Riglos Gran C. Franc 2014</item>
+        1
+        <item>Riglos Gran Malbec 2014</item>
+        2
+        <item>Riglos Gran Corte 2014</item>
+        3
+        <item>Riglos Gran Cabernet Sauvignon 2014</item>
+        4
+        <item>Quinto Malbec 2017</item>
+    </string-array>
+
+    //durigutti
+    <string-array name="durigutti">
+        0
+        <item>Cara Sucia Cepas Tradicionales 2018</item>
+        1
+        <item>Cara Sucia Cereza</item>
+        2
+        <item>Proyecto las Compuertas Malbec 1914</item>
+        3
+        <item>Proyecto las Compuertas Cabernet Franc 2018</item>
+        4
+        <item>Proyecto las Compuertas Criolla Parral 2018</item>
+        5
+        <item>Proyecto las Compuertas Cordisco 2017</item>
+        6
+        <item>Proyecto las Compuertas Charbono 2018</item>
+        7
+        <item>Proyecto las Compuertas Malbec 5 Suelos 2016</item>
+    </string-array>
+
+    //Pampamaya
+    <string-array name="pampamaya">
+        0
+        <item>Pampa Maya Blend 2018</item>
+        1
+        <item>Pampa Maya Syrah Nebbiolo 2018</item>
+    </string-array>
+
+    //Quinta do Portal
+    <string-array name="quintadoportal">
+        0
+        <item>Portal Vintage Port 2011</item>
+        1
+        <item>Portal Late Bottled Vintage 2009</item>
+        2
+        <item>Portal Fine Ruby Porto</item>
+        3
+        <item>Portal Fine Tawny Porto</item>
+        4
+        <item>Portal 29 Grapes</item>
+        5
+        <item>Portal Six Barrels</item>
+        6
+        <item>Portal 10 Years Old</item>
+        7
+        <item>Portal 20 Years Old</item>
+        8
+        <item>Portal 30 Years Old</item>
+        9
+        <item>Portal 40 Years Old</item>
+        10
+        <item>Portal Porto Vintage 2003 375 ml</item>
+        11
+        <item>Portal Porto Vintage 2007 375 ml</item>
+        12
+        <item>Portal 10 Years Old 375 ml</item>
+        13
+        <item>Portal 20 Years Old 375 ml</item>
+        14
+        <item>Trevo Vinho Verde 2015</item>
+        15
+        <item>Muros de Vinha 2010</item>
+        16
+        <item>Muros de Vinha Rosé 2017</item>
+        17
+        <item>Muros de Vinha blanco 2016</item>
+        18
+        <item>Moscatel Galego 2016</item>
+        19
+        <item>Portal Vintage Port 2000 1500 ml</item>
+        20
+        <item>Portal Vintage Port 2004 1500 ml</item>
+    </string-array>
+
+
+    //Kopke
+    <string-array name="kopke">
+        0
+        <item>Kopke 10 Years Old</item>
+        1
+        <item>Kopke 20 Years Old</item>
+        2
+        <item>Kopke 30 Years Old</item>
+        3
+        <item>Kopke 40 Years Old</item>
+        4
+        <item>Kopke Fine Ruby</item>
+        5
+        <item>Kopke Fine Tawny</item>
+        6
+        <item>Kopke L.B.V 2013</item>
+        7
+        <item>Kopke Reserve Tawny</item>
+        8
+        <item>Kopke Reserve Ruby</item>
+        9
+        <item>Kopke White 10 Years Old</item>
+        10
+        <item>Kopke Tawny 20 Years Old</item>
+        11
+        <item>Kopke Porto Colheita 1984</item>
+        12
+        <item>Kopke Colheita Porto 2001</item>
+        13
+        <item>Kopke Colheita Porto 2004</item>
+        14
+        <item>Kopke Colheita Porto 2008</item>
+    </string-array>
+
+    //Bottega
     <string-array name="bottega">
-        0<item>Bottega Grappa Alexander</item>
-        1<item>Grappa Alexander Exquisite</item>
-        2<item>Grappa Sandro Bottega</item>
-        3<item>Grappa Aldo Bottega Barricata</item>
-        4<item>Grappa Aldo Bottega</item>
-        5<item>Grappa Sandro Bottega Fumé</item>
-        6<item>Crema Di Limoncino</item>
-        7<item>Limoncino</item>
-        8<item>Nero</item>
-        9<item>Sambuca Blanca</item>
-        10<item>Cuveé Espumante Brut</item>
-        11<item>Amaretto Accademia</item>
-        12<item>Limoncello Accademia</item>
-        13<item>Grappa Accademia</item>
+        0
+        <item>Bottega Grappa Alexander</item>
+        1
+        <item>Grappa Alexander Exquisite</item>
+        2
+        <item>Crema Di Limoncino</item>
+        3
+        <item>Limoncino</item>
+        4
+        <item>Nero</item>
+        5
+        <item>Sambuca Bianca</item>
+        6
+        <item>Cuveé Espumante Brut</item>
+        7
+        <item>Amaretto Accademia</item>
+        8
+        <item>Limoncino Accademia</item>
+        9
+        <item>Grappa Accademia Veneto</item>
     </string-array>
 
+    //Scarpa
+    <string-array name="scarpa">
+        0
+        <item>Monferrato Rosso Scarpa 2014 </item>
+        1
+        <item>Casa Scarpa Barbera D´Asti D.O.C.G. 2015 </item>
+        2
+        <item>Scarpa Rosé Espumante</item>
+        3
+        <item>Nebbiolo D Alba Doc</item>
+        4
+        <item>Dolcetto Dácqui D.O.C La Selva Di Moirano</item>
+        5
+        <item>Barbera Dásti La Bogliona D.O.C</item>
+        6
+        <item>Barolo D.O.C.G. El Vino De Los Reyes</item>
+        7
+        <item>Barbera D Asti cru "I Bricchi"</item>
+    </string-array>
+
+    //Disznoko
     <string-array name="disznoko">
-        0<item>Ezencia 2000</item>
-        1<item>Tokaji Late Harvest 2015</item>
-        2<item>Tokaji Aszú 6 Puttonyos 2002</item>
-        3<item>Tokaji Aszú 5 Puttonyos 2008</item>
-        4<item></item>
+        0
+        <item>Ezencia 2000</item>
+        1
+        <item>Tokaji Late Harvest 2016</item>
+        2
+        <item>Tokaji Aszú 6 Puttonyos 2002</item>
+        3
+        <item>Tokaji Aszú 5 Puttonyos 2008</item>
+    </string-array>
+    //Valduero
+    <string-array name="valduero">
+        0
+        <item>Gran Reserva 2007</item>
+        1
+        <item>Reserva 2011</item>
+        2
+        <item>Reserva 1500 ml 2011</item>
+        3
+        <item>Valduero Reserva Barrica 2010 750 ml</item>
+        4
+        <item>Valduero Reserva Barrica 2010 1500 ml</item>
+        5
+        <item>Valduero Reserva Barrica 2010 3000 ml</item>
+        6
+        <item>Crianza 500 ml 2011</item>
+        7
+        <item>Crianza 750 ml 2014</item>
+        8
+        <item>Crianza 1500 ml 2015</item>
+        9
+        <item>Valduero Rosado Roble</item>
+        10
+        <item>Garcia Viadero Albillo</item>
+    </string-array>
+
+    //Manzanos
+    <string-array name="manzanos">
+        0
+        <item>Dinastía Manzanos Reserva 2012</item>
+        1
+        <item>Dinastía Manzanos Blend 2016</item>
+        2
+        <item>Dinastía Manzanos Crianza 2013</item>
+        3
+        <item>Dinastía Manzanos Chardonnay 2016</item>
+        4
+        <item>Dinastía Manzanos Rosado 2016</item>
+    </string-array>
+
+    //Haut Charmes
+    <string-array name="hautcharmes">
+        0
+        <item>Haut Charmes 2015</item>
     </string-array>
 
 </resources>

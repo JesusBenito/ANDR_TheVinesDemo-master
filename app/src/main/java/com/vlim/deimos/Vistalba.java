@@ -15,7 +15,7 @@ import android.widget.SearchView;
 import java.util.ArrayList;
 import java.util.List;
 
-public class BodegaVistalba extends AppCompatActivity implements SearchView.OnQueryTextListener {
+public class Vistalba extends AppCompatActivity implements SearchView.OnQueryTextListener {
 
     public RecyclerView recyclerView;
     public AlbumsAdapter adapter;
@@ -66,92 +66,97 @@ public class BodegaVistalba extends AppCompatActivity implements SearchView.OnQu
     private void prepareAlbums() {
         final String[] wordsVistalba = getResources().getStringArray(R.array.vistalba);
         int[] vistalbaVinos = new int[]{
-                R.drawable.varidomoscato2015,
-                R.drawable.varidosblanc2018,
-                R.drawable.vtomerocs2012,
-                R.drawable.vtomerocabernetfranc2016,
+                R.drawable.vvistalbacortea2012,
+                R.drawable.vvistalbacorteb2011,
+                R.drawable.vvistalbacortec2015,
+                R.drawable.vtomerogranreservamalbec2011,
+                R.drawable.vtomeroclassicmalbecrose2016,
+                R.drawable.vtomerochardonnay2016,
                 R.drawable.vtomeroclassiccs2012,
+                R.drawable.vtomerocabernetfranc2016,
                 R.drawable.vtomeroclassicmalbec375ml2012,
                 R.drawable.vtomeroclassicmalbec2018,
-                R.drawable.vtomeroclassicmalbecrose2016,
-                R.drawable.vtomerogranreservamalbec2011,
                 R.drawable.vtomeroreservamalbec2011,
                 R.drawable.vtomeroreservapetitverdot2015,
                 R.drawable.vtomeroreservasyrah2011,
-                R.drawable.vvistalbacortea2012,
-                R.drawable.vvistalbacorteb2011,
-                R.drawable.vvistalbacortec2015
+                R.drawable.varidomoscato2015,
+                R.drawable.varidosblanc2018
+
         };
 
         int[] fondos = new int[]{
-                R.drawable.fondoredblend};
+                R.drawable.fv4};
 
         int[] banderas = new int[]{
-                R.drawable.logoargentina
+                R.drawable.fv4
         };
 
 
 
         for(int i =0 ;i <1; i++){
-            //Arido Moscato 2015
-            Album a = new Album(wordsVistalba[0], fondos[0], vistalbaVinos[0], R.string.almanegra_brut, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
 
-            //Arido S Blanc 2018
-            a = new Album(wordsVistalba[1], fondos[0], vistalbaVinos[1], R.string.almanegra_brut, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-
-            //Tomero C.S. 2012
-            a = new Album(wordsVistalba[2], fondos[0], vistalbaVinos[2], R.string.almanegra_brut, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-
-            //Tomero Cabernet Franc 2016
-            a = new Album(wordsVistalba[3], fondos[0], vistalbaVinos[3], R.string.almanegra_brut, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-
-            //Tomero Classic C.S 2012
-            a = new Album(wordsVistalba[4], fondos[0], vistalbaVinos[4], R.string.almanegra_brut, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-
-            //Tomero Classic Malbec 375ml 2012
-            a = new Album(wordsVistalba[5], fondos[0], vistalbaVinos[5], R.string.almanegra_brut, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-
-            //Tomero Classic Malbec 2018
-            a = new Album(wordsVistalba[6], fondos[0], vistalbaVinos[6], R.string.almanegra_brut, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-
-            //Tomero Classic Malbec Rose 2016
-            a = new Album(wordsVistalba[7], fondos[0], vistalbaVinos[7], R.string.almanegra_brut, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-
-            //Tomero Gran Reserva Malbec 2011
-            a = new Album(wordsVistalba[8], fondos[0], vistalbaVinos[8], R.string.almanegra_brut, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-
-            //Tomero Reserva Malbec 2011
-            a = new Album(wordsVistalba[9], fondos[0], vistalbaVinos[9], R.string.almanegra_brut, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-
-            //Tomero Reserva Petit Verdot 2015
-            a = new Album(wordsVistalba[10], fondos[0], vistalbaVinos[10], R.string.almanegra_brut, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-
-            //Tomero Reserva Syrah 2011
-            a = new Album(wordsVistalba[11], fondos[0], vistalbaVinos[11], R.string.almanegra_brut, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
 
             //Vistalba Corte A 2012
-            a = new Album(wordsVistalba[12], fondos[0], vistalbaVinos[12], R.string.almanegra_brut, "Argentina|Mendoza", banderas[0]);
+            Album a = new Album(wordsVistalba[0], fondos[0], vistalbaVinos[0], R.string.vistalbacortea2012, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
 
             //Vistalba Corte B 2011
-            a = new Album(wordsVistalba[13], fondos[0], vistalbaVinos[13], R.string.almanegra_brut, "Argentina|Mendoza", banderas[0]);
+            a = new Album(wordsVistalba[1], fondos[0], vistalbaVinos[1], R.string.vistalbacorteb2011, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
 
             //Vistalba Corte C 2015
-            a = new Album(wordsVistalba[14], fondos[0], vistalbaVinos[14], R.string.almanegra_brut, "Argentina|Mendoza", banderas[0]);
+            a = new Album(wordsVistalba[2], fondos[0], vistalbaVinos[2], R.string.vistalbacortec2017, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
+
+            //tomerogranreservamalbec2011
+             a = new Album(wordsVistalba[3], fondos[0], vistalbaVinos[3], R.string.tomerogranreservamalbec2011, "Argentina|Mendoza", banderas[0]);
+            albumList.add(a);
+
+            //tomeromalbecrose2018
+            a = new Album(wordsVistalba[4], fondos[0], vistalbaVinos[4], R.string.tomeromalbecrose2018, "Argentina|Mendoza", banderas[0]);
+            albumList.add(a);
+
+            //tomerochardonnay2016
+            a = new Album(wordsVistalba[4], fondos[0], vistalbaVinos[5], R.string.tomerochardonnay2016, "Argentina|Mendoza", banderas[0]);
+            albumList.add(a);
+
+            //tomeroclassiccs2014
+            a = new Album(wordsVistalba[6], fondos[0], vistalbaVinos[6], R.string.tomeroclassiccs2014, "Argentina|Mendoza", banderas[0]);
+            albumList.add(a);
+
+            //tomeroclassiccabernetfranc2016
+            a = new Album(wordsVistalba[7], fondos[0], vistalbaVinos[47], R.string.tomeroclassiccabernetfranc2016, "Argentina|Mendoza", banderas[0]);
+            albumList.add(a);
+
+            //tomeroclassicmalbec375ml2017
+            a = new Album(wordsVistalba[8], fondos[0], vistalbaVinos[8], R.string.tomeroclassicmalbec375ml2017, "Argentina|Mendoza", banderas[0]);
+            albumList.add(a);
+
+            //tomeroclassicmalbec2017
+            a = new Album(wordsVistalba[9], fondos[0], vistalbaVinos[9], R.string.tomeroclassicmalbec2017, "Argentina|Mendoza", banderas[0]);
+            albumList.add(a);
+
+            //tomeroreservamalbec2011
+            a = new Album(wordsVistalba[10], fondos[0], vistalbaVinos[10], R.string.tomeroreservamalbec2011, "Argentina|Mendoza", banderas[0]);
+            albumList.add(a);
+
+            //tomeroreservapetitverdot2015
+            a = new Album(wordsVistalba[11], fondos[0], vistalbaVinos[11], R.string.tomeroreservapetitverdot2015, "Argentina|Mendoza", banderas[0]);
+            albumList.add(a);
+
+            //tomeroreservasyrah2011
+            a = new Album(wordsVistalba[12], fondos[0], vistalbaVinos[12], R.string.tomeroreservasyrah2011, "Argentina|Mendoza", banderas[0]);
+            albumList.add(a);
+
+            //aridomoscato2015
+            a = new Album(wordsVistalba[13], fondos[0], vistalbaVinos[13], R.string.aridomoscato2015, "Argentina|Mendoza", banderas[0]);
+            albumList.add(a);
+
+            //aridosauvignonblanc2019
+            a = new Album(wordsVistalba[14], fondos[0], vistalbaVinos[14], R.string.aridosauvignonblanc2019, "Argentina|Mendoza", banderas[0]);
+            albumList.add(a);
+
+
 
             adapter = new AlbumsAdapter(this, albumList);
             recyclerView.setAdapter(adapter);

@@ -75,7 +75,7 @@ public class Patritti extends AppCompatActivity implements SearchView.OnQueryTex
         };
 
         int[] fondos = new int[]{
-                R.drawable.fondoredblend};
+                R.drawable.fv5};
 
         int[] banderas = new int[]{
                 R.drawable.logoargentina
@@ -85,39 +85,39 @@ public class Patritti extends AppCompatActivity implements SearchView.OnQueryTex
 
         for(int i =0 ;i <1; i++){
             //Primogenito Sangre Azul Merlot 2016
-            Album a = new Album(wordsPatritti[0], fondos[0], patrittiVinos[0], R.string.almanegra_brut, "Argentina|Mendoza", banderas[0]);
+            Album a = new Album(wordsPatritti[0], fondos[0], patrittiVinos[0], R.string.primogenitosangreazulmerlot2016, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
 
             //Primogenito Sommelier 2012
-            a = new Album(wordsPatritti[1], fondos[0], patrittiVinos[1], R.string.almanegra_brut, "Argentina|Mendoza", banderas[0]);
+            a = new Album(wordsPatritti[1], fondos[0], patrittiVinos[1], R.string.primogenitosommelier2012, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
             //Primogenito Pinot Noir 2014
-            a = new Album(wordsPatritti[2], fondos[0], patrittiVinos[2], R.string.almanegra_brut, "Argentina|Mendoza", banderas[0]);
+            a = new Album(wordsPatritti[2], fondos[0], patrittiVinos[2], R.string.primogenitopinotnoir2014, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
 
             //Primogenito Blend 2013
-            a = new Album(wordsPatritti[3], fondos[0], patrittiVinos[3], R.string.almanegra_brut, "Argentina|Mendoza", banderas[0]);
+            a = new Album(wordsPatritti[3], fondos[0], patrittiVinos[3], R.string.primogenitoblend2013, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
 
             //Primogenito Merlot 2011
-            a = new Album(wordsPatritti[4], fondos[0], patrittiVinos[4], R.string.almanegra_brut, "Argentina|Mendoza", banderas[0]);
+            a = new Album(wordsPatritti[4], fondos[0], patrittiVinos[4], R.string.primogenitomerlot2011, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
             //Primogenito Malbec 2008
-            a = new Album(wordsPatritti[5], fondos[0], patrittiVinos[5], R.string.almanegra_brut, "Argentina|Mendoza", banderas[0]);
+            a = new Album(wordsPatritti[5], fondos[0], patrittiVinos[5], R.string.primogenitomalbec2008, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
             //Primogenito Sangre Azul Pinot Noir
-            a = new Album(wordsPatritti[6], fondos[0], patrittiVinos[6], R.string.almanegra_brut, "Argentina|Mendoza", banderas[0]);
+            a = new Album(wordsPatritti[6], fondos[0], patrittiVinos[6], R.string.primogenitosangreazulpinotnoir, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
             //Primogenito Cabernet Sauvignon
-            a = new Album(wordsPatritti[7], fondos[0], patrittiVinos[7], R.string.almanegra_brut, "Argentina|Mendoza", banderas[0]);
+            a = new Album(wordsPatritti[7], fondos[0], patrittiVinos[7], R.string.primogenitocabernetsauvignon, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
 
             //Primogenito Sangre Azul Blend
-            a = new Album(wordsPatritti[8], fondos[0], patrittiVinos[8], R.string.almanegra_brut, "Argentina|Mendoza", banderas[0]);
+            a = new Album(wordsPatritti[8], fondos[0], patrittiVinos[8], R.string.primogenitosangreazulblend, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
 
             //Primogenito Sangre Azul Chardonnay
-            a = new Album(wordsPatritti[9], fondos[0], patrittiVinos[9], R.string.almanegra_brut, "Argentina|Mendoza", banderas[0]);
+            a = new Album(wordsPatritti[9], fondos[0], patrittiVinos[9], R.string.primogenitosangreazulchardonnay, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
 
             adapter = new AlbumsAdapter(this, albumList);

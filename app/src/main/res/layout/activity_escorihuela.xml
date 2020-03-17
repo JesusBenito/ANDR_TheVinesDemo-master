@@ -39,7 +39,7 @@
 
         </androidx.cardview.widget.CardView>
 
-        <include layout="@layout/content_main_ernesto" />
+        <include layout="@layout/content_main_escorihuela" />
     </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>

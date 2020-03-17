@@ -16,10 +16,10 @@
         <!-- item name="android:windowFullscreen">true</item -->
         <item name="android:windowNoTitle">true</item>
         <item name="android:windowActionBar">false</item>
+        <item name="android:windowFullscreen">true</item>
         <item name="windowActionBar">false</item>
         <item name="android:windowActionBarOverlay">true</item>
         <item name="android:windowEnterAnimation">@android:anim/fade_in</item>
-        <item name="android:windowBackground">@drawable/thevines</item>
     </style>
 
     <style name="SplashTheme" parent="android:Theme.NoTitleBar.Fullscreen">

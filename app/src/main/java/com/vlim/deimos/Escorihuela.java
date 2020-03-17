@@ -61,36 +61,36 @@ public class Escorihuela extends AppCompatActivity implements SearchView.OnQuery
         final String[] wordsescorihuela = getResources().getStringArray(R.array.escorihuela);
 
         int[] escorihuelaVinos = new int[]{
-                R.drawable.vthepresidentsblend18842015,
-                R.drawable.vcapriccionovecentoespumantedulcenatural,
-                R.drawable.vcircusmalbec2017,
-                R.drawable.vcircussaiuvignonblanc2019,
+                R.drawable.vmiguelescorihuelagascon2012,
                 R.drawable.vdonmalbec2012,
+                R.drawable.vthepresidentsblend18842015,
+                R.drawable.vpequenasproduccionespinotnoir2017,
+                R.drawable.vpequenasprodcfranc2015,
+                R.drawable.vpequenasproduccionesmalbec2017,
+                R.drawable.vpequenasproduccionescabernets2014,
+                R.drawable.vfamiliagasconmalbec2016,
+                R.drawable.vfamiliagasconsyrah2018,
+                R.drawable.vfamiliagasconchardonnay,
+                R.drawable.vfamiliagasconrose2018,
+                R.drawable.vfamiliagascondulcenatural,
                 R.drawable.vescorihuelagascon375mls2017,
-                R.drawable.vescorihuelagasconcabernetfranc2017,
-                R.drawable.vescorihuelagascongranreserva2016chardonnay,
-                R.drawable.vescorihuelagascongranreservamalbec,
-                R.drawable.vescorihuelagasconmalbec2015,
                 R.drawable.vescorihuelagasconmalbec2018,
-                R.drawable.vescorihuelagasconorganicvineyard2016,
-                R.drawable.vescorihuelagasconpequenasproduccionesmalbec2017,
+                R.drawable.vescorihuelagasconmalbec2015,
+                R.drawable.vescorihuelagasconviogner,
+                R.drawable.vescorihuelagasconcabernetfranc2017,
                 R.drawable.vescorihuelagasconpinotnoir2018,
                 R.drawable.vescorihuelagasconsangiovese2017,
-                R.drawable.vescorihuelagasconviogner,
-                R.drawable.vfamiliagascondulcenatural,
-                R.drawable.vfamiliagasconmalbec2016,
-                R.drawable.vfamiliagasconrose2018,
-                R.drawable.vfamiliagasconsyrah2018,
-                R.drawable.vmiguelescorihuelagascon2012,
-                R.drawable.vpequenasprodcfranc2015,
-                R.drawable.vpequenasprodcs2014,
-                R.drawable.vpequenasproduccionescabernets2014,
-                R.drawable.vpequenasproduccionespinotnoir2017,
-                R.drawable.solamantecs2016,
-                R.drawable.vescorihuelagasconchardonnay
+                R.drawable.vescorihuelagasconcabsauvignon2017,
+                R.drawable.vescorihuelagascongranreservamalbec,
+                R.drawable.vescorihuelagascongranreserva2016chardonnay,
+                R.drawable.vcircusmalbec2017,
+                R.drawable.vcircussaiuvignonblanc2019,
+                R.drawable.vescorihuelagasconorganicvineyard2016,
+                R.drawable.velconquistadorredblend,
+                R.drawable.vcarcassonneclasico
         };
         int[] fondos = new int[]{
-                R.drawable.fondoredblend};
+                R.drawable.fv2};
 
         int[] banderas = new int[]{
                 R.drawable.logoargentina};
@@ -99,86 +99,86 @@ public class Escorihuela extends AppCompatActivity implements SearchView.OnQuery
 
         for(int i =0 ;i<1; i++){
 
-            //0 The Presidents Blend 1884 2015
-            Album a = new Album(wordsescorihuela[0], fondos[0], escorihuelaVinos[0], R.string.thepresidentblend, "Argentina|Mendoza", banderas[0]);
+            //miguel escorihuela gascon 2012
+            Album a = new Album(wordsescorihuela[0], fondos[0], escorihuelaVinos[0], R.string.miguelescorihuelagascon2012, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
-            //1 Capriccio Novecento Espumante Dulce Natural
-            a = new Album(wordsescorihuela[1], fondos[0], escorihuelaVinos[1], R.string.thepresidentblend, "Argentina|Mendoza", banderas[0]);
+            //don malbec 2012
+            a = new Album(wordsescorihuela[1], fondos[0], escorihuelaVinos[1], R.string.donmalbec2012, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
-            //2 Circus Malbec 2017
-            a = new Album(wordsescorihuela[2], fondos[0], escorihuelaVinos[2], R.string.thepresidentblend, "Argentina|Mendoza", banderas[0]);
+            //the presidents blend 1884 2015
+            a = new Album(wordsescorihuela[2], fondos[0], escorihuelaVinos[2], R.string.thepresidentsblend18842015, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
-            //3 Circus Saiuvignon Blanc 2019
-            a = new Album(wordsescorihuela[3], fondos[0], escorihuelaVinos[3], R.string.thepresidentblend, "Argentina|Mendoza", banderas[0]);
+            //pequenas producciones pinot noir 2017
+            a = new Album(wordsescorihuela[3], fondos[0], escorihuelaVinos[3], R.string.pequenasproduccionespinotnoir2017, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
-            //4 Don Malbec 2012
-            a = new Album(wordsescorihuela[4], fondos[0], escorihuelaVinos[4], R.string.thepresidentblend, "Argentina|Mendoza", banderas[0]);
+            //pequenas producciones franc 2015
+            a = new Album(wordsescorihuela[4], fondos[0], escorihuelaVinos[4], R.string.pequenasproduccionesfranc2015, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
-            //5 Escorihuela Gascon 375 mls 2017
-            a = new Album(wordsescorihuela[5], fondos[0], escorihuelaVinos[5], R.string.thepresidentblend, "Argentina|Mendoza", banderas[0]);
+            //pequenas producciones malbec 2017
+            a = new Album(wordsescorihuela[5], fondos[0], escorihuelaVinos[5], R.string.pequenasproduccionesmalbec2017, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
-            //6 Escorihuela Gascon Cabernet Franc 2017
-            a = new Album(wordsescorihuela[6], fondos[0], escorihuelaVinos[6], R.string.thepresidentblend, "Argentina|Mendoza", banderas[0]);
+            //pequeñas producciones cabernets 2014
+            a = new Album(wordsescorihuela[6], fondos[0], escorihuelaVinos[6], R.string.pequenasproduccionescabernets2014, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
-            //7 Escorihuela Gascon Gran Reserva 2016 Chardonnay
-            a = new Album(wordsescorihuela[7], fondos[0], escorihuelaVinos[7], R.string.thepresidentblend, "Argentina|Mendoza", banderas[0]);
+            //familia gascon malbec 2018
+            a = new Album(wordsescorihuela[7], fondos[0], escorihuelaVinos[7], R.string.familiagasconmalbec2018, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
-            //8 Escorihuela Gascon Gran Reserva Malbec
-            a = new Album(wordsescorihuela[8], fondos[0], escorihuelaVinos[8], R.string.thepresidentblend, "Argentina|Mendoza", banderas[0]);
+            //familia gascon syrah 2018
+            a = new Album(wordsescorihuela[8], fondos[0], escorihuelaVinos[8], R.string.familiagasconsyrah2018, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
-            //9 Escorihuela Gascon Malbec 1.5L 2015
-            a = new Album(wordsescorihuela[9], fondos[0], escorihuelaVinos[9], R.string.thepresidentblend, "Argentina|Mendoza", banderas[0]);
+            //familia gascon chardonnay 2019
+            a = new Album(wordsescorihuela[9], fondos[0], escorihuelaVinos[9], R.string.familiagasconchardonnay2019, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
-            //10 Escorihuela Gascon Malbec 2018
-            a = new Album(wordsescorihuela[10], fondos[0], escorihuelaVinos[10], R.string.thepresidentblend, "Argentina|Mendoza", banderas[0]);
+            //familia gascon rose 2018
+            a = new Album(wordsescorihuela[10], fondos[0], escorihuelaVinos[10], R.string.familiagasconrose2018, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
-            //11 Escorihuela Gascon Organic Vineyard 2016
-            a = new Album(wordsescorihuela[11], fondos[0], escorihuelaVinos[11], R.string.thepresidentblend, "Argentina|Mendoza", banderas[0]);
+            //familia gascon dulce natural 2015
+            a = new Album(wordsescorihuela[11], fondos[0], escorihuelaVinos[11], R.string.familiagascondulcenatural2015, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
-            //12 Escorihuela Gascon Pequeñas Producciones Malbec 2017
-            a = new Album(wordsescorihuela[12], fondos[0], escorihuelaVinos[12], R.string.thepresidentblend, "Argentina|Mendoza", banderas[0]);
+            //escorihuela gascon malbec 375mls 2017
+            a = new Album(wordsescorihuela[12], fondos[0], escorihuelaVinos[12], R.string.escorihuelagasconmalbec375mls2017, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
-            //13 Escorihuela Gascon Pinot Noir 2018
-            a = new Album(wordsescorihuela[13], fondos[0], escorihuelaVinos[13], R.string.thepresidentblend, "Argentina|Mendoza", banderas[0]);
+            //escorihuela gascon malbec 750L 2018
+            a = new Album(wordsescorihuela[13], fondos[0], escorihuelaVinos[13], R.string.escorihuelagasconmalbec750L2018, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
-            //14 Escorihuela Gascon Sangiovese 2017
-            a = new Album(wordsescorihuela[14], fondos[0], escorihuelaVinos[14], R.string.thepresidentblend, "Argentina|Mendoza", banderas[0]);
+            //escorihuela gasco nmalbec 15L 2015
+            a = new Album(wordsescorihuela[14], fondos[0], escorihuelaVinos[14], R.string.escorihuelagasconmalbec15L2015, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
-            //15 Escorihuela Gascon Viogner
-            a = new Album(wordsescorihuela[15], fondos[0], escorihuelaVinos[15], R.string.thepresidentblend, "Argentina|Mendoza", banderas[0]);
+            //escorihuela gascon viogner
+            a = new Album(wordsescorihuela[15], fondos[0], escorihuelaVinos[15], R.string.escorihuelagasconviogner, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
-            //16 Familia Gascon Dulce Natural
-            a = new Album(wordsescorihuela[16], fondos[0], escorihuelaVinos[16], R.string.thepresidentblend, "Argentina|Mendoza", banderas[0]);
+            //escorihuela gascon cabernet franc 2017
+            a = new Album(wordsescorihuela[16], fondos[0], escorihuelaVinos[16], R.string.escorihuelagasconcabernetfranc2017, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
-            //17 Familia Gascon Malbec 2016
-            a = new Album(wordsescorihuela[17], fondos[0], escorihuelaVinos[17], R.string.thepresidentblend, "Argentina|Mendoza", banderas[0]);
+            //escorihuela gascon pinot noir 2018
+            a = new Album(wordsescorihuela[17], fondos[0], escorihuelaVinos[17], R.string.escorihuelagasconpinotnoir2018, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
-            //18 Familia Gascon Rose 2018
-            a = new Album(wordsescorihuela[18], fondos[0], escorihuelaVinos[18], R.string.thepresidentblend, "Argentina|Mendoza", banderas[0]);
+            //escorihuela gascon sangvionese 2017
+            a = new Album(wordsescorihuela[18], fondos[0], escorihuelaVinos[18], R.string.escorihuelagasconsangvionese2017, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
-            //19 Familia Gascon Syrah 2018
-            a = new Album(wordsescorihuela[19], fondos[0], escorihuelaVinos[19], R.string.thepresidentblend, "Argentina|Mendoza", banderas[0]);
+            //escorihuela gascon sauvignon 2017
+            a = new Album(wordsescorihuela[19], fondos[0], escorihuelaVinos[19], R.string.escorihuelagasconsauvignon2017, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
-            //20 Miguel Escorihuela Gascon 2012
-            a = new Album(wordsescorihuela[20], fondos[0], escorihuelaVinos[20], R.string.thepresidentblend, "Argentina|Mendoza", banderas[0]);
+            //escorihuela gascon gran reserva malbec 2017
+            a = new Album(wordsescorihuela[20], fondos[0], escorihuelaVinos[20], R.string.escorihuelagascongranreservamalbec2017, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
-            //21 Pequeñas Producciones C.Franc 2015
-            a = new Album(wordsescorihuela[21], fondos[0], escorihuelaVinos[21], R.string.thepresidentblend, "Argentina|Mendoza", banderas[0]);
+            //escorihuela gascon gran reserva 2016 chardonnay
+            a = new Album(wordsescorihuela[21], fondos[0], escorihuelaVinos[21], R.string.escorihuelagascongranreserva2016chardonnay, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
-            //22 Pequeñas Producciones C.S 2014
-            a = new Album(wordsescorihuela[22], fondos[0], escorihuelaVinos[22], R.string.thepresidentblend, "Argentina|Mendoza", banderas[0]);
+            //circus malbec 2017
+            a = new Album(wordsescorihuela[22], fondos[0], escorihuelaVinos[22], R.string.circusmalbec2017, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
-            //23 Pequeñas Producciones Cabernet S 2014
-            a = new Album(wordsescorihuela[23], fondos[0], escorihuelaVinos[23], R.string.thepresidentblend, "Argentina|Mendoza", banderas[0]);
+            //circus saiuvignon blanc 2019
+            a = new Album(wordsescorihuela[23], fondos[0], escorihuelaVinos[23], R.string.circussaiuvignonblanc2019, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
-            //24 Pequeñas Producciones Pinot Noir 2017
-            a = new Album(wordsescorihuela[24], fondos[0], escorihuelaVinos[24], R.string.thepresidentblend, "Argentina|Mendoza", banderas[0]);
+            //escorihuela gascon organic vineyard 2016
+            a = new Album(wordsescorihuela[24], fondos[0], escorihuelaVinos[24], R.string.escorihuelagasconorganicvineyard2016, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
-            //25 Sol Amante C.S 2016
-            a = new Album(wordsescorihuela[25], fondos[0], escorihuelaVinos[25], R.string.thepresidentblend, "Argentina|Mendoza", banderas[0]);
+            //el conquistador red blend
+            a = new Album(wordsescorihuela[25], fondos[0], escorihuelaVinos[25], R.string.elconquistadorredblend, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
-            //Escorihuela Gascon Chardonnay
-            a = new Album(wordsescorihuela[26], fondos[0], escorihuelaVinos[26], R.string.thepresidentblend, "Argentina|Mendoza", banderas[0]);
+            //carcassonne clasico
+            a = new Album(wordsescorihuela[26], fondos[0], escorihuelaVinos[26], R.string.carcassonneclasico, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
 
 

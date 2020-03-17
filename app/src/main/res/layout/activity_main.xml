@@ -267,7 +267,7 @@
                                     android:id="@+id/btn_quintadoportal"
                                     android:layout_width="match_parent"
                                     android:layout_height="240dp"
-                                    android:background="@drawable/ocho"
+                                    android:background="@drawable/nueve"
                                     android:src="@drawable/logobgquintado" />
 
                             </RelativeLayout>
@@ -290,7 +290,7 @@
                                     android:id="@+id/btn_manosnegras"
                                     android:layout_width="match_parent"
                                     android:layout_height="240dp"
-                                    android:background="@drawable/nueve"
+                                    android:background="@drawable/diez"
                                     android:src="@drawable/logomanosnegras" />
 
                             </RelativeLayout>
@@ -551,6 +551,106 @@
                                     android:layout_height="240dp"
                                     android:background="@drawable/veinte"
                                     android:src="@drawable/logolaguarda" />
+
+                            </RelativeLayout>
+                        </androidx.cardview.widget.CardView>
+                    </LinearLayout>
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginBottom="10dp"
+                        android:orientation="horizontal">
+
+                        <androidx.cardview.widget.CardView
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_marginRight="5dp"
+                            android:layout_weight="1"
+                            android:gravity="center"
+                            android:orientation="vertical">
+
+                            <RelativeLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent">
+
+                                <ImageView
+                                    android:id="@+id/btn_viviomuerto"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="240dp"
+                                    android:background="@drawable/veintiuno"
+                                    android:src="@drawable/logovivoomuerto" />
+
+                            </RelativeLayout>
+                        </androidx.cardview.widget.CardView>
+
+                        <androidx.cardview.widget.CardView
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_marginRight="5dp"
+                            android:layout_weight="1"
+                            android:gravity="center"
+                            android:orientation="vertical">
+
+                            <RelativeLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent">
+
+                                <ImageView
+                                    android:id="@+id/btn_tintonegro"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="240dp"
+                                    android:background="@drawable/veinte"
+                                    android:src="@drawable/logotintonegro" />
+
+                            </RelativeLayout>
+                        </androidx.cardview.widget.CardView>
+                    </LinearLayout>
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginBottom="10dp"
+                        android:orientation="horizontal">
+
+                        <androidx.cardview.widget.CardView
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_marginRight="5dp"
+                            android:layout_weight="1"
+                            android:gravity="center"
+                            android:orientation="vertical">
+
+                            <RelativeLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent">
+
+                                <ImageView
+                                    android:id="@+id/btn_mapema"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="240dp"
+                                    android:background="@drawable/veintiuno"
+                                    android:src="@drawable/logomapema" />
+
+                            </RelativeLayout>
+                        </androidx.cardview.widget.CardView>
+
+                        <androidx.cardview.widget.CardView
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_marginRight="5dp"
+                            android:layout_weight="1"
+                            android:gravity="center"
+                            android:orientation="vertical">
+
+                            <RelativeLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent">
+
+                                <ImageView
+                                    android:id="@+id/btn_tintonegro"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="240dp"
+                                    android:background="@drawable/veinte"
+                                    android:src="@drawable/logotintonegro" />
 
                             </RelativeLayout>
                         </androidx.cardview.widget.CardView>
