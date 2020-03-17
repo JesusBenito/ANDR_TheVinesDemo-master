@@ -95,75 +95,7 @@ public class QuintaPortal extends AppCompatActivity implements SearchView.OnQuer
 
         for(int i =0 ;i<1; i++){
 
-            //Douro Portal Moscatel Galego 2015
-            Album a = new Album(wordsQuintaPortal[0], fondos[0], quintaPortalVinos[0], R.string.douroportalmoscatelgalego2015, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-            //Muros de Vinha Blanco 2016
-            a = new Album(wordsQuintaPortal[1], fondos[0], quintaPortalVinos[1], R.string.murosdevinhablanco2016, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-            //Muros de Vinha Rose 2017
-            a = new Album(wordsQuintaPortal[2], fondos[0], quintaPortalVinos[2], R.string.murosdevinharose2017, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-            //Trevo Vinha Verde Branco 2018
-            a = new Album(wordsQuintaPortal[3], fondos[0], quintaPortalVinos[3], R.string.trevovinhaverdebranco2018, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-            //Douro Muros de Vinha Tinto
-            a = new Album(wordsQuintaPortal[4], fondos[0], quintaPortalVinos[4], R.string.douromurosdevinhatinto, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-            //Portal 6 Barrels
-            a = new Album(wordsQuintaPortal[5], fondos[0], quintaPortalVinos[5], R.string.portal6barrels, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-            //Portal 10 Años 375 mls
-            a = new Album(wordsQuintaPortal[6], fondos[0], quintaPortalVinos[6], R.string.portal10años375mls, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-            //Portal 10 Años
-            a = new Album(wordsQuintaPortal[7], fondos[0], quintaPortalVinos[7], R.string.portal10años, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-            //Portal 20 Años 375 mls
-            a = new Album(wordsQuintaPortal[8], fondos[0], quintaPortalVinos[8], R.string.portal20años375mls, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-            //Portal 20 Años 750 mls
-            a = new Album(wordsQuintaPortal[9], fondos[0], quintaPortalVinos[9], R.string.portal20años750mls, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-            //Portal 29 Grapes
-            a = new Album(wordsQuintaPortal[10], fondos[0], quintaPortalVinos[10], R.string.portal29grapes, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-            //Portal 30 Años 750 mls
-            a = new Album(wordsQuintaPortal[11], fondos[0], quintaPortalVinos[11], R.string.portal30años750mls, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-            //Portal 40 Años 750 mls
-            a = new Album(wordsQuintaPortal[12], fondos[0], quintaPortalVinos[12], R.string.portal40años750mls, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-            //Portal Fine Ruby
-            a = new Album(wordsQuintaPortal[13], fondos[0], quintaPortalVinos[13], R.string.portalfineruby, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-            //Portal Fine Tawny Porto
-            a = new Album(wordsQuintaPortal[14], fondos[0], quintaPortalVinos[14], R.string.portalfinetawnyporto, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-            //Portal LBV
-            a = new Album(wordsQuintaPortal[15], fondos[0], quintaPortalVinos[15], R.string.portallBV, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-            //Portal Moscatel Galego
-            a = new Album(wordsQuintaPortal[16], fondos[0], quintaPortalVinos[16], R.string.portalmoscatelgalego, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-            //Portal Quinta Dos Muros Tinto Vintage 2014
-            a = new Album(wordsQuintaPortal[17], fondos[0], quintaPortalVinos[17], R.string.portalquintasosmurostintovintage2014, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-            //Portal Vintage 2000
-            a = new Album(wordsQuintaPortal[18], fondos[0], quintaPortalVinos[18], R.string.portalvintage2000, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-            //Portal Vintage 2003 375 mls
-            a = new Album(wordsQuintaPortal[19], fondos[0], quintaPortalVinos[19], R.string.portalvintage2003375mls, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-            //Portal Vintage 2004
-            a = new Album(wordsQuintaPortal[20], fondos[0], quintaPortalVinos[20], R.string.portalvintage2004, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-            //Portal Vintage 2007 375 mls
-            a = new Album(wordsQuintaPortal[21], fondos[0], quintaPortalVinos[21], R.string.portalvintage2003375mls, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-            //Portal Vintage 2011
-            a = new Album(wordsQuintaPortal[22], fondos[0], quintaPortalVinos[22], R.string.portalvintage2011, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
+
 
             adapter = new AlbumsAdapter(this, albumList);
             recyclerView.setAdapter(adapter);

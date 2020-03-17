@@ -105,20 +105,7 @@ public class Patritti extends AppCompatActivity implements SearchView.OnQueryTex
             //Primogenito Malbec 2008
             a = new Album(wordsPatritti[5], fondos[0], patrittiVinos[5], R.string.primogenitomalbec2008, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
-            //Primogenito Sangre Azul Pinot Noir
-            a = new Album(wordsPatritti[6], fondos[0], patrittiVinos[6], R.string.primogenitosangreazulpinotnoir, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-            //Primogenito Cabernet Sauvignon
-            a = new Album(wordsPatritti[7], fondos[0], patrittiVinos[7], R.string.primogenitocabernetsauvignon, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
 
-            //Primogenito Sangre Azul Blend
-            a = new Album(wordsPatritti[8], fondos[0], patrittiVinos[8], R.string.primogenitosangreazulblend, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-
-            //Primogenito Sangre Azul Chardonnay
-            a = new Album(wordsPatritti[9], fondos[0], patrittiVinos[9], R.string.primogenitosangreazulchardonnay, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
 
             adapter = new AlbumsAdapter(this, albumList);
             recyclerView.setAdapter(adapter);

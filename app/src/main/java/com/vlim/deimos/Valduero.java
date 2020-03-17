@@ -110,15 +110,6 @@ public class Valduero extends AppCompatActivity implements SearchView.OnQueryTex
             //Valduero Reserva la Tenada 3lt 2010
             a = new Album(wordsValduero[7], fondos[0], valdueroVinos[7], R.string.retomalbec2016, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
-            //Valduero Reserva la Tenada 2010
-            a = new Album(wordsValduero[8], fondos[0], valdueroVinos[8], R.string.vicentinarrogante, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-            //Valduero Rosado
-            a = new Album(wordsValduero[9], fondos[0], valdueroVinos[9], R.string.vicentinbackbone, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-            //Valdero Blanco
-            a = new Album(wordsValduero[10], fondos[0], valdueroVinos[10], R.string.vicentinblancdemalbec2017, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
 
 
             adapter = new AlbumsAdapter(this, albumList);

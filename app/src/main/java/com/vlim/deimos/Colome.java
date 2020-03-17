@@ -97,38 +97,6 @@ public class Colome extends AppCompatActivity implements SearchView.OnQueryTextL
             Album a = new Album(wordsColome[0], fondos[0], colomeVinos[0], R.string.aridomoscato2015, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
 
-            //Amalaya  Rosado de Corte 2017
-            a = new Album(wordsColome[1], fondos[0], colomeVinos[1], R.string.aridosblanc2018, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-
-            //Amalaya Gran Corte Malbec 2017
-            a = new Album(wordsColome[2], fondos[0], colomeVinos[2], R.string.tomerocs2012, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-
-            //Amalaya Torrontes 2018
-            a = new Album(wordsColome[3], fondos[0], colomeVinos[3], R.string.tomerocabernetfranc2016, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-
-            //Colome Altura Maxima Malbec 2015
-            a = new Album(wordsColome[4], fondos[0], colomeVinos[4], R.string.tomeroclassiccs2012, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-
-            //Colome Altura Maxima
-            a = new Album(wordsColome[5], fondos[0], colomeVinos[5], R.string.tomeroclassicmalbec375ml2012, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-
-            //Colome Autentico Malbec 2017
-            a = new Album(wordsColome[6], fondos[0], colomeVinos[6], R.string.tomeroclassicmalbec2018, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-
-            //Colome Estate Malbec 2016
-            a = new Album(wordsColome[7], fondos[0], colomeVinos[7], R.string.tomeroclassicmalbecrose2016, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-
-            //Colome Lote Especial el Arenal Malbec 2017
-            a = new Album(wordsColome[8], fondos[0], colomeVinos[8], R.string.tomerogranreservamalbec2011, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-
             adapter = new AlbumsAdapter(this, albumList);
             recyclerView.setAdapter(adapter);
 

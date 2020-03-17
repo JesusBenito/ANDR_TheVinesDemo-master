@@ -98,66 +98,6 @@ public class Canale extends AppCompatActivity implements SearchView.OnQueryTextL
             Album a = new Album(wordsCanale[0], fondos[0], canaleVinos[0], R.string.blackrivercabernetsauvignon2016, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
 
-            //Black River Malbec 2016
-            a = new Album(wordsCanale[1], fondos[0], canaleVinos[1], R.string.blackrivermalbec2016, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-
-            //Black River Merlot 2018
-            a = new Album(wordsCanale[2], fondos[0], canaleVinos[2], R.string.blackrivermerlot2018, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-
-            //Black River S Blanc 2017
-            a = new Album(wordsCanale[3], fondos[0], canaleVinos[3], R.string.blackriversblanc2017, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-
-            //H.C. Old Vineyard Pinot Noir Rose 2017
-            a = new Album(wordsCanale[4], fondos[0], canaleVinos[4], R.string.hcoldvineyardpinotnoirrose2017, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-
-            //H.C. Intimo Blend 2017
-            a = new Album(wordsCanale[5], fondos[0], canaleVinos[5], R.string.hcintimoblend2017, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-
-            //H.C. Intimo C.S 2013
-            a = new Album(wordsCanale[6], fondos[0], canaleVinos[6], R.string.hcintimocs2013, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-
-            //H.C. Intimo Malbec 2014
-            a = new Album(wordsCanale[7], fondos[0], canaleVinos[7], R.string.hcintimomalbec2014, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-
-            //H.C. Gran Reserva Merlot
-            a = new Album(wordsCanale[8], fondos[0], canaleVinos[8], R.string.hcgranreevamerlot, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-
-            //H.C. Gran Rva Cabernet Franc
-            a = new Album(wordsCanale[9], fondos[0], canaleVinos[9], R.string.hcgranrvacabernetfran, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-
-            //H.C. Gran Rva Malbec
-            a = new Album(wordsCanale[10], fondos[0], canaleVinos[10], R.string.hcgranrvamalbec, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-
-            //Humberto Canale Centenium
-            a = new Album(wordsCanale[11], fondos[0], canaleVinos[11], R.string.humbertocanalecentenium, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-
-            //Humberto Canale Estate C.F. 2015
-            a = new Album(wordsCanale[12], fondos[0], canaleVinos[12], R.string.humbertocanaleestatecf2015, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-
-            //Humberto Canale Estate C.S 2011
-            a = new Album(wordsCanale[13], fondos[0], canaleVinos[13], R.string.humbertocanaleestatecs2011, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-
-            //Humberto Canale Estate P.N 2018
-            a = new Album(wordsCanale[14], fondos[0], canaleVinos[14], R.string.humbertocanaleestatepn2018, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-
-            //Diego Murillo Malbec Magnun
-            a = new Album(wordsCanale[15], fondos[0], canaleVinos[15], R.string.diegomurillomalbecmagnun, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-
             adapter = new AlbumsAdapter(this, albumList);
             recyclerView.setAdapter(adapter);
 

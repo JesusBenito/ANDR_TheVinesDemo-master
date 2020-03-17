@@ -125,7 +125,7 @@ public class Vistalba extends AppCompatActivity implements SearchView.OnQueryTex
             albumList.add(a);
 
             //tomeroclassiccabernetfranc2016
-            a = new Album(wordsVistalba[7], fondos[0], vistalbaVinos[47], R.string.tomeroclassiccabernetfranc2016, "Argentina|Mendoza", banderas[0]);
+            a = new Album(wordsVistalba[7], fondos[0], vistalbaVinos[7], R.string.tomeroclassiccabernetfranc2016, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
 
             //tomeroclassicmalbec375ml2017

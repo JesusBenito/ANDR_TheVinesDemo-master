@@ -64,19 +64,14 @@ public class Mapema extends AppCompatActivity implements SearchView.OnQueryTextL
 
 
     private void prepareAlbums() {
-        final String[] wordsManosNegras = getResources().getStringArray(R.array.manosnegras);
+        final String[] wordsMapema = getResources().getStringArray(R.array.mapema);
         int[] mapemaVinos = new int[]{
                 R.drawable.vmapemapzmalbec2008,
                 R.drawable.vmapemagrappamalbec,
                 R.drawable.vzahamalbec2014,
-                R.drawable.vzahaelcorte2016,
-                R.drawable.vzahacabernetfranc2012,
-                R.drawable.vmanosnegraspinotnoir2013,
-                R.drawable.vmanosnegrasmalbec2015,
-                R.drawable.vmanosnegraspinornoirredsoil,
-                R.drawable.vmanosnegrasatrevidablend,
-                R.drawable.vmanosnegrasquimayblend,
-                R.drawable.vmanosnegrasmalbecstonesoil
+                R.drawable.vmapemasauvignonblanc2016,
+                R.drawable.vmapemamalbectempranillo,
+                R.drawable.vmapemamalbec
         };
 
         int[] fondos = new int[]{
@@ -90,31 +85,23 @@ public class Mapema extends AppCompatActivity implements SearchView.OnQueryTextL
 
         for(int i =0 ;i <1; i++){
             //mapema pz malbec 2008
-            Album a = new Album(wordsManosNegras[0], fondos[0], mapemaVinos[0], R.string.mapemapzmalbec2008, "Argentina|Mendoza", banderas[0]);
+            Album a = new Album(wordsMapema[0], fondos[0], mapemaVinos[0], R.string.mapemapzmalbec2008, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
 
-            //tehoelcorte2014
-            a = new Album(wordsManosNegras[1], fondos[0], mapemaVinos[1], R.string.tehoelcorte2014, "Argentina|Mendoza", banderas[0]);
+            //mapema grappa malbec
+            a = new Album(wordsMapema[1], fondos[0], mapemaVinos[1], R.string.mapemagrappamalbec, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
 
-            //zahamalbec2014
-            a = new Album(wordsManosNegras[2], fondos[0], mapemaVinos[2], R.string.zahamalbec2014, "Argentina|Mendoza", banderas[0]);
+            //mapema sauvignon blanc 2016
+            a = new Album(wordsMapema[2], fondos[0], mapemaVinos[2], R.string.mapemasauvignonblanc2016, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
 
-            //zahaelcorte2016
-            a = new Album(wordsManosNegras[3], fondos[0], mapemaVinos[3], R.string.zahaelcorte2016, "Argentina|Mendoza", banderas[0]);
+            //mapema malbec tempranillo
+            a = new Album(wordsMapema[3], fondos[0], mapemaVinos[3], R.string.mapemamalbectempranillo, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
 
-            //zahacabernetfranc2016
-            a = new Album(wordsManosNegras[4], fondos[0], mapemaVinos[4], R.string.zahacabernetfranc2016, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-
-            //manosnegraspinotnoir
-            a = new Album(wordsManosNegras[5], fondos[0], mapemaVinos[5], R.string.manosnegraspinotnoir, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-
-            //manosnegrasmalbec
-            a = new Album(wordsManosNegras[6], fondos[0], mapemaVinos[6], R.string.manosnegrasmalbec, "Argentina|Mendoza", banderas[0]);
+            //mapema malbec 2012
+            a = new Album(wordsMapema[4], fondos[0], mapemaVinos[4], R.string.mapemamalbec2012100malbec, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
 
 

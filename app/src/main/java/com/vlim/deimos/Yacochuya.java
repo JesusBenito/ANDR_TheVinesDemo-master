@@ -77,25 +77,6 @@ public class Yacochuya extends AppCompatActivity implements SearchView.OnQueryTe
 
         for(int i =0 ;i <1; i++){
 
-            //Coqueña Tannat 2015
-            Album a = new Album(wordsYacochuya[0], fondos[0], yacochuyaVinos[0], R.string.coquenatannat2015, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-
-            //Coqueña Malbec 2013
-            a = new Album(wordsYacochuya[1], fondos[0], yacochuyaVinos[0], R.string.coquenamalbec2013, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-
-            //Coqueña Torrontés 2012
-            a = new Album(wordsYacochuya[2], fondos[0], yacochuyaVinos[0], R.string.coquenatorrontés2012, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-
-            //Yacochuya Blend 2011
-            a = new Album(wordsYacochuya[3], fondos[0], yacochuyaVinos[0], R.string.almanegrabrutnature, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
-
-            //San pedro de Yacochuya 2012
-            a = new Album(wordsYacochuya[4], fondos[0], yacochuyaVinos[0], R.string.sanpedrodeyacochuya2012, "Argentina|Mendoza", banderas[0]);
-            albumList.add(a);
 
 
 

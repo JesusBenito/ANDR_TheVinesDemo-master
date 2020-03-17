@@ -66,12 +66,12 @@ public class Maal extends AppCompatActivity implements SearchView.OnQueryTextLis
     private void prepareAlbums() {
         final String[] wordsMaal = getResources().getStringArray(R.array.maal);
         int[] maalVinos = new int[]{
-                R.drawable.vambiguoblancodemalbec2017,
+                R.drawable.vimposiblemalbec2014,
+                R.drawable.vbiutifulmalbec2016,
                 R.drawable.vbestialmalbec2014,
                 R.drawable.vbiolentomalbec2015,
-                R.drawable.vbiutifulmalbec2016,
-                R.drawable.vimposiblemalbec2014,
-                R.drawable.vrebelionblenddemalbec2016
+                R.drawable.vrebelionblenddemalbec2016,
+                R.drawable.vambiguoblancodemalbec2017
         };
 
         int[] fondos = new int[]{
@@ -84,30 +84,29 @@ public class Maal extends AppCompatActivity implements SearchView.OnQueryTextLis
 
 
         for(int i =0 ;i <1; i++){
-            //Ambiguo Blanco de Malbec 201
-            Album a = new Album(wordsMaal[0], fondos[0], maalVinos[0], R.string.aridomoscato2015, "Argentina|Mendoza", banderas[0]);
+            //imposible malbec 2014
+            Album a = new Album(wordsMaal[0], fondos[0], maalVinos[0], R.string.imposiblemalbec2014, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
 
-            //Bestial Malbec 2014
-            a = new Album(wordsMaal[1], fondos[0], maalVinos[1], R.string.aridosblanc2018, "Argentina|Mendoza", banderas[0]);
+            //biutifulmalbec2017
+            a = new Album(wordsMaal[1], fondos[0], maalVinos[1], R.string.biutifulmalbec2017, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
 
-            //Biolento Malbec 2015
-            a = new Album(wordsMaal[2], fondos[0], maalVinos[2], R.string.tomerocs2012, "Argentina|Mendoza", banderas[0]);
+            //bestial malbec 2016
+            a = new Album(wordsMaal[2], fondos[0], maalVinos[2], R.string.bestialmalbec2016, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
 
-            //Biutiful Malbec 2016
-            a = new Album(wordsMaal[3], fondos[0], maalVinos[3], R.string.tomerocabernetfranc2016, "Argentina|Mendoza", banderas[0]);
+            //biolento malbec 2016
+            a = new Album(wordsMaal[3], fondos[0], maalVinos[3], R.string.biolentomalbec2016, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
 
-            //Imposible Malbec 2014
-            a = new Album(wordsMaal[4], fondos[0], maalVinos[4], R.string.tomeroclassiccs2012, "Argentina|Mendoza", banderas[0]);
+            //rebelion malbec 2017
+            a = new Album(wordsMaal[4], fondos[0], maalVinos[4], R.string.rebelionmalbec2017, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
 
-            //Rebelion Blend de Malbec 2016
-            a = new Album(wordsMaal[5], fondos[0], maalVinos[5], R.string.tomeroclassicmalbec375ml2012, "Argentina|Mendoza", banderas[0]);
+            //ambiguo blanco de malbec 2016
+            a = new Album(wordsMaal[4], fondos[0], maalVinos[4], R.string.ambiguoblancodemalbec2016, "Argentina|Mendoza", banderas[0]);
             albumList.add(a);
-
 
             adapter = new AlbumsAdapter(this, albumList);
             recyclerView.setAdapter(adapter);
